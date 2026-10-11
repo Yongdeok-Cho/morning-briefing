@@ -56,7 +56,8 @@ is_today = view == today
 edition = pl.load_edition(view)
 
 password = store.cfg("APP_PASSWORD")
-unlocked = st.session_state.get("unlocked", False) or (not password and store.mode() == "local")
+# 비밀번호가 설정되지 않았으면 항상 잠김 (공개 홈페이지에서 실수로 열리지 않도록)
+unlocked = bool(password) and st.session_state.get("unlocked", False)
 
 # ════════════════════════════════════════════════════════════════
 #  사이드바: 아카이브 · 비공개 접근 · 설정
@@ -70,15 +71,19 @@ with st.sidebar:
     render(ui.archive_nav(entries, view))
 
     with st.expander("Private Access", expanded=False):
-        if unlocked:
+        if not password:
+            st.caption("비밀번호가 아직 설정되지 않았습니다. Streamlit 앱 Settings → Secrets에 APP_PASSWORD를 추가하세요.")
+        elif unlocked:
             render('<div class="lock-state">◆ Unlocked</div>')
-            if password and st.button("Lock"):
+            if store.mode() != "github":
+                st.caption("⚠ 비공개 저장소가 연결되지 않아 노트가 영구 저장되지 않습니다. Secrets의 GH_PRIVATE_REPO, GH_TOKEN_PRIVATE를 확인하세요.")
+            if st.button("Lock"):
                 st.session_state["unlocked"] = False
                 st.rerun()
         else:
             pw = st.text_input("Password", type="password", key="pw")
             if pw:
-                if password and hmac.compare_digest(pw, password):
+                if hmac.compare_digest(pw, password):
                     st.session_state["unlocked"] = True
                     st.rerun()
                 else:
