@@ -1,0 +1,10 @@
+.streamlit/secrets.toml
+private/
+notes/
+static/*.otf
+static/*.ttf
+static/*.woff
+static/*.woff2
+logos/
+__pycache__/
+*.pyc
