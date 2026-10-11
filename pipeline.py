@@ -192,15 +192,33 @@ def _work(w):
     }
 
 
+ERRORS = []  # 검색 실패 이유 (Actions 로그와 notices에 표시)
+
+
 def openalex(search, filt="", sort="relevance_score:desc", n=15):
+    """OpenAlex 검색. 실패하면 이유를 ERRORS에 남기고, 429(사용량 초과)면 잠시 쉬었다 한 번 재시도"""
+    import time
     p = {"search": search, "per-page": n, "sort": sort}
     if filt:
         p["filter"] = filt
-    try:
-        r = _get("https://api.openalex.org/works", params=p)
-        return [_work(w) for w in r.json().get("results", []) if w.get("title")]
-    except Exception:
-        return []
+    key = store.cfg("OPENALEX_API_KEY")
+    if key:
+        p["api_key"] = key
+    for attempt in range(2):
+        try:
+            r = _get("https://api.openalex.org/works", params=p, timeout=25)
+            if r.status_code == 429 and attempt == 0:
+                time.sleep(5)
+                continue
+            if r.status_code != 200:
+                ERRORS.append(f"OpenAlex {r.status_code}: {r.text[:120]}")
+                return []
+            return [_work(w) for w in r.json().get("results", []) if w.get("title")]
+        except Exception as e:
+            ERRORS.append(f"OpenAlex 오류: {type(e).__name__} {str(e)[:100]}")
+            return []
+    ERRORS.append("OpenAlex 429: 사용량 한도 초과")
+    return []
 
 
 def past_dois(exclude_date=""):
@@ -225,6 +243,13 @@ def pick_papers(today, k=2):
         for w in openalex(q, f"from_publication_date:{since},has_abstract:true,type:article", n=25):
             key = (w["doi"] or w["title"]).lower()
             if key not in keys and key not in seen and len(w["abstract"]) > 300:
+                keys.add(key)
+                pool.append(w)
+    if not pool:  # 2차: 기간 3년, 초록 필터 없이 넓혀서 다시
+        since3 = (today - timedelta(days=3 * 365)).strftime("%Y-%m-%d")
+        for w in openalex("chemical mechanical polishing", f"from_publication_date:{since3}", n=40):
+            key = (w["doi"] or w["title"]).lower()
+            if key not in keys and key not in seen and len(w["abstract"]) > 200:
                 keys.add(key)
                 pool.append(w)
     if not pool:
@@ -257,8 +282,12 @@ def search_patents(query, k=2):
     inner = f"q=({query})&num=20&type=PATENT"
     try:
         r = _get(f"https://patents.google.com/xhr/query?url={quote(inner, safe='')}&exp=")
+        if r.status_code != 200:
+            ERRORS.append(f"Google Patents {r.status_code}")
+            return []
         j = r.json()
-    except Exception:
+    except Exception as e:
+        ERRORS.append(f"Google Patents 오류: {type(e).__name__}")
         return []
     res, owners = [], set()
     for cl in (j.get("results") or {}).get("cluster", []):
@@ -446,11 +475,11 @@ def build_edition(api_key, model_name="gemini-3.8-flash", focus=None, theme=None
     papers = pick_papers(now)
     readings = pick_readings(paper_q)
     if not papers:
-        notices.append("오늘의 논문 검색 결과가 없습니다.")
+        notices.append("오늘의 논문 검색 결과가 없습니다." + (f" ({ERRORS[-1]})" if ERRORS else ""))
     log("특허를 검색하는 중 (Google Patents)")
     patents = search_patents(patent_q)
     if not patents:
-        notices.append("특허 검색에 실패했습니다. 다음 호에서 다시 시도합니다.")
+        notices.append("특허 검색에 실패했습니다." + (f" ({ERRORS[-1]})" if ERRORS else ""))
 
     log("Gemini가 편집하는 중")
     data = call_gemini(api_key, model_name, build_prompt(rows, news, papers, readings, patents, focus, ko))
@@ -518,3 +547,5 @@ if __name__ == "__main__":
     print("saved:", EDITIONS / f"{ed['date']}.json", "|", ed["summary"])
     for n in ed["notices"]:
         print("notice:", n)
+    for e in dict.fromkeys(ERRORS):
+        print("search error:", e)
