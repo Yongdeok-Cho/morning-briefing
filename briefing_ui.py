@@ -90,8 +90,8 @@ _GRAIN = ("url(\"data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'
 def css(font_faces: str = "") -> str:
     return f"""
 <style>
-{font_faces}
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500&family=Noto+Serif+KR:wght@300;400;500;600;700&family=Jost:wght@300;400;500&display=swap');
+{font_faces}
 :root {{
   --ink:{INK}; --ink-soft:{INK_SOFT}; --mute:{MUTE}; --paper:{PAPER}; --paper-deep:{PAPER_DEEP};
   --rule:{RULE}; --gold:{GOLD}; --up:{UP}; --down:{DOWN};
@@ -417,6 +417,20 @@ details.longread[open] .lr-more::after {{ content:"Close ×"; font-size:.6rem; }
 .review li b {{ font-weight:600; color:var(--ink); }}
 .rv-us {{ margin-top:1.6rem; padding-top:1.2rem; border-top:1px solid var(--rule); }}
 .rv-us p {{ font-family:var(--body); font-weight:300; font-size:.98rem; line-height:1.9; color:var(--ink); margin:.5rem 0 0; word-break:keep-all; }}
+
+
+/* Streamlit 기본 제목 스타일·앵커 아이콘 무력화 */
+[data-testid="stHeaderActionElements"], .stApp h1 a, .stApp h2 a, .stApp h3 a, .stApp h4 a {{ display:none !important; }}
+.stApp h1.mast-title {{ font-family:var(--display) !important; font-weight:300 !important; font-size:clamp(3.2rem,8.5vw,7.4rem) !important;
+  line-height:.95 !important; letter-spacing:-.015em !important; padding:0 !important; margin:2.2rem 0 .6rem !important; color:var(--ink) !important; }}
+.stApp h1.mast-title em {{ font-family:var(--display) !important; font-style:italic !important; font-weight:300 !important; color:var(--gold) !important; }}
+.stApp h3.ins-head {{ font-family:var(--display) !important; font-weight:400 !important; font-style:italic !important; font-size:1.95rem !important; line-height:1.3 !important; padding:0 !important; }}
+.stApp h3.art-title {{ font-family:var(--display) !important; font-weight:500 !important; font-size:2.05rem !important; line-height:1.2 !important; padding:0 !important; }}
+.stApp .study-head h3 {{ font-family:var(--display) !important; font-weight:500 !important; font-size:2.3rem !important; line-height:1.2 !important; padding:0 !important; }}
+.stApp .idea h4, .stApp .need h4, .stApp .locked h4 {{ font-family:var(--display) !important; font-weight:500 !important; padding:0 !important; }}
+.stApp .idea h4 {{ font-size:1.42rem !important; }} .stApp .need h4 {{ font-size:1.35rem !important; }} .stApp .locked h4 {{ font-size:1.7rem !important; color:var(--paper) !important; }}
+.stApp .read-row h5 {{ font-family:var(--display) !important; font-weight:500 !important; font-size:1.28rem !important; padding:0 !important; }}
+.stApp blockquote {{ font-family:var(--display) !important; }}
 
 /* Colophon */
 .colophon {{ margin-top:5.5rem; text-align:center; }}
