@@ -1,0 +1,571 @@
+{
+ "date": "2026-10-11",
+ "generated_at": "2026-10-11T21:44+09:00",
+ "summary": "공정 생략 위협과 난삭재 CMP의 돌파구",
+ "theme": "SiC·GaN 화합물 반도체 CMP",
+ "day": 21,
+ "total_days": 22,
+ "rows": [
+  {
+   "name": "TSMC",
+   "code": "TSM",
+   "price": 453.30999755859375,
+   "chg": -1.0218547949893573,
+   "cap": 2351.08040704,
+   "cur": "$"
+  },
+  {
+   "name": "ASML",
+   "code": "ASML",
+   "price": 1780.3399658203125,
+   "chg": 0.5961117717331627,
+   "cap": 683.828576256,
+   "cur": "$"
+  },
+  {
+   "name": "Intel",
+   "code": "INTC",
+   "price": 104.69999694824219,
+   "chg": -2.222641802497864,
+   "cap": 553.455190016,
+   "cur": "$"
+  },
+  {
+   "name": "SK Hynix",
+   "code": "000660",
+   "price": 1681000.0,
+   "chg": -2.4376088218224026,
+   "cap": 1195317.986852864,
+   "cur": "₩"
+  },
+  {
+   "name": "Samsung",
+   "code": "005930",
+   "price": 262000.0,
+   "chg": -2.4208566108007448,
+   "cap": 1720439.613161472,
+   "cur": "₩"
+  },
+  {
+   "name": "AMAT",
+   "code": "AMAT",
+   "price": 507.0299987792969,
+   "chg": -0.4984611551726926,
+   "cap": 402.377703424,
+   "cur": "$"
+  }
+ ],
+ "tocs": [],
+ "notices": [
+  "오늘의 논문 검색 결과가 없습니다."
+ ],
+ "data": {
+  "edition_summary": "공정 생략 위협과 난삭재 CMP의 돌파구",
+  "market_insight": {
+   "headline": "증착 기반 CMP 대체 시도와 소모품 시장의 구조적 방어선",
+   "bullets": [
+    "**증착 기술의 공정 잠식** — ASM의 플로어블 카본은 일부 평탄화 단계에서 ==CMP 생략 가능성==을 제기함",
+    "**패드 소모품의 고성장 지속** — 첨단 노드 비중 확대에 힘입어 2035년까지 연마 패드 시장은 연 5~7% 성장 궤적 유지",
+    "**원천 소재 다변화 압박** — 테이진의 PFAS-free 레진 확대는 슬러리 첨가제 및 패드 바인더 규제 대응 촉진"
+   ],
+   "longread": {
+    "title": "공정 간소화 기술의 공습과 CMP 소모품의 본질적 방어 기제",
+    "dek": "PECVD 유동성 박막 기술의 CMP 대체 위협 속에서 고난도 계면 제어가 요구되는 소모품 시장의 실질적 가치를 짚는다.",
+    "paragraphs": [
+     "ASM이 플로어블 카본 PECVD 기술을 공개하며 평탄화 CMP 공정의 생략 가능성을 시사하자, 증시와 공급망 일각에서는 단위 웨이퍼당 CMP 스텝 수 감소를 우려하기 시작했다. 증착 단계에서 자체 유동성으로 단차를 메우는 기술은 마스크 절감과 원가 개선 측면에서 매력적이나, 이는 국소 단차 피복에 국한된 솔루션일 가능성이 높다. 광역 평탄화(Global Planarization) 관점에서 볼 때 화학기계적 연마가 제공하는 다층 박막 간 완벽한 수평도는 박막 증착만으로 달성하기 어렵다.",
+     "글로벌 CMP 소모품 시장의 지표는 오히려 다른 방향을 가리키고 있다. 첨단 노드로 진입할수록 요구 단차 허용치가 원자층 수준으로 좁혀지면서 패드 및 슬러리의 구조적 수요는 견고하다. Fujimi의 실적 및 배당 전망 상향과 패드 시장의 5~7% 성장 전망은 공정 난도 증가가 소모품 단가 및 투입량 확대로 전이되는 전형적인 수혜 국면을 반영한다.",
+     "여기에 Hubei Dinglong의 급성장과 국내 장비·소재 밸류체인의 자본 축적은 CMP 생태계 내부의 재편 압력을 보여준다. 케이씨텍이 3년간 1,323억 원의 잉여현금을 창출하며 내부 유보를 늘린 점은 차세대 CMP 슬러리와 장비 융합 기술 선점을 위한 투자 체력을 축적하고 있음을 방증한다. 단순 산화물 연마를 넘어선 고선택비 복합 슬러리와 기능성 나노 실리카 적용이 핵심 승부처로 부상했다.",
+     "결국 시장이 간과하는 것은 공정 대체 기술의 등장이 곧 CMP 소모품의 퇴출을 의미하지 않는다는 점이다. 오히려 공정 난도가 극단화될수록 나노 실리카 표면 개질과 PFAS 규제에 대응한 친환경 폴리머 패드처럼 계면 화학의 한계를 돌파하는 고부가가치 소재 기업의 협상력은 더욱 공고해진다.",
+     "반대 시나리오로, 만약 플로어블 박막 기술이 카본계를 넘어 실리콘 산화막 및 금속 배선 영역까지 확장되어 광역 평탄도 0.5nm 이하를 달성한다면, 단위 공정당 슬러리 소비량 감소는 현실화될 수 있다."
+    ],
+    "pull_quote": "장비 기술이 평탄화 스텝을 줄이려 할 때마다 박막 계면의 결함 한계치는 도리어 CMP 소재의 정밀도를 강제한다.",
+    "watch": [
+     "ASM 플로어블 카본 공정의 실제 양산 라인 적용 범위",
+     "첨단 패드 시장 내 7나노 이하 노드 채택 속도",
+     "Fujimi 및 Dinglong의 분기별 슬러리 출하 실적"
+    ]
+   }
+  },
+  "industry_needs": [
+   {
+    "need": "PFAS 대체 소재 개발",
+    "pain": "강화되는 글로벌 친환경 규제 기준을 충족하는 레진 및 불소계 계면활성제 대안 확보 시급",
+    "refs": [
+     7
+    ]
+   },
+   {
+    "need": "CMP 생략 공정 대응",
+    "pain": "플로어블 PECVD 박막 확산에 맞서 복합 단차 해소와 고선택비 연마 효율 확보 필요",
+    "refs": [
+     17
+    ]
+   },
+   {
+    "need": "나노 실리카 품질 고도화",
+    "pain": "전자재료 및 정밀 CMP용 고순도 분산 안정성을 갖춘 나노 실리카 합성 수요 증가",
+    "refs": [
+     3
+    ]
+   }
+  ],
+  "cmp_tech": [
+   {
+    "tag": "공정 간소화 대응",
+    "title": "플로어블 카본 PECVD 등장에 따른 **하드마스크 CMP** 대체 및 공정 재정립",
+    "lede": "PECVD 기반 유동성 박막 기술로 CMP 스텝을 축소하려는 시도에 맞서 고선택비 연마 슬러리의 신규 역할 정립이 요구된다.",
+    "points": [
+     {
+      "label": "배경",
+      "text": "ASM이 CMP를 생략할 수 있는 유동성 카본 증착 기술을 발표함"
+     },
+     {
+      "label": "핵심 기술",
+      "text": "단차 피복성을 극대화하여 평탄화 CMP 공정을 물리적으로 배제"
+     },
+     {
+      "label": "효과",
+      "text": "패터닝 공정 단축을 통한 제조 원가 절감 및 사이클 타임 개선"
+     },
+     {
+      "label": "시사점",
+      "text": "잔여 단차 제거 및 광역 평탄화를 위한 초정밀 잔막 제거 기술로 전환 필요"
+     }
+    ],
+    "key_figures": [
+     {
+      "value": "12%대↑",
+      "label": "장비주 주가 급등률"
+     }
+    ],
+    "refs": [
+     9,
+     17
+    ],
+    "players": [
+     {
+      "name": "ASM",
+      "role": "장비",
+      "activity": "CMP 생략 가능한 플로어블 카본 PECVD 신기술 공개",
+      "refs": [
+       17
+      ]
+     },
+     {
+      "name": "케이씨텍",
+      "role": "장비",
+      "activity": "잉여현금 축적 및 평탄화 장비·슬러리 포트폴리오 운용",
+      "refs": [
+       2,
+       9
+      ]
+     }
+    ],
+    "longread": {
+     "title": "증착 기반 무평탄화(No-CMP) 기술의 현실적 한계와 슬러리 생태계",
+     "dek": "자체 평탄화 박막의 한계 단차와 결함률을 고려할 때 완전한 CMP 배제는 제한적 영역에 머문다.",
+     "paragraphs": [
+      "ASM의 플로어블 카본 기술 공개는 평탄화가 당연시되던 하드마스크 형성 영역에서 새로운 기술적 질문을 던진다. 액체처럼 흘러 트렌치를 균일하게 채우는 박막 증착은 평탄화 단계를 완전히 건너뛸 수 있다는 기대를 낳았다. 그러나 국소 단차가 해소되더라도 패턴 밀도 차이로 인해 발생하는 대면적 로딩 이펙트(Loading Effect)는 증착 공정 단독으로 해결하기 어렵다.",
+      "결국 광역 단차 제어가 미흡하면 포토리소그래피 공정의 초점 심도(DOF) 마진이 훼손되므로 미세 선폭 구현이 불가능해진다. 따라서 증착 후 초고선택비를 가진 화학 슬러리를 이용해 표면 융기부만 살짝 걷어내는 **터치업 CMP** 공정이 대안으로 정착될 공산이 크다. 슬러리 소모량은 감소할 수 있으나 단위 체적당 연마 제어 난도는 훨씬 상승한다.",
+      "이 과정에서 케이씨텍을 비롯한 CMP 장비 및 소재 기업들은 기존의 단순 고제거율 연마 대신, 초박막 잔막만을 선택적으로 정밀 제어하는 공정 솔루션으로 중심축을 옮겨야 한다. 증착 장비사의 공정 잠식 시도는 역설적으로 CMP 공정의 스텝 다양화와 정밀화를 촉진하는 자극제로 작용하고 있다.",
+      "만약 차세대 증착 기술이 300mm 웨이퍼 전 영역에서 패턴 밀도와 무관하게 완전한 광역 평탄도를 확보한다면 하드마스크 평탄화용 슬러리 수요는 영구적으로 축소될 수 있다."
+     ],
+     "pull_quote": "증착이 아무리 평탄해도 패턴 밀도의 차이가 만드는 광역 굴곡은 결국 계면 연마의 몫으로 남는다.",
+     "watch": [
+      "글로벌 파운드리의 하드마스크 CMP 스텝 수 변동",
+      "플로어블 카본 적용 레이어의 후속 노광 수율",
+      "선택적 잔막 제거용 전용 슬러리 개발 여부"
+     ]
+    },
+    "diagram": {
+     "title": "플로어블 카본 증착 후 잔류 표면의 선택적 평탄화",
+     "abrasive": "실리카",
+     "pad": "폴리우레탄",
+     "polish_stop_after": 0,
+     "layers": [
+      {
+       "name": "Flowable C",
+       "material": "poly-Si",
+       "role": "희생 평탄화층",
+       "thickness": 0.8,
+       "remove": true
+      },
+      {
+       "name": "Hardmask",
+       "material": "SiN",
+       "role": "하부 마스크",
+       "thickness": 0.5,
+       "remove": false
+      },
+      {
+       "name": "Dielectric",
+       "material": "SiO2",
+       "role": "절연체",
+       "thickness": 1.2,
+       "remove": false
+      }
+     ],
+     "caption": "플로어블 카본 박막의 상부 국소 융기부를 초저압으로 제어 연마하는 구조"
+    }
+   },
+   {
+    "tag": "소재 고도화",
+    "title": "첨단 노드 진입에 따른 **CMP 연마 패드** 및 기능성 소재의 세대교체",
+    "lede": "7나노 이하 노드의 미세화 요구와 PFAS 규제가 맞물리며 고경도 다공성 패드와 친환경 수지 수요가 급증하고 있다.",
+    "points": [
+     {
+      "label": "배경",
+      "text": "2035년까지 7나노 이하 첨단 노드가 연마 패드 시장 성장을 견인"
+     },
+     {
+      "label": "핵심 기술",
+      "text": "미세 거칠기 제어 및 PFAS-free 고기능성 수지 도입"
+     },
+     {
+      "label": "효과",
+      "text": "표면 결함 방지, 마이크로 스크래치 저감 및 환경 규제 준수"
+     },
+     {
+      "label": "시사점",
+      "text": "패드 표면 거칠기 제어가 난삭재 및 초미세 배선의 평탄화 수율 직결"
+     }
+    ],
+    "key_figures": [
+     {
+      "value": "5~7%",
+      "label": "패드 연평균 성장률"
+     }
+    ],
+    "refs": [
+     7,
+     8,
+     12,
+     13
+    ],
+    "players": [
+     {
+      "name": "Hubei Dinglong",
+      "role": "패드",
+      "activity": "첨단 CMP 패드 사업 확장을 통한 급격한 성장 달성",
+      "refs": [
+       11
+      ]
+     },
+     {
+      "name": "Fujimi",
+      "role": "슬러리",
+      "activity": "CMP 슬러리 및 웨이퍼 연마재 수요 호조로 실적 전망 상향",
+      "refs": [
+       1
+      ]
+     },
+     {
+      "name": "Teijin",
+      "role": "소재",
+      "activity": "PFAS-free 고기능성 수지 라인업 확장",
+      "refs": [
+       7
+      ]
+     }
+    ],
+    "longread": {
+     "title": "나노 스케일 접촉역학이 요구하는 차세대 패드 물성과 환경 규제의 교차점",
+     "dek": "미세 선폭 노드에서 패드 조도와 화학적 첨가제의 물리적 결합 한계를 진단한다.",
+     "paragraphs": [
+      "7나노 이하 로직 공정과 첨단 3D 메모리에서 디싱과 에로전의 마진은 1nm 미만으로 압축되었다. IndexBox 보고서가 지적하듯 연마 패드 시장이 연 5~7%의 견조한 성장을 유지하는 근본 배경은 단순히 웨이퍼 투입량 증가 때문만이 아니라, 첨단 노드에서 요구되는 패드의 소모 주기 단축과 스펙 고도화에 기인한다. 미세 기공의 균일성과 고탄성 복원력을 갖춘 패드만이 입자 응집에 의한 스크래치를 억제할 수 있다.",
+      "동시에 테이진의 PFAS-free 수지 확장처럼 패드 바인더와 슬러리 윤활 성분 전반에 걸친 환경 규제 대응이 핵심 변수로 부상했다. 기존 불소계 첨가제는 패드 표면의 친수성 제어와 유동 마찰 저감에 기여해왔으나, 규제로 인해 이를 대체할 친환경 고분자 설계가 필수적이다. 화학적 개질 없는 단순 대체는 슬러리 분산 불안정성과 직결되어 결함 밀도를 폭발시킬 수 있다.",
+      "중국의 Dinglong이 CMP 패드 시장에서 창업자들을 억만장자 반열에 올릴 정도로 급성장한 것은 후발 주자들도 원천 물성 제어에 성공할 경우 시장 침투가 극도로 빠를 수 있음을 보여준다. 슬러리와 패드는 독립된 부품이 아니라 트라이볼로지 접촉면에서 일체로 작동하므로, 슬러리 제조사 역시 패드의 조도 변화에 연동된 배합 최적화를 동시에 수행해야 한다.",
+      "만약 패드의 신뢰성이 확보되지 못하고 불소 대체 소재가 조기 마모 현상을 일으킨다면, 첨단 노드에서의 불량률 상승으로 인해 기존 레거시 공정 대비 생산 원가가 급등할 위험이 상존한다."
+     ],
+     "pull_quote": "패드의 미세 기공 제어 실패는 슬러리 입자가 가하는 압력을 국소 전단 응력으로 왜곡시켜 미세 스크래치를 양산한다.",
+     "watch": [
+      "패드 내 PFAS 완전 대체 소재의 양산 적용 평가",
+      "7나노 이하 노드용 패드의 단위 웨이퍼당 수명 주기",
+      "Dinglong의 하이엔드 노드 진입 속도"
+     ]
+    },
+    "diagram": {
+     "title": "초미세 배선 평탄화 계면",
+     "abrasive": "고순도 실리카",
+     "pad": "초저조도 고경도 폴리우레탄",
+     "polish_stop_after": 1,
+     "layers": [
+      {
+       "name": "Cu Overfill",
+       "material": "Cu",
+       "role": "도금 배선층",
+       "thickness": 0.6,
+       "remove": true
+      },
+      {
+       "name": "Cu 배선",
+       "material": "Cu",
+       "host": "SiO2",
+       "pattern": "inlaid",
+       "dishing": true,
+       "role": "핵심 배선",
+       "thickness": 0.4
+      },
+      {
+       "name": "Barrier Layer",
+       "material": "TaN",
+       "role": "확산 방지",
+       "thickness": 0.05,
+       "remove": false
+      },
+      {
+       "name": "Interlayer",
+       "material": "SiO2",
+       "role": "층간 절연막",
+       "thickness": 1.0,
+       "remove": false
+      }
+     ],
+     "caption": "초저조도 패드를 이용해 Cu 디싱을 원자층 수준으로 억제하는 상호작용"
+    }
+   }
+  ],
+  "papers": [],
+  "study": {
+   "why_it_matters": [
+    {
+     "label": "왜",
+     "text": "SiC·GaN은 결합 에너지가 높아 기존 연마재로는 결함 없이 깎기 어려운 대표적 난삭재임"
+    },
+    {
+     "label": "연결",
+     "text": "산화 메커니즘과 초정밀 연마재 분산 기술이 융합되어야 고수율 전력반도체 기판 확보 가능"
+    }
+   ],
+   "concept": {
+    "title": "Preston 방정식과 화학-기계 계면 속도론의 한계",
+    "equation": "RR = k_p \\cdot P \\cdot V + k_{chem} \\cdot [Oxidant] \\cdot \\exp(-E_a / k_B T)",
+    "equation_note": "전통적 Preston 기계 마찰 항에 표면 산화막 형성을 지배하는 아레니우스 화학 반응 속도 항의 직렬 결합 모델",
+    "points": [
+     {
+      "label": "의미",
+      "text": "난삭재인 SiC는 기계적 힘(P, V)만으로는 제거가 불가능하며 화학적 표면 개질 속도가 전체 속도를 지배함"
+     },
+     {
+      "label": "한계",
+      "text": "압력과 속도가 과도하면 기계적 파쇄로 인한 마이크로 크랙이 발생해 화학 반응 억제"
+     },
+     {
+      "label": "확장",
+      "text": "표면 산화 피막의 생성 속도와 연마 입자에 의한 박리 속도가 동적 평형을 이루는 최적 윈도우 도출 필요"
+     }
+    ],
+    "curve": {
+     "title": "산화제 농도에 따른 SiC 제거율 및 표면 거칠기 거동",
+     "shape": "peak",
+     "x_label": "산화제 농도 (wt%)",
+     "y_label": "재료 제거율 (MRR)",
+     "regions": [
+      {
+       "from": 0.0,
+       "to": 0.3,
+       "label": "기계적 마모 우세"
+      },
+      {
+       "from": 0.3,
+       "to": 0.7,
+       "label": "화학-기계 평형"
+      },
+      {
+       "from": 0.7,
+       "to": 1.0,
+       "label": "두꺼운 산화막 저해"
+      }
+     ],
+     "marks": [
+      {
+       "at": 0.5,
+       "label": "최적 공정 윈도우"
+      }
+     ],
+     "caption": "산화제 농도가 지나치면 부동태 피막이 두꺼워져 기계적 박리 효율이 떨어지는 피크형 특성"
+    },
+    "diagram": null
+   },
+   "readings": [],
+   "patents": [
+    {
+     "key_claim": "외력을 가해 SiC 기판을 연마 도구에 밀착시키고 연마 입자와 복합 가공하여 고속 회전으로 가공하는 청구 구조",
+     "number": "CN114406825A",
+     "title": "Chemical mechanical composite processing method for silicon carbide surface",
+     "assignee": "华侨大学",
+     "year": "2022",
+     "verified": true
+    },
+    {
+     "key_claim": "다이아몬드 등 경질 표면 연마를 위해 표면 거칠기 0.2~100 nm 및 Shore D 경도 30 이상의 매끄러운 패드를 적용하는 공정",
+     "number": "WO2023076100A1",
+     "title": "Polishing of polycrystalline materials",
+     "assignee": "Entegris, Inc.",
+     "year": "2021",
+     "verified": true
+    }
+   ],
+   "plan": [
+    {
+     "time": "08:30",
+     "minutes": 20,
+     "task": "특허 T1과 T2를 비교하여 SiC 및 난삭재 연마 시 패드 물성과 연마 압력 제어 조건 분석"
+    },
+    {
+     "time": "08:50",
+     "minutes": 25,
+     "task": "나노 실리카 기반 슬러리의 분산 안정성 및 표면 산화제 메커니즘 기초 정리"
+    },
+    {
+     "time": "09:15",
+     "minutes": 15,
+     "task": "PFAS 대체 소재 적용 시 슬러리-패드 접촉면 계면 장력 변화 검토"
+    }
+   ],
+   "self_check": [
+    {
+     "q": "SiC 표면 연마에서 단순 기계적 압력을 높이는 방식이 마이크로 크랙을 유발하는 화학적·물리적 이유는 무엇인가?",
+     "a": "SiC의 높은 결합 에너지와 취성(Brittleness)으로 인해 표면 화학 연화 없이 가해지는 기계적 수직 하중은 전단 슬립 대신 파괴 인성 한계를 초과하여 미세 크랙을 형성하기 때문이다."
+    },
+    {
+     "q": "특허 T2에서 제안된 0.2~100 nm 거칠기와 Shore D 30 이상의 패드가 난삭재 연마 결함 제어에 유리한 역학적 원리는 무엇인가?",
+     "a": "패드 표면이 극도로 매끄러우면 돌기(Asperity)에 의한 국소 하중 집중을 막아 균일한 접촉 면적을 형성하고, 높은 경도를 통해 연마 입자의 패드 침강을 억제하여 에너지 전달을 평탄면에 집중시키기 때문이다."
+    },
+    {
+     "q": "플로어블 카본 PECVD 같은 증착 기술이 도입될 때 CMP 슬러리 개발자가 대비해야 할 평탄화 제어 전략은 무엇인가?",
+     "a": "벌크 박막 제거 위주에서 벗어나 초박막 상태의 잔류 단차만을 극도로 높은 선택비로 제거하며 하부 기판 손상을 0에 수렴시키는 초저압 터치업 연마 제어 배합 기술을 선제적으로 확보해야 한다."
+    }
+   ],
+   "theme": "SiC·GaN 화합물 반도체 CMP"
+  },
+  "news": [
+   {
+    "title": "Fujimi Raises Earnings and Dividend Outlook on Strong CMP and Wafer Demand",
+    "source": "The Globe and Mail",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPaHNpbXdWbno3RlI5SDBWZTlWc05Vd3czbWRvcGtCdFV2ZGotWUlOX2tTUHU4OVJkWmcyY0dxb2hnNUtyMjJEakFsbnl2QUtJQUlDWWNXQ3J1U0pOYnlqMTZ1VmRHQ0VvdWVlcXROSXJzSWt1b01GMnBlUkdNbWRsODM3clQydGdFOTAzSGEtYjlUc2pKZUZTSy1rb1FEZnNGWk5PVDlabmlPc2xmM2Vxak5pTmEwOUNhM2dCbDItckh4UXBNRXBmZkJCQlB5SlFyUGRIN1hVd19LZHlaYW5yRlBCS1hnWnJLRUFv?oc=5",
+    "date": "2026-10-10",
+    "lang": "en"
+   },
+   {
+    "title": "[상장사 리뷰] 케이씨텍, 3년간 잉여현금 1,323억원… 주주에게 돌려준 건 4분의 1",
+    "source": "CEO경제신문",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PZnREa3V0MV9tVVJ2Rk9LalJkWTB6a0toU1hudmp6UlZhMDM3c1puclpmdXNqSnJ0d0tBNTdiYzc5MkFnXzFrNG9QZTF2ektRZlZKRG5HYXR6OTZmODBmTzIwb3VLelNreFBtaA?oc=5",
+    "date": "2026-10-10",
+    "lang": "ko"
+   },
+   {
+    "title": "Nano silica market growth driven by high-performance concrete, electronics, and advanced materials globally",
+    "source": "DQ",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYThXeVdUc3RTdmNxYS1YY2ZZZTVLaFNoSW9LTkFLMXpUYzJ4YXJFX1BWRWpzMGQ5Y0duNmwzOERnbVpMWHptaWdvSnRXSG9ibk9JdWJtRFFzMGRSNlplTUo0aGhOb2FLQ1JkOFN6eHJGSEhYaVlqNHoxcm5ZMVZEcXBwUVFpeHVCZEtQZF93R2xIUUdXMDNqclFzdWU5Q1BpUUY1bjUzMm1aSXZJUGgzalNocWhFc1ZDYmVEM0VZdjRJVHEyUDdkbE1ES245QUZVSTNCbE92LV93dm5FRkxHOWN2UXhYYURm0gHoAUFVX3lxTE1hOFd5V1RzdFN2Y3FhLVhjZlllNUtoU2hJb0tOQUsxelRjMnhhckVfUFZFanMwZDljR242bDM4RGdtWkxYem1pZ29KdFdIb2JuT0l1Ym1EUXMwZFI2WmVNSjRoaE5vYUtDUmQ4U3p4ckZISFhpWWo0ejFyblkxVkRxcHBRUWl4dUJkS1BkX3dHbEhRR1cwM2pyUXN1ZTlDUGlRRjVuNTMybVpJdklQaDNqU2hxaEVzVkNiZUQzRVl2NElUcTJQN2RsTURLbjlBRlVJM0JsT3YtX3d2bkVGTEc5Y3ZReFhhRGY?oc=5",
+    "date": "2026-10-09",
+    "lang": "en"
+   },
+   {
+    "title": "새로 추가된 버튼이 궁금한 분을 위한 카지노 2 6 화",
+    "source": "Calgary Roughnecks",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90aGxoc0szNm5NeENFdUlRZ0pxczNFbVlfd1NxV04yMms1Q01iQ3V6VkoyTnAxckZndTBYYjk5OG9JVG1JT1VucTZHX2xOZjM0bFk1WklBVkZ3Q3J1TUVmSVJRZjY3bmtz?oc=5",
+    "date": "2026-10-09",
+    "lang": "ko"
+   },
+   {
+    "title": "Overview of the Chemical Mechanical Planarization (CMP) Slurry",
+    "source": "openPR.com",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPelM3ZTdmNXVqMzZrLWR5cHpsYTF6U3h3cHFLTmRVbXBEaW5MQ2VJcDVmTHUtT21uTjlEMkdwS2FWMnUxNlltaHZaYUlPWFg2dFZxaU55TVE4Z1BfV1k0MTRleS1tMFhxdTFXb250RllzY0dlOUNhMS1RN1F5aVZfeFNDcW85NU9kRW9kOU51WWFSTnk5UmdwNkhWNkE?oc=5",
+    "date": "2026-10-08",
+    "lang": "en"
+   },
+   {
+    "title": "AI 반도체 투자 재개 기대…에프엔에스테크·미코 등 반도체株 '불기둥'",
+    "source": "핀포인트뉴스",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1IUm9TeFdoTmd4d1FsSE9VSUJpaE5zWkFnSVVSZnVRaVRfYzRJbkVoZEJZOWx4NUVRTEdGQVh1NWJ6MkE0RkpTR3VLX01xLVZBNHNPeHh2Y0pVNGNlWnp0azVWVEwyTEI4eEZyQ2I5VFMzS1XSAXdBVV95cUxQLWlZZTJhYUNYUHNYaEdXOFk2SVRIWTBvZkc5ZEdwRjh6aWZnZGNFX2d1S0l5emFnaW9sb0FzSkZ5a213cGZZRWJTekI4dmtNTFhwQ2tUT3cySjJGMjF5TG01eXhqTkVDU3lRc2dGQXJwbVYzelljMA?oc=5",
+    "date": "2026-10-08",
+    "lang": "ko"
+   },
+   {
+    "title": "Teijin Expands PFAS-Free High-performance Resin Lineup",
+    "source": "AZoM",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KUHlxYWQzZG9wb1gtN05pNjB3ZDZ3eVc4MHNvbkdOcThydnJ1eHJqXzNFcUwtYVhCb0RkcDN4Tkl5WGRqTnU0RUZRZUtJS3BaZm8zcGN3?oc=5",
+    "date": "2026-10-07",
+    "lang": "en"
+   },
+   {
+    "title": "CMP 연마 패드 시장 2035년 전망: 첨단 노드 수요가 성장 견인",
+    "source": "IndexBox",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb2k2dUpzR3MzQ1lSdkIyRl9keE1lRk5FYWZYMXJXbmJ3a3d3bFlKR0tVUjA5Q21nVFA5YzJvemQ3REdKdF9nWS1oV0FjRS12eHFhS3lsdFAyMHdNYXl4eFRrbWMtUk5FMVR2RXJWamV5ZFJieWhTcnBoQVNjOGRvRTIyNzRGR1FHUnNLVXdLUFNQRng4UldSdnJmZExDWFNVR2VIN3h6UUxaQzFPdzlr?oc=5",
+    "date": "2026-10-07",
+    "lang": "ko"
+   },
+   {
+    "title": "케이씨텍, 반도체 장비株 강세에 이틀째 급등…12%대↑[종목now]",
+    "source": "Daum",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44bzR1Tlh0aUtBODJSS0Z0OVlySE1UdGpCd1NJMGlyZEczU3BORURaUWFVeHBjeENXemYyaU1idHJnU29VZ211M1J1Z0FDQnM?oc=5",
+    "date": "2026-10-07",
+    "lang": "ko"
+   },
+   {
+    "title": "3 AI Infrastructure Stocks After The $60b Chip Financing Deal",
+    "source": "Simply Wall Street",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcW1PWWg3YTJSNXY2SEJRdkRIMm9LRE44Y3JBdS11a0ZxQXVHNUl1dWlkcjNMQkFOSzg3cm9CY1ZPaVRISWM0dWNXSDRQMWx0UWVqcGtZNG5lQzBwMjBFS0I1eHRDdEVqOUhpYllGb2h5YzJ5SE1HU2NvX1FSQ3ByeElFQnUzaFBSYmM3d0kzTTRGMlJObW55M0RIYlRFQU1ENFNZU2hWbzdDZ0JDUEI3aDdzR2pNN1duTnN3Ykd3WWtXa1BuM3Z6QkZxQllZUDhHYXhCbHFKSTBDZzY3M1RHWkhiZ1lxRHPSAewBQVVfeXFMTnBkWm9PSkRmSkJwOHhfZGw2ZnR1RnYyOWNtcGRLV0hxMHBLdGE4XzQ4cm1Ia242NFp2Z1M5RzJ2MmNrLXZrakZ1SHJ3NWZPd1NjOFB0M3dmYlBYQUVNTXNDc21laGctaWZ3RUZFSHdNb3A4VmlpS2EtWHF5ZXd2aEI5Vl9UdDhrUHlrb2ZqWm0tQl9HMnBsaGZsd205M295YWVkQWtrekFqT1hENWpaMnd2akdDZDBGcGVZekJQVU9aeDNaU3RzTHE4VDIyVUpsQ1VhWG5SRkNXVDRuYnR3RHhkUnJzN1NXcDFKaTU?oc=5",
+    "date": "2026-10-06",
+    "lang": "en"
+   },
+   {
+    "title": "Founders of semiconductor materials supplier Hubei Dinglong become billionaires",
+    "source": "VnExpress International",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQakVmWGF0VWlFRndoTXlxS2pObzFuLU9DN0xVcm1aSHo0Q1Z1TzFwNFRwSUxkWURpZmVsVnExY01WdDFPSVhyOFBaNWN1Xzd2UHpINkx4b3poY3JjR3RxQnNBWHNfdnNRTU01eWtfV0JyRHBSVl8ybU5ZVjZjZlJZUFlVdlJ4UHFvcEF2cnNDQ2pEUVZBWElGcmtVbEpHY1hVZC1vQmpGSmx3Z1gySGRyUVBrd0pmUjUtdWtvTHVVVktjNV9HSllGZVI2cE15UDN3MUQtNFBwVS1TSGM?oc=5",
+    "date": "2026-10-06",
+    "lang": "en"
+   },
+   {
+    "title": "2035년 CMP 패드 시장 전망: 7나노 이하 노드가 성장 견인 - 뉴스 및 통계",
+    "source": "IndexBox",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTHJLV1VXMV9TZ205ZzdGblVQSUFSMWxWZUc3MFlvWWVneFRTY3FycFN6Q2laQ1JJSlVVeWlWUXpkU0s1ZzNVcGV0bi1jVUpfRnk1WTRveWpYbHRPUlBjOHhjNXhzZGFxcElCZ3U2YXhXTDNNRUd4aE5wcDNzNzI0TnFjLWRNdFRmUVZuQ1RLYWMxWFEwNHBxWDZNbGZhMkhsb1pLMkJ3UlVDWFVPd1pmNXBaWWlVdFRxTF9lUEFhQWJDMlhYemc0LWxLNk9PYjg?oc=5",
+    "date": "2026-10-05",
+    "lang": "ko"
+   },
+   {
+    "title": "첨단 노드 수요와 5~7% 연평균 성장이 이끄는 웨이퍼 표면 컨디셔닝 패드 시장 2035년 전망",
+    "source": "IndexBox",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaUR5Z2RDbS1NSW5yRUFuVGJFZGdoa3FWVFYtN0xiOEs0Z3gwWkVuNEtjc2JQc000SVUtTWtNcXY0RURMM0x4ODVkUU00RlRmUk1HY3NHX2tPamNLck95NDUxOHFRbnFMeGhiNHJ2M2p4Tmd3X21ZQ2pnbVkwX0lXaGFkd3RLU1pSVC02aFJvUnNiRm5wZW1fdjZBS3Q1YXhlZ2ZHVWJhWGxxMWwweDRKOUhFZllrUFpDdEt2RkNHSGllb1ZoWjg4a2pGU3g?oc=5",
+    "date": "2026-10-05",
+    "lang": "ko"
+   },
+   {
+    "title": "웨이퍼 고정 ‘멤브레인’ 반도체 장비 부품 분류… ‘관세 0%’",
+    "source": "쿠키뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TUHR4U0NzT2FJNjdTRjIwQ1RLdVhGM1B5emVseUU4NzFYUTFDdXBoSkZNMEl4a1ltcnhvRWI4SHJzWklKbGJOcTNhUks1ZDJSam1uQ1JNc2FxcmRhQ2w2cjVmSQ?oc=5",
+    "date": "2026-10-04",
+    "lang": "ko"
+   },
+   {
+    "title": "필옵틱스, 2.0mm 두께 유리 기판용 TGV 장비 수주｜AI 반도체로 높아지는 '후판 유리'의 가능성｜Semiconductor Geek",
+    "source": "note",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhd2JscFBtcWZJemIxZWdWYVJONEVXNTQ0UWtQSEZ5MW80N2dhRllrTEJmb1JzVDlXdlRQYlVPSGN0YXlPOGpXU3FjbndMNVIwcXVSdnZJeFUyRWZya1RCLURZaUtEZw?oc=5",
+    "date": "2026-10-02",
+    "lang": "ko"
+   },
+   {
+    "title": "China linked to three quarters of Korea’s chip tech leaks, but prison terms remain short",
+    "source": "Korea JoongAng Daily",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaDJNM0dEcDgwZ2YtR2RrNEVUczNLQUwyQ1hrbWliOWw5cEFHSFBWR2tpUEhUNnNLYzBTQ1NxTVZzbU5HRW1hZTdQYlRCcHUtQ0R6Qy0wOGdtSmlRMXRDVEh3UldFaWs0cXFQblkyR3htc1hfNklVOVYwVEVIc1Z0aVVLVDZyb2NJRUVUdnd6Y3UxVERrQUtDcE0waW1JWnQ4ejZkYUVNbkRPUmlEZDdaREhkcXY5cC1uS1U3UEpSS3lzY1ZWWWZkUkxvb3pmbG41R0dNcTFB?oc=5",
+    "date": "2026-10-01",
+    "lang": "en"
+   },
+   {
+    "title": "ASM, PECVD 신기술 '플로어블 카본' 공개...CMP 생략 가능",
+    "source": "디일렉",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CVlEzN1ZnZlpwZG5wZEFia3V6WWJIMnpMVG1EQ1ZjcGdTX1ppU295Rm9rWHBnZTBMbmYweEw2bFRKWURUVVlHZGxFeXFIaXJILTJKUFhDeUNKS01EeWY1NU5Hd1RHdw?oc=5",
+    "date": "2026-09-30",
+    "lang": "ko"
+   },
+   {
+    "title": "Clarkson professor receives sustainability research award",
+    "source": "nny360.com",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTF9XcFQ1Mzd0Q0JhZi1BdXlza1poZldFbmdUTnVReTlfRzQtNUJ6bmFTXzUwbm9xYXlXSlZwRnJvU3VndTFhUmNHWmp3N0p4Y3hsa0Y3Z3lZeDE2bjVaQkwteGxZQ21zaXZvcFg4SS05aC15NGZzdGRjdnVPWVNqY2YwTWJCc2JVM1NqSWttWl9IVFN2dzlwTEFBb3Z1MWRMZ3BzdWwyZjV1QUNUVE16NDE1MHhTamU1ZGhmVElJUjd6Tzd1VXJkcFNFN285dzN0cHhmTFpnTVB0WGd2V2w5TkRPM2NJdGlaY3c?oc=5",
+    "date": "2026-09-29",
+    "lang": "en"
+   }
+  ]
+ }
+}
