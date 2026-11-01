@@ -1,0 +1,786 @@
+{
+ "date": "2026-11-02",
+ "generated_at": "2026-11-02T08:51+09:00",
+ "summary": "첨단 패키징과 화합물 CMP의 계면 제어",
+ "theme": "SiC·GaN 화합물 반도체 CMP",
+ "day": 21,
+ "total_days": 22,
+ "rows": [
+  {
+   "name": "TSMC",
+   "code": "TSM",
+   "price": 406.1300048828125,
+   "chg": -5.947058387015842,
+   "cap": 2106.3827456,
+   "cur": "$"
+  },
+  {
+   "name": "ASML",
+   "code": "ASML",
+   "price": 1565.9000244140625,
+   "chg": -6.55248134852696,
+   "cap": 603.52561152,
+   "cur": "$"
+  },
+  {
+   "name": "Intel",
+   "code": "INTC",
+   "price": 65.76000213623047,
+   "chg": -28.576080857826685,
+   "cap": 349.514399744,
+   "cur": "$"
+  },
+  {
+   "name": "SK Hynix",
+   "code": "000660",
+   "price": 1418000.0,
+   "chg": -7.077326343381389,
+   "cap": 999935.763808256,
+   "cur": "₩"
+  },
+  {
+   "name": "Samsung",
+   "code": "005930",
+   "price": 225000.0,
+   "chg": -3.0172413793103448,
+   "cap": 1465182.593220608,
+   "cur": "₩"
+  },
+  {
+   "name": "AMAT",
+   "code": "AMAT",
+   "price": 390.0899963378906,
+   "chg": -7.487076566435948,
+   "cap": 309.574434816,
+   "cur": "$"
+  }
+ ],
+ "tocs": [
+  null,
+  null
+ ],
+ "notices": [
+  "특허 검색에 실패했습니다. (Google Patents 503)"
+ ],
+ "data": {
+  "edition_summary": "첨단 패키징과 화합물 CMP의 계면 제어",
+  "market_insight": {
+   "headline": "장비주 조정 속 확대되는 CMP 슬러리 지배력",
+   "bullets": [
+    "**선행 지표의 괴리** — 인텔 실적 충격(-28.58%)과 반도체 장비주 약세 속에서도 첨단 슬러리 수요는 구조적 성장세 진입 ==소모품 수요 비동기화==.",
+    "**소재 시장의 체질 변화** — 입방정 세리아(7.1% 성장)와 7nm 이하 실리카 슬러리가 공정 스텝 확대를 흡수하며 2034년 124억 달러 전망 견인.",
+    "**패키징 중심의 재편** — 첨단 패키징이 신규 WFE 투자의 병목을 우회하는 축으로 부상하며 슬러리 밸류체인 전반의 단가 방어선 구축."
+   ],
+   "longread": {
+    "title": "설비투자 사이클 후퇴 뒤편에서 작동하는 화학적 소모품의 복원력",
+    "dek": "장비 발주 둔화와 주가 조정에도 불구하고 단위 웨이퍼당 통과하는 CMP 스텝 수 증가는 슬러리 시장의 독립적 확장을 지지한다.",
+    "paragraphs": [
+     "주요 반도체 제조사와 장비 제조사의 주가가 일제히 하락세를 면치 못하고 있다. 인텔이 28.58% 급락하고 TSMC, ASML, AMAT, SK하이닉스 등이 3%에서 7%대 조정을 겪는 국면을 두고 시장은 전방 수요 둔화와 장비 투자 사이클의 냉각을 지목한다. 그러나 WFE(웨이퍼 팹 장비) 발주 감축을 곧바로 CMP 화학 소재의 수요 위축으로 직결하는 시각은 공정 집약도의 2차 효과를 간과한 단견이다.",
+     "미세화가 7nm 이하로 진입하고 AI 칩 패키징의 적층 수가 확대되면서 웨이퍼 한 장이 요구하는 평탄화 연마 단계는 비선형적으로 증가하고 있다. 2034년 124억 달러 규모로의 팽창이 점쳐지는 CMP 슬러리 시장과 7.1% 성장이 관측되는 입방정 세리아 소재의 흐름은, 신규 팹 증설이 지연되더라도 가동 웨이퍼당 슬러리 투입량과 고순도 요구 스펙이 동시에 가파르게 상승하고 있음을 명확히 보여준다.",
+     "후지필름의 메사 시설 증설과 인테그리스코리아의 투자 확대, 토요타통상의 연마 스타트업 투자 등 글로벌 공급망의 자본 배치는 신규 팹 건설보다 고기능성 화학 용액 및 분산 안정성 확보로 향하고 있다. 장비가 물리적 플랫폼을 제공하는 단계에서 멈춘다면, 미세 배선과 다층 인터커넥트의 결함을 제어하고 수율을 결정짓는 핵심 변수는 결국 패드와 슬러리 계면의 ==트라이보케미컬 반응 동역학==으로 수렴하기 때문이다.",
+     "이러한 소재 방어 논리가 깨지는 조건은 단 하나다. AI 가속기와 어드밴스드 패키징 도입 속도가 급격히 꺾이거나, 하이브리드 본딩 및 이종집적 인터포저 공정에서 CMP를 대체할 건식 평탄화 혹은 무연마 접합 기술이 양산 라인에 조기 안착할 경우 슬러리 수요 팽창 가설은 근본적인 궤도 수정을 요구받게 될 것이다."
+    ],
+    "pull_quote": "웨이퍼 출하 면적의 팽창 속도가 둔화하더라도, 단위 면적당 계면이 감당해야 하는 화학적 연마 단계의 증가는 슬러리 업체의 가격 결정력을 유지시킨다.",
+    "watch": [
+     "글로벌 파운드리의 7nm 이하 가동률 및 첨단 패키징 라인 슬러리 소비량 추이",
+     "입방정 세리아 및 초고순도 콜로이달 실리카 원재료 수급 불균형과 판가 전가율",
+     "주요 WFE 공급사의 신규 수주 잔고 대비 소재 기업들의 생산 능력 증설 속도"
+    ]
+   }
+  },
+  "industry_needs": [
+   {
+    "need": "유리기판 TGV 평탄화 수율",
+    "pain": "글라스 코어 유전체와 관통 비아 금속 간 연마 선택비 불균일로 인한 단차 발생",
+    "refs": [
+     3,
+     9
+    ]
+   },
+   {
+    "need": "SiC 패드 내마모성 확보",
+    "pain": "초고경도 화합물 반도체 장시간 연마 시 패드 마모 가속 및 형상 붕괴",
+    "refs": [
+     17
+    ]
+   },
+   {
+    "need": "7nm 이하 결함 억제 세정",
+    "pain": "금속 배선 CMP 후 잔류 이온에 의한 브러시 오염 및 연마 입자 재부착",
+    "refs": [
+     20,
+     21
+    ]
+   }
+  ],
+  "cmp_tech": [
+   {
+    "tag": "패키징 인터커넥트",
+    "title": "AI 패키징 고다층화에 대응하는 **선택적 금속 배선** CMP",
+    "lede": "고밀도 인터포저와 초미세 배선의 단차를 제거하기 위한 맞춤형 억제제 설계와 잔류 결함 제어 공정.",
+    "points": [
+     {
+      "label": "배경",
+      "text": "AI 가속기 칩 패키징 확대로 단위 기판당 요구되는 금속 CMP 스텝 증가"
+     },
+     {
+      "label": "핵심 기술",
+      "text": "배선 디싱 억제용 유기 흡착막 형성과 산화제 농도 밸런싱 최적화"
+     },
+     {
+      "label": "효과",
+      "text": "패키징 인터커넥트 금속 단차 최소화 및 글로벌 평탄도 확보"
+     },
+     {
+      "label": "시사점",
+      "text": "단순 제거율 중심에서 패키징 기판 손상 방지 및 세정성으로 평가 축 이동"
+     }
+    ],
+    "key_figures": [
+     {
+      "value": "12.4 B$",
+      "label": "2034년 슬러리 시장 전망"
+     },
+     {
+      "value": "Sub-7nm",
+      "label": "고성장 견인 미세 노드"
+     }
+    ],
+    "refs": [
+     4,
+     11,
+     14,
+     20
+    ],
+    "players": [
+     {
+      "name": "Fujifilm",
+      "role": "슬러리",
+      "activity": "미국 메사 시설 생산 능력을 확장하여 첨단 소재 포트폴리오 강화",
+      "refs": [
+       14
+      ]
+     },
+     {
+      "name": "Entegris",
+      "role": "소재",
+      "activity": "안산에 투자 유치를 확정하며 정밀 케미컬 공급망 구축",
+      "refs": [
+       16
+      ]
+     },
+     {
+      "name": "Amtech Systems",
+      "role": "장비",
+      "activity": "AI 칩 패키징 영역을 차세대 핵심 성장 동력으로 지목",
+      "refs": [
+       19
+      ]
+     }
+    ],
+    "longread": {
+     "title": "어드밴스드 패키징의 적층 밀도가 부과한 화학적 연마의 물리 한계선",
+     "dek": "배선 폭 축소와 이종 접합 계면의 증가는 연마제의 화학적 흡착 제어력을 최종 수율의 절대 조건으로 끌어올린다.",
+     "paragraphs": [
+      "AI 가속기와 고성능 연산 장치가 요구하는 인터커넥트 밀도는 기존 전공정의 설계 규칙을 패키징 기판 내부로 끌어들이고 있다. 7nm 이하 미세 노드와 연계된 패키징 구조에서는 다층 금속 배선의 단차가 미세 접합 불량으로 직결된다. 시장이 장비 증설의 일시적 정체에 시선을 빼앗긴 사이, 소모품 시장은 고단 적층 구조가 요구하는 엄격한 평탄도 규격에 맞춰 조용히 재편되고 있다.",
+      "미세 금속 배선의 CMP는 본질적으로 산화막 형성 속도와 킬레이트 반응, 그리고 기계적 마모 간의 극단적인 타협점 위에 서 있다. 부동태 피막이 충분히 치밀하지 못하면 리세스와 디싱이 발생하여 전기적 저항 불균일을 초래하고, 반대로 지나치게 강고하면 연마 압력을 높여야 하므로 취약한 저유전율(low-k) 층간 절연막의 박리를 유발한다. 화학적 보호막의 두께를 수 나노미터 수준에서 제어하는 분자 설계가 요구되는 이유다.",
+      "후지필름의 메사 공장 확장과 같은 글로벌 공급망의 움직임은 고기능성 슬러리의 수요처가 전공정을 넘어 첨단 패키징 라인으로 본격 다변화되고 있음을 입증한다. 2034년 124억 달러 규모로 확장될 시장에서 부가가치는 단순한 입자 분쇄 기술이 아니라, 연마 후 세정성까지 통합적으로 고려한 복합 계면활성제 배합 기술에 집중될 것이다. 즉, 연마 속도를 희생하지 않으면서도 표면 흡착 잔류물을 최소화하는 화학적 배합이 승패를 가른다.",
+      "그러나 패키징 인터커넥트 기술이 화학적 기계적 연마를 필요로 하지 않는 무가압 솔더링이나 직접 전기도금 평탄화 방식으로 우회하는 경로가 기술적 경제성을 조기에 입증한다면, 패키징 발 슬러리 수요의 구조적 팽창 가설은 일정 수준 제한적 조정에 직면할 위험성을 내포하고 있다."
+     ],
+     "pull_quote": "배선의 평탄도는 연마 입자의 크기가 아니라, 입자가 닿지 않는 리세스 영역을 보호하는 부동태 분자막의 열역학적 안정성에 의해 결정된다.",
+     "watch": [
+      "패키징용 인터포저 내 단위 배선당 허용 디싱 규격의 엄격화 추이",
+      "선택적 연마를 위한 신규 킬레이트제 및 부식억제제 분자 구조 개발 동향",
+      "패키징 라인 내 슬러리 정제 및 필터레이션 교체 주기 단축 여부"
+     ]
+    },
+    "diagram": {
+     "title": "첨단 금속 배선 인터커넥트 CMP 평탄화 단면",
+     "abrasive": "콜로이달 실리카",
+     "pad": "경질 폴리우레탄",
+     "polish_stop_after": 1,
+     "layers": [
+      {
+       "name": "과잉 금속층",
+       "material": "Cu",
+       "role": "벌크 도금층",
+       "thickness": 0.8,
+       "remove": true
+      },
+      {
+       "name": "배리어층",
+       "material": "TaN",
+       "role": "확산 방지",
+       "thickness": 0.05,
+       "remove": true
+      },
+      {
+       "name": "매립 배선 패턴",
+       "material": "Cu",
+       "host": "SiO2",
+       "pattern": "inlaid",
+       "role": "신호 배선",
+       "thickness": 0.5
+      },
+      {
+       "name": "하부 절연막",
+       "material": "low-k",
+       "role": "층간 절연",
+       "thickness": 1.2
+      }
+     ],
+     "caption": "도금된 과잉 금속층을 연마하여 **배리어층 계면에서 정밀 정지**하는 배선 형성 구조."
+    }
+   },
+   {
+    "tag": "화합물 반도체",
+    "title": "SiC 전력 소자 기판의 **무결함 초정밀** CMP",
+    "lede": "난가공성 와이드밴드갭 웨이퍼의 화학적 산화 피막 형성과 기계적 제거 밸런싱 공정.",
+    "points": [
+     {
+      "label": "배경",
+      "text": "전력 반도체 효율 향상을 위한 SiC 단결정 웨이퍼 고평탄화 요구 증대"
+     },
+     {
+      "label": "핵심 기술",
+      "text": "산화제 기반 표면 연질화 유도 및 전용 CMP 패드를 결합한 트라이보케미컬 공정"
+     },
+     {
+      "label": "효과",
+      "text": "서브나노미터 표면 거칠기 확보 및 표면 스크래치 결함 억제"
+     },
+     {
+      "label": "시사점",
+      "text": "기계적 연마 중심에서 강산화 복합 슬러리를 활용한 화학 반응 지배 공정으로 전환"
+     }
+    ],
+    "key_figures": [
+     {
+      "value": "345 M$",
+      "label": "2026년 입방정 세리아 시장"
+     },
+     {
+      "value": "7.1%",
+      "label": "세리아 슬러리 연평균 성장률"
+     }
+    ],
+    "refs": [
+     12,
+     17,
+     18
+    ],
+    "players": [
+     {
+      "name": "ChEmpower",
+      "role": "슬러리",
+      "activity": "토요타통상으로부터 투자를 유치하며 반도체 연마 솔루션 고도화",
+      "refs": [
+       18
+      ]
+     },
+     {
+      "name": "Toyota Tsusho",
+      "role": "소재",
+      "activity": "차세대 칩 폴리싱 스타트업에 전환사채 방식으로 자본 투자 집행",
+      "refs": [
+       18
+      ]
+     }
+    ],
+    "longread": {
+     "title": "초고경도 결정 격자를 길들이는 산화환원 평형과 트라이보케미컬의 접점",
+     "dek": "기계적 취성 파괴에 의존하던 SiC 가공은 강산화 분위기 제어와 연질 연마 입자의 화학 반응으로 이동한다.",
+     "paragraphs": [
+      "실리콘 카바이드(SiC)는 높은 결합 에너지와 물리적 경도로 인해 기계적 연마만으로는 표면 하부 손상(SSD)과 깊은 스크래치를 회피하기 극도로 어렵다. 종래의 고경도 다이아몬드 연마재 의존형 공정은 높은 제거율을 담보할 수 있었으나, 결함 허용치가 급격히 축소되는 최신 전력 소자 공정에서는 심각한 수율 한계에 봉착했다. 업계가 주목하는 해결책은 강제 산화를 통해 표면에 얇은 실리카질 개질층을 유도한 뒤 이를 부드럽게 제거하는 화학적 지배 CMP다.",
+      "과산화수소와 같은 강산화제가 공급된 환경에서 SiC 표면은 자발적으로 산화막을 형성하지만, 이 반응 속도는 상온에서 극히 낮다. CMP 패드와 입자가 가하는 마찰 에너지가 국소적인 활성화 에너지 장벽을 낮춤으로써 계면에서만 선택적으로 연질의 산화 반응이 일어나도록 유도하는 것이 트라이보케미스트리의 핵심이다. 이 과정에서 입방정 세리아와 같은 입자는 기계적 긁힘을 억제하면서 표면 수산화물과 직접 결합하여 원자 단위 제거를 촉진한다.",
+      "토요타통상이 반도체 폴리싱 스타트업 ChEmpower에 전환사채 투자를 단행하고 SiC 전용 CMP 패드 시장이 안정적 성장을 이어가는 배경에는 화합물 전력 반도체 가공의 진입 장벽이 장비가 아닌 소모품의 화학적 제어력에 있다는 인식이 자리한다. 연마 패드의 표면 기공 구조와 슬러리 유동 특성이 균일한 산화 피막 두께를 결정하므로, 패드와 화학 용액의 상호작용 최적화는 공정 수율을 좌우하는 전제 조건이 된다.",
+      "그러나 기계적 연마 대신 화학 산화 반응에 지나치게 편중될 경우 시간당 제거율(MRR)이 경제성을 충족하지 못하는 수준으로 저하될 수 있다. 특히 대구경 SiC 웨이퍼 생산에서 연마 시간이 지나치게 길어지면 슬러리 소모량 증가와 열적 불안정성으로 인해 단위 면적당 가공 원가가 급등할 수 있다는 점은 화학 지배적 SiC CMP가 넘어야 할 본질적 한계다."
+     ],
+     "pull_quote": "SiC 표면의 가공은 단단한 입자로 깎아내는 물리적 파괴가 아니라, 원자 결합을 산화 반응으로 완화시킨 후 부드럽게 떼어내는 계면 화학의 제어다.",
+     "watch": [
+      "SiC CMP 전용 고경도 패드의 컨디셔닝 수명 및 마모 프로파일",
+      "강산화 환경에서 슬러리 입자의 응집을 방지하는 분산 안정제 수명",
+      "신규 산화 촉매 적용 시 웨이퍼 표면 잔류 오염물질 세정 용이성"
+     ]
+    },
+    "diagram": {
+     "title": "화합물 반도체 기판 산화 및 연마 계면",
+     "abrasive": "입방정 CeO2",
+     "pad": "친수성 우레탄",
+     "polish_stop_after": 0,
+     "layers": [
+      {
+       "name": "화학 개질 산화층",
+       "material": "SiO2",
+       "role": "연질 반응층",
+       "thickness": 0.01,
+       "remove": true
+      },
+      {
+       "name": "결정질 기판",
+       "material": "Si",
+       "role": "벌크 기판",
+       "thickness": 350.0
+      }
+     ],
+     "caption": "화학 반응으로 형성된 **극박 산화층을 선택 제거**하여 벌크 손상을 방지하는 구조."
+    }
+   }
+  ],
+  "papers": [
+   {
+    "toc": {
+     "problem": "GaN 도핑 불균일 연마 편차",
+     "approach": "광전기화학 반응 홀 플럭스 제어",
+     "outcome": "초평탄 표면 달성",
+     "outcome_figure": "Sa 0.397 nm"
+    },
+    "points": [
+     {
+      "label": "문제",
+      "text": "OVPE GaN의 캐리어 농도 불균일로 인한 국소 산화 및 단차 발생"
+     },
+     {
+      "label": "접근",
+      "text": "양극 산화와 자외선 산화의 반대 거동을 결합한 홀 플럭스 밸런싱"
+     },
+     {
+      "label": "결과",
+      "text": "전기장 지배 조건 제거율 3.81 µm/h 및 밸런스 조건 Sa 0.397 nm 달성"
+     },
+     {
+      "label": "시사점",
+      "text": "슬러리 프리 고정 입자 조건에서도 화학적 산화 평형 설계로 결함 제어 가능"
+     }
+    ],
+    "key_figures": [
+     {
+      "value": "3.81 µm h⁻¹",
+      "label": "전기장 지배 조건 재료 제거율"
+     },
+     {
+      "value": "0.397 nm",
+      "label": "밸런스 조건 표면 거칠기 Sa"
+     }
+    ],
+    "review": {
+     "verdict": "도핑 농도 편차를 물리적 제거력 대신 산화 반응장의 상쇄로 해결한 독창적 계면 공정 설계.",
+     "strengths": [
+      "양극 산화와 자외선 반응의 캐리어 의존성 차이를 정밀하게 규명하여 평형 조건 도출",
+      "라만 분광 응력 맵핑을 통해 잔류 스크래치 응력이 제거되었음을 명확히 실증"
+     ],
+     "limits": [
+      "슬러리 프리 연마를 위한 고정 연마재 패드의 수명 및 마모 거동에 대한 데이터 결여",
+      "대구경 웨이퍼 전면에서의 광 조사 및 전기장 균일성 확보를 위한 스케일업 장치 검증 부재"
+     ],
+     "for_us": "도핑 불균일성을 가진 화합물 기판 CMP용 슬러리 개발 시 산화제와 광촉매 또는 전위차 조절 첨가제를 도입하는 설계를 검토할 수 있다. 먼저 산화 환원 전위 조절을 통해 국소 캐리어 차이에 따른 반응 속도 편차를 완화하는 배합을 소형 쿠폰 레벨에서 평가해야 한다. 제거율 3 µm/h 수준을 유지하면서도 도핑 경계면 단차를 서브나노미터 수준으로 억제하는 표면 조도를 확인하는 것이 우선 과제다."
+    },
+    "title": "Interfacial hole-flux regulation enables uniform slurry-less photoelectrochemical mechanical polishing of doping-inhomogeneous GaN",
+    "journal": "Journal of Materials Processing Technology",
+    "year": "2026",
+    "doi": "10.1016/j.jmatprotec.2026.119473",
+    "authors_list": [
+     "Yuya Ohnishi",
+     "Rongyan Sun",
+     "Shigeyoshi Usami",
+     "Yuji Ohkubo",
+     "Masayuki Imanishi",
+     "Yusuke Mori",
+     "Kazuya Yamamura"
+    ],
+    "corresponding_display": "Kazuya Yamamura",
+    "corresponding_label": "Corresponding",
+    "affiliation": "Research Center for Precision Engineering",
+    "cited_by": 0,
+    "openalex": "https://openalex.org/W7202379949",
+    "verified": true
+   },
+   {
+    "toc": {
+     "problem": "브러시 코발트 오염 입자 부착",
+     "approach": "pH 및 계면 흡착 반응 동역학 분석",
+     "outcome": "배위결합 규명 및 흡착 제어",
+     "outcome_figure": "Eint -8.097 eV"
+    },
+    "points": [
+     {
+      "label": "문제",
+      "text": "10nm 이하 금속 CMP 후 용출된 Co 이온에 의한 PVAc 브러시 실리카 흡착"
+     },
+     {
+      "label": "접근",
+      "text": "pH 조건별 ICP-MS 분석 및 DFT 분자 궤도 계산을 통한 결합 에너지 규명"
+     },
+     {
+      "label": "결과",
+      "text": "중성 pH 실리카 흡착 피크(1006 ppb) 확인 및 Co 매개 배위결합 규명"
+     },
+     {
+      "label": "시사점",
+      "text": "세정 슬러리 설계 시 킬레이트제를 통한 자유 코발트 이온 수화물 봉쇄 필수"
+     }
+    ],
+    "key_figures": [
+     {
+      "value": "1006 ppb",
+      "label": "중성 pH Co 존재 하 실리카 흡착 피크"
+     },
+     {
+      "value": "-8.097 eV",
+      "label": "Co 개질 실리카의 브러시 결합 에너지"
+     }
+    ],
+    "review": {
+     "verdict": "포스트 CMP 세정 브러시의 오염 메커니즘을 양자역학적 배위결합 에너지로 규명한 수작.",
+     "strengths": [
+      "DFT 계산을 통해 [Co(H2O)6]2+ 복합체의 반응성과 -8.097 eV의 강한 배위결합력을 명확히 증명",
+      "ICP-MS, FT-IR, XPS를 망라하여 이론적 계산과 거시적 세정 잔류물 수치를 유기적으로 연결"
+     ],
+     "limits": [
+      "실제 CMP 공정에서 사용되는 복합 유기 억제제와 계면활성제가 공존하는 환경을 완전히 모사하지 못함",
+      "코발트 외에 배선 구조에 동시 노출되는 타 금속(Cu, Ta 등)과의 경쟁 흡착 효과 미반영"
+     ],
+     "for_us": "코발트 배선 CMP 후단 세정액 설계 시 중성 영역을 완전히 회피하고 산성(522 ppb) 또는 염기성(213 ppb)으로 pH를 엄격히 고정해야 한다. 자유 코발트 이온이 실리카 표면과 브러시 고분자 사이에서 가교 역할을 수행하지 못하도록 안정도 상수가 높은 수용성 킬레이트제를 세정액에 배합하는 방안을 추진한다. 세정 후 브러시 표면의 실리카 잔류 입자 카운트를 획기적으로 낮출 수 있는지 흡착 평가 툴에서 검증해야 한다."
+    },
+    "title": "Cobalt Ion Adsorption on Polyvinyl Acetal Brushes: Impact on Silica-Nanoparticle Loading During Metal Post-Chemical Mechanical Planarization Cleaning",
+    "journal": "ACS Applied Nano Materials",
+    "year": "2025",
+    "doi": "10.1021/acsanm.5c04532",
+    "authors_list": [
+     "M. Chandu Prasad Yadav",
+     "Sanjay Bisht",
+     "Byung‐Hyun Kim",
+     "Hirokuni Hiyama",
+     "Tae‐Gon Kim",
+     "Jin-Goo Park"
+    ],
+    "corresponding_display": "Jin-Goo Park",
+    "corresponding_label": "Corresponding",
+    "affiliation": "Hanyang University",
+    "cited_by": 5,
+    "openalex": "https://openalex.org/W4417506864",
+    "verified": true
+   }
+  ],
+  "study": {
+   "why_it_matters": [
+    {
+     "label": "왜",
+     "text": "SiC 및 GaN 화합물은 결합 에너지가 높아 종래 기계적 연마 시 결함 발생 불가피"
+    },
+    {
+     "label": "연결",
+     "text": "전기화학적 산화 반응과 입방정 세리아의 트라이보케미컬 반응을 결합해야 결함 없는 평탄화 달성 가능"
+    }
+   ],
+   "concept": {
+    "title": "전기화학적 표면 개질과 화학기계적 제거의 동역학적 평형",
+    "equation": "MRR = k_chem * exp(-E_act / (R * T)) * (P * V)^alpha + J_ox / (z * F) * V_m",
+    "equation_note": "물리적 프레스톤 항과 전기화학적 산화 피막 형성 플럭스(J_ox)의 합성 모델",
+    "points": [
+     {
+      "label": "의미",
+      "text": "초경도 표면의 제거 속도는 기계적 마찰과 산화 개질층 형성 플럭스의 상대적 비율에 종속"
+     },
+     {
+      "label": "한계",
+      "text": "산화 플럭스가 과도하면 다공성 산화막 형성으로 거칠기가 증가하고, 미달하면 기계적 스크래치 유발"
+     },
+     {
+      "label": "확장",
+      "text": "외부 전위나 광조사를 결합하여 국소 홀 플럭스를 능동 제어하는 PECMP 시스템으로 발전"
+     }
+    ],
+    "curve": {
+     "title": "표면 조도(Ra)와 산화 반응 플럭스 대비 기계적 제거율 비율의 관계",
+     "shape": "valley",
+     "x_label": "기계적 제거 속도 대비 산화 플럭스 비 (J_ox / MRR_mech)",
+     "y_label": "표면 거칠기 (Ra)",
+     "regions": [
+      {
+       "from": 0.0,
+       "to": 0.4,
+       "label": "기계적 손상 우세"
+      },
+      {
+       "from": 0.4,
+       "to": 0.7,
+       "label": "원자 단위 연마 창"
+      },
+      {
+       "from": 0.7,
+       "to": 1.0,
+       "label": "불균일 산화 거칠기"
+      }
+     ],
+     "marks": [
+      {
+       "at": 0.55,
+       "label": "최적 밸런스 점"
+      }
+     ],
+     "caption": "산화 피막 형성과 기계적 연마가 완벽한 평형을 이룰 때 표면 거칠기가 극소화된다."
+    },
+    "diagram": null
+   },
+   "readings": [
+    {
+     "focus": "나노 구조 재료의 계면 특성과 **열역학적 비평형 계면 거동**의 기본 물리 이해",
+     "title": "Nanostructured materials: basic concepts and microstructure",
+     "journal": "Acta Materialia",
+     "year": "2000",
+     "doi": "10.1016/s1359-6454(99)00285-2",
+     "authors_list": [
+      "H. Gleiter"
+     ],
+     "corresponding_display": "H. Gleiter",
+     "corresponding_label": "Corresponding",
+     "affiliation": "Karlsruhe Institute of Technology",
+     "cited_by": 3052,
+     "openalex": "https://openalex.org/W2157599717",
+     "verified": true,
+     "type": "Seminal",
+     "authors": "H. Gleiter"
+    },
+    {
+     "focus": "금속 표면의 부동태화 피막 형성 및 **파괴와 재생 반응 동역학** 메커니즘 확인",
+     "title": "Corrosion of Metallic Biomaterials: A Review",
+     "journal": "Materials",
+     "year": "2019",
+     "doi": "10.3390/ma12030407",
+     "authors_list": [
+      "Noam Eliaz"
+     ],
+     "corresponding_display": "Noam Eliaz",
+     "corresponding_label": "Corresponding",
+     "affiliation": "Tel Aviv University",
+     "cited_by": 993,
+     "openalex": "https://openalex.org/W2913840193",
+     "verified": true,
+     "type": "Review",
+     "authors": "Noam Eliaz"
+    },
+    {
+     "focus": "SiC CMP에서 머신러닝을 활용한 **공정 변수와 조도 간의 비선형 상관관계** 분석",
+     "title": "Machine Learning-Driven Optimization of Silicon Carbide Chemical Mechanical Polishing with Surface Roughness Constraints",
+     "journal": "Langmuir",
+     "year": "2026",
+     "doi": "10.1021/acs.langmuir.5c05695",
+     "authors_list": [
+      "Hujingyue Wang",
+      "Zhen Qin",
+      "Lihong Zhang",
+      "Lipu Han",
+      "Jinghui Lai",
+      "Lei Zhao",
+      "Yuhang Qi"
+     ],
+     "corresponding_display": "Zhen Qin",
+     "corresponding_label": "Corresponding",
+     "affiliation": "University of Southern California",
+     "cited_by": 11,
+     "openalex": "https://openalex.org/W7123342024",
+     "verified": true,
+     "type": "Recent",
+     "authors": "Hujingyue Wang et al."
+    }
+   ],
+   "patents": [],
+   "plan": [
+    {
+     "time": "08:30",
+     "minutes": 30,
+     "task": "R3 문헌을 통해 SiC 연마 시 H2O2 산화제 농도와 입방정 CeO2 입자의 상호작용이 MRR과 Ra에 미치는 다변량 영향성 파악"
+    },
+    {
+     "time": "09:00",
+     "minutes": 30,
+     "task": "P1 논문의 홀 플럭스 밸런싱 개념을 정리하고 도핑 불균일 기판에서의 광전기화학 반응 제어 원리를 도식화"
+    },
+    {
+     "time": "09:30",
+     "minutes": 20,
+     "task": "P2 연구 결과를 바탕으로 포스트 CMP 세정 브러시 오염 방지를 위한 용액 pH 설정 조건 및 킬레이트제 설계 체크리스트 작성"
+    }
+   ],
+   "self_check": [
+    {
+     "q": "OVPE GaN 연마 시 캐리어 농도가 높은 영역에서 양극 산화와 자외선 산화 속도가 서로 반대로 나타나는 물리적 이유는 무엇인가?",
+     "a": "양극 산화는 고농도 캐리어 영역에서 전류 밀도와 정공 공급이 증가하여 가속되는 반면, 자외선 산화는 전자-정공 재결합이 심화되어 광생성 정공의 유효 수명이 단축되므로 억제된다."
+    },
+    {
+     "q": "포스트 CMP 세정 브러시에서 Co 이온이 존재할 때 실리카 흡착량이 중성 pH에서 최대가 되는 열역학적 원인은 무엇인가?",
+     "a": "DFT 분석 결과 [Co(H2O)6]2+ 복합체가 높은 반응성을 보이며, 단순 수소결합(0.113 eV) 대신 Co 개질 실리카와 브러시 간에 매우 강한 배위결합(-8.097 eV)을 형성하기 때문이다."
+    },
+    {
+     "q": "SiC 평탄화에서 다이아몬드 연마 입자 대비 CeO2/H2O2 슬러리 시스템이 sub-nm 거칠기를 달성하는 데 유리한 트라이보케미컬 근거는 무엇인가?",
+     "a": "강산화제에 의해 표면에 형성된 얇은 연질 산화층만을 세리아 입자가 원자 단위로 선택적 제거함으로써 벌크 기판의 취성 파괴와 잔류 응력 형성을 원천 배제하기 때문이다."
+    }
+   ],
+   "theme": "SiC·GaN 화합물 반도체 CMP"
+  },
+  "news": [
+   {
+    "title": "17th Edition of Amalthea Kicks Off at IIT Gandhinagar with Massive Turnout Across Tech Expo, Semiconductor Conclave, and National Competitions",
+    "source": "www.pib.gov.in",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZczlXY291eGZOaUllQ2N3N0steEY2SFNjTDBRWWF3akdpdzVDY1NIc25FRk9BU1YtdGUwRC0wX19SZU5CV0JxNE9kVW81TDBXZDZoY3ExZlN1UmNueG1YYjRNN3lUMnB1?oc=5",
+    "date": "2026-10-31",
+    "lang": "en"
+   },
+   {
+    "title": "나노신소재(121600)눌릴때마다 물량 모아둘 기회로 보이며 이후 전망 및 대응전략.",
+    "source": "ThinkPool",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CRUdtN3ZaMU1aeEdna2xCVURJS1RXS2M4U19WMTJlMlFOM0RiVEgxazFkd29hWXFiRWNaNkt3QThwUGQ1cDZRenFIbjRVUUZseFA1X3pLU3BKbHZ0?oc=5",
+    "date": "2026-10-31",
+    "lang": "ko"
+   },
+   {
+    "title": "`유리기판` 격전지로 막 내린 선전 C-터치… 中 추격 거셌다 [C-터치 선전 2026]",
+    "source": "디지털데일리",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Ldy1HRzRqUnBFOTd6blF3TkFCQWdtR3pOSTZGbTllTlZIS2IxTHEtR25kSC0zQklqSW5QbHRXN3kzSVl3bVhGR1hkdk9qVXdONS1DUmdNOEN2aW1KRlprVGFR?oc=5",
+    "date": "2026-10-31",
+    "lang": "ko"
+   },
+   {
+    "title": "CMP Slurry Market to Reach USD 12.4 Billion by 2034 as Advanced Semiconductor Manufacturing Expands",
+    "source": "openPR.com",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNXhlalNhR3J4S2lKTG96Q3FfNnpzSDdiQ0p1QThKYWdXZy1laVZYd1VJMV9LbU5uTVJJN3Y1eDVjY1A4YW56eElXbGpyVEFvaHBLMzRZcWZoeGhuWW9JQUFSX1VXX09BYURfb2x0NVdOUmZUYUczQldHeWRyQlhnbTVrMFd5QmRlZjBlTVZQV2lpbllRMlFBSVM2UmJnbVRB?oc=5",
+    "date": "2026-10-30",
+    "lang": "en"
+   },
+   {
+    "title": "생기원, 우주 로봇팔 ‘K-ARM’ 및 반도체 CMP 핵심 장비기술 ‘올해의 10대 기계기술’ 선정",
+    "source": "기계신문",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85UUhucTRYM2dCNmZzWDVQdHdZSG11LTMzZ1dTSlFKOG8wM2pCNmNBTnRRRi1NeUVaanZ5SjZ3V2EyZFdXY3JLeGZTWjlxMloyMXpQX09EaklFcUhFRzBTYWRYdW5EZ3M?oc=5",
+    "date": "2026-10-30",
+    "lang": "ko"
+   },
+   {
+    "title": "KITECH space robot arm and semiconductor CMP tools named Top 10 Mechanical Technologies of 2025",
+    "source": "DongA Science",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aYUVxSXJjejRsaXdJbExVWWlWMElKMkh1UGc0S2d3S21qWHdfWGpDalRWZHlDckFLVGN2UHc1bUJsZ3ZCOWgxZG91aFcxMFlEeFZkSg?oc=5",
+    "date": "2026-10-29",
+    "lang": "en"
+   },
+   {
+    "title": "에프엔에스테크, IT OLED 투자 지연에 목표가 22% 하향-SK",
+    "source": "이데일리",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdmNJeUVHYm1oTDZOSXVZNDMwa1AyUFpGcUIzTTFtV0N0RTY0THJRVFFsODYwMXloOU1YaEJZb3dmYlJwQ09FYkd6dXZXd3FhajFlQnRxLXpaLUI2eGJmZzVvZlhvbmZVcFIwRjcyRTk0bHFkd0dsTWhtcDNwaGx1Wg?oc=5",
+    "date": "2026-10-29",
+    "lang": "ko"
+   },
+   {
+    "title": "생기원 '우주 로봇팔·반도체 장비' 올해의 10대 기계기술 선정",
+    "source": "헬로디디",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wZ3ZDcEszSjN2bXpaNFl0ODJqbkZKdVVFVlBRMG9zZE5zV1FpWGZkWHdjOF91SV93Zkl1eUJuMEVFOGVGaXdXaEthQ3E0WnVLQXM5bHBRd2J1UnVjUk9zdGVTSFFCc3N3cHc?oc=5",
+    "date": "2026-10-29",
+    "lang": "ko"
+   },
+   {
+    "title": "[르포] `화면` 대신 `반도체` 품은 유리… TGV 유리기판 격전지 선전 [C-터치 선전 2026]",
+    "source": "디지털데일리",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CNnpzZmVhRVVNSUJ3bjBPbFhzc3ZvQTNlYkhLTmJkekVrZHJPX3Ztd0ZIZnRWTm9xWE5jckM5U1JHSGJ5OHI5M1A4U0Rta1JiZVhfSng0cUZXWmhWRjBKUy1xTmY?oc=5",
+    "date": "2026-10-29",
+    "lang": "ko"
+   },
+   {
+    "title": "“우주쓰레기 잡는 로봇팔 국산화”…韓 기계기술, 세계시장 도전장",
+    "source": "헤럴드경제 미주판",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uS09ZLVg5cktDdnFMNWxZNEdYcWx0VUdkSWU1bEx3eHQ5UGUxVVg4VFFpVWVvQWNUdmdkMEstdjFFNS1FNTJmbTdzWjYtemotVkJIZ3lMTW5YRkZ3clE1NA?oc=5",
+    "date": "2026-10-28",
+    "lang": "ko"
+   },
+   {
+    "title": "CMP Slurry Market Expands as AI Chip Packaging",
+    "source": "openPR.com",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV0dINi1lUzA4TzA0d2ZDSkZBd3J6RXlwTlYyelBGZFhEQ2FCRXdHU3hFV3VIeVdvV2J2T19SN1VnQ1QycnJnMjF2X0hsNktjbEZxcmZ1ejZwNDRrNjE3QkxGSDE3SjNGTk1LSnlQRkl5QkZhbWFMWjlUZm5RUW5BaDNwWER4NUxocEE?oc=5",
+    "date": "2026-10-27",
+    "lang": "en"
+   },
+   {
+    "title": "입방정 이산화세륨 시장 규모는 2026년 3억 4,500만 달러, 성장률 7.1%로 확대 전망｜QYResearch",
+    "source": "note",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12QjJVZ3NpQUVFZ18tTDNtYWNUWmlZbHg2TlY2aHdRa2ZGcWNPU2txZnFLaXRDWjNGTVEtQTQ3UjBqMUhWRlRaN1JFNDRvbFhJVWpnank1Vy1QekVRSFdV?oc=5",
+    "date": "2026-10-26",
+    "lang": "ko"
+   },
+   {
+    "title": "26년 만에 만든 'CHIP' 전시관…'반도체 굴기' 다시 힘주는 중국? - 머니투데이",
+    "source": "머니투데이",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10NVo3MlRFUjFyNnA5SF9JdlJndldJYmtIOGdGaTBCdkU1QmdZX0ZFX21Ub2dzbWExM0owa0dFYVhudllVTURaOVFSOGc5MDZ6TEI0QTVMTnZwbHV3TmhURHFuY01fdDIt0gFuQVVfeXFMTUZJbzhtNnp2UTczZ0tkN1pueVZlZUhBWnM5WkRNeVRFTjRDTHdSeFZPbkhIbTN2N1hvVnFXNGlMZmhYNVdNRVo1NEh3YlktbWhOQzNHRGhBX2hCU3VGckVJSnVNdW9oaDdnVmd4amc?oc=5",
+    "date": "2026-10-25",
+    "lang": "ko"
+   },
+   {
+    "title": "Fujifilm will expand production capacity at Mesa facility",
+    "source": "AZ Big Media",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOTZNU3lEVmJoSzV5ZG9wOG1rQTk4TXI0M3pOZ3l1RjRBNWJjSFVtdThRYy05dFJJaFlWQWFWWmQ5WjVQR0x3NkwtdDVZVy1WcnhqRFJ6TUpuaXk2S1lqclZ6bVYyb0VVeDhXQ3Mydks0QXV2NjV6ZnpKTmtSZHdkaHc3QkVZZE9CcWQwRWpwNXVZV0Nf?oc=5",
+    "date": "2026-10-24",
+    "lang": "en"
+   },
+   {
+    "title": "AMAT vs. LRCX: Which Stock Has an Edge in the WFE Space?",
+    "source": "The Globe and Mail",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWEQyS1NCaTMyYk02WUczczE4OUhuVGpxaldEaGhkZzB3RlR4MldpU2hwcDF1c09zRENWTHVXUnNuaEdsYUJ1cHBwSzBqeFNIaVhZcXVrOWxoZExsWFlFSEVNMm1qWEJhQVBwdlNHOEVNN1BxTmRKV3JpZGpEWkYtcU9VdEVxdXU0X2VtX0I3cThRcncxY0Vwby1YeENKYXRCSHlxX2ZqYVRHeTVTUVVUZGdkdFV3dWdlYjBMcUFBbUNBbUJJZ2ZMTDRnQmxETkJWSHZrQw?oc=5",
+    "date": "2026-10-23",
+    "lang": "en"
+   },
+   {
+    "title": "인테그리스코리아, 안산시 '1호 투자유치기업' 선정...보조금 5억원 수령",
+    "source": "CWN",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4T0ZyZHk4R3dtN2hkR3RyU0RYVnlIZVR1ZWNtbk1ZNnNpbUZTSm5UUGNEMm5mSThOMFAtWmZHaF96VWtBOVR6MktjQ3RuZ0tUTXdFMm14LVNYbWRwVHQ2bTZ3?oc=5",
+    "date": "2026-10-23",
+    "lang": "ko"
+   },
+   {
+    "title": "Silicon Carbide (SIC) Chemical Mechanical Planarization (CMP) Pads Is Expected to Experience Steady Growth",
+    "source": "EIN News",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdUMzVC1HYVl0YjBXOTBYbUxsQ0d3MG55ZDF4QmUybmo5S3l6RnM1b25odWZEZFNBZ0oybUE0ME1EVVMzX2tlS3NWbm02Z055REl4QjdDa1F2SlJNOWY1R3N3Y1Vva1FDc3dHVjYyc1ZVYWFPeTNvUWVlQldkSm51UzVoa3dCM1NocHctQkwwd1NTVnhmNUJBVkkzZlVVX1BKemJicGJXalRoZ01TTTBLVGFHZW04QTRXWWd4MHdDTkFsVTFBbVVHb2FpY2h5MjRWbTJGSldmSTRqWkdL?oc=5",
+    "date": "2026-10-22",
+    "lang": "en"
+   },
+   {
+    "title": "Toyota Tsusho backs US chip-polishing startup ChEmpower in convertible deal",
+    "source": "Dealroom",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUTRRbVZXZENNeXZpaW14QW9JWXJ3ajJUZ1VsN3R2Z29XUUVtR3RjLXk2WUtxaGFXVFdRc21ySjlLcVYtclpkYzZwaUpZZlR6UmdNOEU4ZlFfckwzSVB5MFdMM0Z1SXVJTC1nUTF0R2ViS0xOWmFMa20zdXFjWjlTSG5uLU9RNnpZeDVtVkhkcjZtUXNSVkVaMTRqM1BPTTRpM1FCYTZpaGd5OHVTZ1E?oc=5",
+    "date": "2026-10-21",
+    "lang": "en"
+   },
+   {
+    "title": "Amtech Systems Sees AI Chip Packaging as Its Next Growth Engine",
+    "source": "TradingView",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTDFOb2dRZmhueHRiWlJjbDBXSEJYOWhXQW5aaXNzRlF6T0Y4bnhfYkNaazdEakotb1dZT3l3Q00zSWQtNmRxLUp3OXNFaW5JQXRRY1MyVmtRQmhMZlpHcTktNXNMZG5DcUNDTzVUQ2E2Y2ZuYmk4N29CX1JqV25VQ2VuQkNMRnE5ZHZpLWFLanBJQkxqLUhOc2RLd3lNOWVtMHBUNkMwZkxZN1lSaFJvckxHTWFJMERJZDRxRlJOLW5CQQ?oc=5",
+    "date": "2026-10-21",
+    "lang": "en"
+   },
+   {
+    "title": "폴리싱 슬러리 실리카 시장 2035년 전망: 7nm 이하 CMP 강도 상승이 한 자릿수 후반 성장 견인 - 뉴스 및 통계",
+    "source": "IndexBox",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTTFtMDZqMllVN2VFV2xHd0phVmV4T0dxR0tNTE11YThUSTN0ZUpVMUpGUFNUWmNKamFCTkd0QjlBQUJ3V2V1WjVRdlRQSXF1Y2F0VlhFQk8yYVAzNDVNS2gwUGVGSXFwV3ZienVkdll1cVB5bThVaUJ6LTU5NnlQeGVlV1ZKb3dsZGt5cS01cGd5cEVfWUVqTXoyMlFZWW9nbm5fYklpSGR0Sl9xR05WQWh5QW0tZUtrTmZRSUFrRlNPOUFzOWhwU0x3eXFhbGZaU2lUbGpMVkYxNmhRTDdXYw?oc=5",
+    "date": "2026-10-21",
+    "lang": "ko"
+   },
+   {
+    "title": "Polishing Slurry Silica Market To 2035: Sub-7nm CMP Demand Drives High-Single-Digit Growth - News and Statistics",
+    "source": "IndexBox",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQY0poSGxwaURxUjNpalFZZkR3S0tabFVrT0ZyNml1RUEtUnI4bG5qR3FGRTZRS3h6ckY3QlJGQllMSTFENkJmSDdzc09GSjY3N3VyV2p2UVp0Qzc3MmlUX1FhZmVUUE1NenpFdlVFWl80ZUxHTm55dGlmbnliMUJudmVFMFZYdDBmcGwwZXVrTTdSVUFzdzMxYzdwcy1vTUsxRnZkcFhWQnlJNW9PVGRYY0ZGYldXdDE5Y09SQkRGS1dQbk91WlF2YVRCOUpBbXZWRUhvTC11T09BZFR0?oc=5",
+    "date": "2026-10-20",
+    "lang": "en"
+   },
+   {
+    "title": "ACM Research Is Gaining Ground as China Replaces Foreign Semiconductor Equipment",
+    "source": "24/7 Wall St.",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcFdBb2hvSHJmVVdmeWk5QTJ3UlZHSUtIOUpWRk1WOTFfbi1XY3ppUXNQWjg3XzhHWVBZbUozRkF4d0pZQnpScXBpQkNCY1BPM1Q5cy1KeWxyNk03UDdWeXAtQ0J5a2dRaUo1NTRWT1JCZG8tVkRVRTFFNHNfNmhnYkV4bGc2bklZM3VWMThMREVQaUNLV2RZbTgtdU1MNVpCZEd2MVgxWTQ3ZUlOWWo3TkdEZXFFOWhOV1pmMWE4RUVvQQ?oc=5",
+    "date": "2026-10-19",
+    "lang": "en"
+   },
+   {
+    "title": "[반도체 머니맵] 삼성·SK가 수십조 쏟아붓는다...반도체 공장 하나 지으면 누가 돈 벌까",
+    "source": "https://www.ppss.kr/",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9lbDNCejlaYjdrTHRPTVVpTk4yQ0VBbnZkcGtxMTkxZkItU1N4dnd6dENGajJYempFWWludFhOMllYeEVVa2s4ZGlzamVTc211YjB2YzNVZzN4SUN1WFdBbFQ0VWI?oc=5",
+    "date": "2026-10-19",
+    "lang": "ko"
+   }
+  ]
+ }
+}
