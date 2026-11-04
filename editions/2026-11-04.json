@@ -1,0 +1,846 @@
+{
+ "date": "2026-11-04",
+ "generated_at": "2026-11-04T09:50+09:00",
+ "summary": "패키징 다변화와 계면 반응성 제어가 가르는 연마재의 경계",
+ "theme": "Preston 방정식과 제거율 모델링",
+ "day": 1,
+ "total_days": 22,
+ "rows": [
+  {
+   "name": "TSMC",
+   "code": "TSM",
+   "price": 404.79998779296875,
+   "chg": 1.54779691307233,
+   "cap": 2099.484557312,
+   "cur": "$"
+  },
+  {
+   "name": "ASML",
+   "code": "ASML",
+   "price": 1552.1400146484375,
+   "chg": 1.7036444723578898,
+   "cap": 598.222307328,
+   "cur": "$"
+  },
+  {
+   "name": "Intel",
+   "code": "INTC",
+   "price": 60.54999923706055,
+   "chg": 0.9671469143762369,
+   "cap": 321.823244288,
+   "cur": "$"
+  },
+  {
+   "name": "SK Hynix",
+   "code": "000660",
+   "price": 1434000.0,
+   "chg": 2.575107296137339,
+   "cap": 1011218.50867712,
+   "cur": "₩"
+  },
+  {
+   "name": "Samsung",
+   "code": "005930",
+   "price": 223250.0,
+   "chg": 1.7084282460136675,
+   "cap": 1453786.70280704,
+   "cur": "₩"
+  },
+  {
+   "name": "AMAT",
+   "code": "AMAT",
+   "price": 381.9200134277344,
+   "chg": 1.973143585967406,
+   "cap": 303.09072896,
+   "cur": "$"
+  }
+ ],
+ "tocs": [
+  null,
+  null
+ ],
+ "notices": [],
+ "data": {
+  "edition_summary": "패키징 다변화와 계면 반응성 제어가 가르는 연마재의 경계",
+  "market_insight": {
+   "headline": "패키징 층위 확장이 촉발한 슬러리 밸류에이션 재편",
+   "bullets": [
+    "**선단 패키징 수요** — 2034년 124억 달러 규모 슬러리 시장의 실질적 견인차 ==기능성 산화막과 이종 접합 평탄화 공정== 집중.",
+    "**세리아 공급망 분화** — 입방정 이산화세륨 시장의 7.1% 성장은 단순 수요 증가가 아닌 입자 제어력 격차 반영.",
+    "**장비·소재 수직 압박** — CMP 머신 시장의 장기 확장세 이면에 공정 단가 절감과 결함 제어 압박 동시 상존."
+   ],
+   "longread": {
+    "title": "소모품의 시간: 인공지능 패키징과 산화물 연마재의 분기점",
+    "dek": "반도체 장비 사이클의 부침 속에서도 단위 웨이퍼당 CMP 스텝 수 증가와 패키징 재료 다변화는 비가역적 흐름을 형성하고 있다.",
+    "paragraphs": [
+     "시장 참여자들은 장비 설비투자 사이클의 등락에 일희일비하지만, 연마 공정 현장에서 확인되는 데이터는 다른 궤적을 가리킨다. 주요 반도체 제조 및 장비주가 일제히 반등하는 국면에서, AI 칩 패키징 고도화와 맞물린 전자 화학재료 시장은 공정 스텝 수 증가에 힘입어 구조적 확장을 준비하고 있다. 전공정 미세화가 물리적 한계에 근접할수록 다층 배선 및 이종 접합 공정에서 요구되는 평탄화 빈도는 선형 이상으로 증가하며, 이는 슬러리 소모량 증대와 직결된다.",
+     "특히 입방정 이산화세륨 시장이 연평균 7.1% 성장해 2026년 3억 4,500만 달러 규모에 도달할 것이라는 전망은 산화막 연마의 표준이 입자 형상 및 결정성 제어로 완전히 이동했음을 방증한다. 입방정 결정 구조가 제공하는 화학적 기계적 반응성은 잔류 결함을 억제하면서도 고선택비를 요구하는 선단 유전체 공정의 핵심 병목을 해결하는 수단으로 부상했다. 범용 세리아 슬러리가 범람하는 시장에서 결함률과 연마율의 상관관계를 끊어내는 정밀 합성 역량만이 제조사의 마진을 보장한다.",
+     "글로벌 소재 기업들이 북미 생산 거점을 증설하고 클린룸 및 공급망 투자를 지속하는 배경에는 바로 이러한 규격 상향이 자리잡고 있다. 단위 칩 면적당 전력 밀도가 급증하면서 열 분산과 신호 전달 속도를 확보하기 위한 신규 절연막 및 금속 배선 도입이 불가피해졌고, 슬러리 제조사는 단순 연마재 공급자가 아니라 계면 제어 파트너로서 재평가받고 있다. 소모품 수요는 설비 주문처럼 절벽을 겪지 않으며, 공정 난이도 상승은 곧 단가 방어력으로 치환된다.",
+     "반면 이러한 성장 서사가 깨지는 시나리오는 차세대 어드밴스드 패키징 도입 속도가 수율 문제로 급격히 지연되거나, 연마 공정 자체를 건식 에칭이나 비접촉 평탄화 기술이 대체하는 경우다. 또한 유리기판이나 하이브리드 본딩 도입 과정에서 연마 스텝의 통합 및 축소가 예상보다 빠르게 전개된다면, 슬러리 수요 팽창 가설은 급격한 물량 감소 충격을 마주할 수 있다."
+    ],
+    "pull_quote": "장비 주문의 속도가 둔화할 때조차 적층 구조의 복잡화는 웨이퍼 한 장이 요구하는 평탄화 접촉 시간을 필연적으로 늘린다.",
+    "watch": [
+     "AI 반도체용 선단 패키징 라인의 웨이퍼당 CMP 스텝 수 변화",
+     "입방정 세리아 입자의 양산 수율 및 킬로그램당 판가 추이",
+     "글로벌 거점 소재 증설 라인의 가동률 및 공급망 다변화 속도"
+    ]
+   }
+  },
+  "industry_needs": [
+   {
+    "need": "선단 패키징용 CMP 슬러리 확보",
+    "pain": "AI 칩 적층 및 다종 재료 계면 평탄화 과정에서 표면 결함과 불균일 제거율 발생",
+    "refs": [
+     1,
+     6,
+     12,
+     19
+    ]
+   },
+   {
+    "need": "정밀 입방정 이산화세륨 수급",
+    "pain": "고선택비 유전체 연마에서 불규칙한 세리아 입자로 인한 마이크로 스크래치 유발",
+    "refs": [
+     13
+    ]
+   },
+   {
+    "need": "고경도 3세대 전력반도체 연마",
+    "pain": "탄화규소(SiC) 등 난가공 기판의 낮은 제거율과 패드 마모 가속화에 따른 원가 상승",
+    "refs": [
+     4,
+     17
+    ]
+   }
+  ],
+  "cmp_tech": [
+   {
+    "tag": "무지립 연마",
+    "title": "알킬아민 사슬 제어 기반 **무지립(Abrasive-Free)** 실리콘 평탄화 메커니즘",
+    "lede": "연마 입자를 배제하고 사슬 길이를 조절한 유기 분자의 흡착 동역학을 이용해 Si 표면 결함 제거와 평탄화를 동시 구현한다.",
+    "points": [
+     {
+      "label": "배경",
+      "text": "기존 지립 기반 연마의 잔류 입자 오염과 세정 비용 한계를 극복하기 위해 무지립 화학 기계적 연마 체계 도입."
+     },
+     {
+      "label": "핵심 기술",
+      "text": "헥실아민의 온화한 Si-Si 결합 약화와 강한 흡착 평형을 활용해 Ox-Si-Ny 취약 반응층 유도."
+     },
+     {
+      "label": "효과",
+      "text": "조도 0.13 nm 달성 및 메틸아민 대비 85% 개선, 57.7 nm/min 연마율 확보."
+     },
+     {
+      "label": "시사점",
+      "text": "기계적 마모 중심의 패러다임을 흡착 제어형 화학 침식 반응으로 전환할 수 있는 분자 설계 방향 제시."
+     }
+    ],
+    "key_figures": [
+     {
+      "value": "0.13 nm",
+      "label": "Surface Roughness"
+     },
+     {
+      "value": "57.7 nm/min",
+      "label": "Removal Rate"
+     },
+     {
+      "value": "85%",
+      "label": "Roughness Reduction"
+     }
+    ],
+    "refs": [],
+    "players": [
+     {
+      "name": "Fujifilm",
+      "role": "소재",
+      "activity": "메사 설비 확장을 통한 선단 화학 소재 공급 역량 강화",
+      "refs": [
+       15
+      ]
+     },
+     {
+      "name": "Entegris",
+      "role": "소재",
+      "activity": "국내 투자 확대를 통한 고순도 반도체 재료 및 솔루션 인프라 구축",
+      "refs": [
+       16
+      ]
+     }
+    ],
+    "longread": {
+     "title": "기계적 마찰 없는 평탄화: 흡착 역학과 계면 반응층의 설계",
+     "dek": "연마 지립의 충돌 에너지 대신 표면 유기 배위 결합 에너지를 재단하여 원자 수준의 무결점 실리콘 표면을 구축한다.",
+     "paragraphs": [
+      "반도체 미세 공정이 물리적 한계선에 다다르면서 전통적인 콜로이달 실리카 기반 CMP 슬러리는 입자 잔류와 스크래치라는 필연적 결함을 동반하게 되었다. 연마 입자가 기판 표면에 가하는 전단 응력은 산화막을 파쇄하는 주동력이지만, 동시에 패턴 붕괴와 표면 하부 손상을 야기한다. 최근 규명된 **무지립(Abrasive-Free)** 연마 기구는 이러한 트라이볼로지적 트레이드오프를 계면 화학의 평형 관계로 치환하는 접근법을 입증한다.",
+      "핵심은 알킬아민 분자의 알킬 사슬 길이에 따른 흡착 강도와 기판 원자 결합 약화 사이의 상호작용에 있다. 단쇄 아민 분자는 Si-Si 결합을 강하게 와해시키지만 기판 표면 흡착 유지력이 낮아 불균일한 국소 부식을 초래하는 반면, 장쇄인 헥실아민은 표면에 안정적으로 자리잡으며 결합 약화 강도를 적정 수준으로 통제한다. 그 결과 형성되는 얇은 Ox-Si-Ny 변성층은 외력에 취약해져, 강성 지립의 충돌 없이도 패드의 접촉 마찰만으로 매끄럽게 제거된다.",
+      "실험적으로 입증된 0.13 nm의 표면 거칠기와 57.7 nm/min의 제거율은 무지립 시스템이 실용 공정에 근접했음을 시사한다. 세정 공정 부하를 비약적으로 낮출 수 있다는 점은 후속 단위 공정 수율에 직결되는 결정적 요소다. ==화학적 변성층의 전단 물성==을 패드 표면의 미세 아스페리티(asperity) 접촉 압력과 일치시키는 배합 기술이 향후 무지립 슬러리의 경쟁력을 좌우하게 될 것이다.",
+      "그러나 이 기술이 양산 라인에 적용되기 위한 전제조건은 엄격하다. 국소 단차가 큰 초기 토포그래피를 평탄화할 수 있는 광역 평탄화(planarization efficiency) 능력이 지립 슬러리 대비 부족할 위험이 크며, 온도 변화나 잔류 부산물 축적에 따른 반응 속도 저하가 발생할 경우 정상 연마율 유지가 불가능해질 수 있다."
+     ],
+     "pull_quote": "강한 충돌로 깎아내는 시대를 지나, 흡착 평형으로 표면 결합을 선택적 취약화하는 분자 단위 제어가 요구된다.",
+     "watch": [
+      "알킬 사슬 수용액 기반 슬러리의 장기 분산 및 화학적 안정성",
+      "대구경 웨이퍼 전면에서의 제거 균일도(WIWNU) 데이터",
+      "세정 잔류 유기물 제거를 위한 후속 포스트 CMP 세정 프로토콜 호환성"
+     ]
+    },
+    "diagram": {
+     "title": "무지립 실리콘 계면 연마 모식도",
+     "abrasive": "None (Abrasive-Free)",
+     "pad": "Polyurethane Pad",
+     "polish_stop_after": 0,
+     "layers": [
+      {
+       "name": "Ox-Si-Ny 취약층",
+       "material": "Si",
+       "role": "반응 변성층",
+       "thickness": 0.05,
+       "remove": true
+      },
+      {
+       "name": "벌크 실리콘",
+       "material": "Si",
+       "role": "기판",
+       "thickness": 775.0
+      }
+     ],
+     "caption": "헥실아민 흡착으로 형성된 **취약 반응층**이 지립 없이 패드 마찰로 선택적 박리되는 구조"
+    }
+   },
+   {
+    "tag": "금속 평탄화",
+    "title": "나노 MnO2 지립의 다기능 산화 촉매 반응을 이용한 **텅스텐 CMP** 공정",
+    "lede": "단일 나노 입자가 연마 지립, 산화제, 펜톤 유사 반응 촉매 역할을 동시에 수행하여 연마율과 표면 품질을 동시 달성한다.",
+    "points": [
+     {
+      "label": "배경",
+      "text": "집적회로 내 텅스텐 배선 형성 시 제거율 향상과 거칠기 억제의 상충 문제 발생."
+     },
+     {
+      "label": "핵심 기술",
+      "text": "MnO2 지립의 산화 환원 반응성과 펜톤 유사 반응을 통한 화학 기계적 시너지 유도."
+     },
+     {
+      "label": "효과",
+      "text": "0.8 wt% 농도에서 제거율 4753 A/min(실리카 대비 2.75배), 거칠기 0.866 nm(37.7% 감소) 달성."
+     },
+     {
+      "label": "시사점",
+      "text": "과산화수소 의존도를 낮추고 슬러리 자체 지립의 산화 환원 활성을 활용하는 설계 패러다임 제시."
+     }
+    ],
+    "key_figures": [
+     {
+      "value": "4753 Å/min",
+      "label": "Removal Rate"
+     },
+     {
+      "value": "0.866 nm",
+      "label": "Surface Roughness"
+     },
+     {
+      "value": "0.8 wt%",
+      "label": "MnO2 Concentration"
+     }
+    ],
+    "refs": [],
+    "players": [
+     {
+      "name": "Ace nanochem",
+      "role": "소재",
+      "activity": "전력 소자 및 선단 패키징용 차세대 반도체 신소재 개발 발표",
+      "refs": [
+       4
+      ]
+     },
+     {
+      "name": "ChEmpower",
+      "role": "슬러리",
+      "activity": "토요타 통상의 전환사채 투자를 유치한 미국 기반 칩 연마 스타트업",
+      "refs": [
+       18
+      ]
+     }
+    ],
+    "longread": {
+     "title": "촉매형 지립: 화학적 자가 증폭을 통한 고경도 금속 연마",
+     "dek": "기계적 마모재에 화학적 산화 및 라디칼 생성 능력을 일체화하여 연마율과 표면 조도의 동시 한계를 돌파한다.",
+     "paragraphs": [
+      "텅스텐 콘택트 플러그 CMP 공정은 고질적인 트레이드오프에 갇혀 있었다. 충분한 제거율을 얻기 위해 과산화수소 농도를 높이고 산성 완충액을 과량 투입하면 텅스텐 표면 부식이 심화되어 디싱과 조도가 악화되고, 반대로 산화 반응을 억제하면 단단한 텅스텐 박막을 제거하기 위해 연마 압력을 올려야 해 결함이 유발된다. 나노 MnO2 지립 연구는 지립을 수동적 마모 매개체가 아닌 활성 촉매로 격상시킴으로써 이 모순을 타개한다.",
+      "밀도범함수이론(DFT)과 전기화학적 분석 결과, MnO2는 텅스텐에 대해 과산화수소나 하이드록실 라디칼을 능가하는 고유 산화 전위를 보인다. 입자 계면에서 금속 텅스텐과의 산화 환원 반응이 직접 일어나며, 용액 내에서 펜톤 유사 반응을 매개하여 산화 라디칼 생성을 국소 증폭시킨다. 즉, 연마 패드와 접촉하는 최전선 접점에서만 선택적으로 강력한 산화막 형성이 이루어지고, 입자의 기계적 구름 운동이 이를 즉각적으로 깎아내는 이상적인 시너지가 완성된다.",
+      "0.8 wt%라는 극소량의 지립 투입으로 통상적인 실리카 슬러리 대비 2.75배에 달하는 4753 A/min의 연마율을 기록한 데이터는 상용성 측면에서 파급력이 크다. ==계면 국소 반응성 강화==를 통해 기계적 가압력을 낮출 수 있으므로, 하부 절연막에 가해지는 유효 응력이 줄어들어 층간 박리와 디싱을 동시에 억제할 수 있는 물리화학적 경로가 확보된 셈이다.",
+      "다만 금속 산화물 지립을 현장 공정에 투입하기 위해서는 잔류 전이금속 오염이라는 장벽을 넘어야 한다. 망간 이온이 산화막 절연층 내부로 확산될 경우 누설 전류 특성을 심각하게 훼손할 수 있으므로, 킬레이트제를 활용한 세정 공정에서 금속 잔류물을 배경 수준 이하로 격리할 수 없다는 사실이 입증된다면 이 접근법의 양산 도입은 전면 차단될 수 있다."
+     ],
+     "pull_quote": "지립 자체가 산화 촉매로 기능할 때 화학 기계적 연마의 물리적 한계선은 낮아진 지립 농도 속에서 재설정된다.",
+     "watch": [
+      "망간(Mn) 오염을 제어하기 위한 포스트 CMP 세정 킬레이트제 호환성",
+      "고농도 산화 라디칼 환경에서 패드 폴리우레탄 수지의 열화 속도",
+      "MnO2 나노 입자의 입도 분포 균일성 및 장기 분산 안정도"
+     ]
+    },
+    "diagram": {
+     "title": "텅스텐 배선 평탄화 공정 단면도",
+     "abrasive": "Nano-MnO2",
+     "pad": "Polyurethane Pad",
+     "polish_stop_after": 1,
+     "layers": [
+      {
+       "name": "과잉 텅스텐층",
+       "material": "W",
+       "role": "과잉 금속막",
+       "thickness": 0.3,
+       "remove": true
+      },
+      {
+       "name": "W 플러그",
+       "material": "W",
+       "host": "SiO2",
+       "pattern": "inlaid",
+       "dishing": true,
+       "role": "콘택트 배선",
+       "thickness": 0.5
+      },
+      {
+       "name": "하부 옥사이드",
+       "material": "SiO2",
+       "role": "층간 절연막",
+       "thickness": 0.8
+      }
+     ],
+     "caption": "산화 촉매 반응을 수반하는 나노 MnO2로 **과잉 텅스텐막**을 제거하여 절연막에 정지하는 구조"
+    }
+   }
+  ],
+  "papers": [
+   {
+    "toc": {
+     "problem": "지립 잔류 및 세정 비용",
+     "approach": "사슬 길이 제어 알킬아민 슬러리 개발",
+     "outcome": "무지립 원자 수준 표면 달성",
+     "outcome_figure": "Ra 0.13 nm"
+    },
+    "points": [
+     {
+      "label": "문제",
+      "text": "전통적 지립 기반 CMP의 극심한 입자 오염과 고비용 세정 공정 한계 존재."
+     },
+     {
+      "label": "접근",
+      "text": "알킬아민 사슬 길이와 거칠기 상관관계를 이용해 무지립 화학 기계적 슬러리 설계."
+     },
+     {
+      "label": "결과",
+      "text": "헥실아민 적용 시 거칠기 0.13 nm(메틸아민 대비 85% 감소), 연마율 57.7 nm/min 달성."
+     },
+     {
+      "label": "시사점",
+      "text": "흡착 강도와 결합 약화의 동적 평형으로 형성된 Ox-Si-Ny 층 제거 기구 입증."
+     }
+    ],
+    "key_figures": [
+     {
+      "value": "0.13 nm",
+      "label": "Surface Roughness"
+     },
+     {
+      "value": "85%",
+      "label": "Roughness Reduction vs Methylamine"
+     },
+     {
+      "value": "57.7 nm/min",
+      "label": "Material Removal Rate"
+     }
+    ],
+    "review": {
+     "verdict": "무지립 연마의 물리화학적 메커니즘을 DFT와 실험으로 규명한 수준 높은 계면 연구.",
+     "strengths": [
+      "사슬 길이에 따른 흡착력과 Si-Si 결합 약화의 트레이드오프를 체계적으로 정량화함",
+      "Ox-Si-Ny 변성층의 존재를 XPS와 나노웨어 테스트로 명확히 검증함"
+     ],
+     "limits": [
+      "패턴 웨이퍼 단차 조건에서의 국소 연마율 및 평탄화 효율 검증 부재",
+      "단쇄 대비 장쇄 아민 사용 시 대면적 웨이퍼의 슬러리 유동 특성 미평가"
+     ],
+     "for_us": "초기 산화막 단차 완화보다는 최종 버핑(buffing) 또는 무결함 마감 연마 공정용 첨가제 시스템으로 헥실아민계 유기 배위체를 도입할 타당성이 높다. 우선 지립 슬러리의 농도를 대폭 낮춘 하이브리드 조성에서 헥실아민 첨가에 따른 미세 스크래치 저감률을 200 mm 실리콘 블랭킷 웨이퍼 상에서 평가해야 한다. 특히 변성층 형성과 세정 용이성 간의 상충 관계를 확인하기 위해 암모니아수 대비 접촉각 및 잔류 유기물 오염도를 사전 계측하는 것이 필수적이다."
+    },
+    "title": "Atomic insights into material removal mechanism in chemical mechanical polishing of silicon using a developed abrasive-free slurry",
+    "journal": "Friction",
+    "year": "2026",
+    "doi": "10.26599/frict.2026.9441219",
+    "authors_list": [
+     "Lei Chen",
+     "Shehui Dang",
+     "Jinhuan Zhong",
+     "Chen Xiao",
+     "Yang Wang",
+     "Lifei Zhang",
+     "Yilong Jiang",
+     "Linmao Qian"
+    ],
+    "corresponding_display": "Linmao Qian",
+    "corresponding_label": "Senior Author",
+    "affiliation": "Southwest Jiaotong University",
+    "cited_by": 2,
+    "openalex": "https://openalex.org/W7125711418",
+    "verified": true
+   },
+   {
+    "toc": {
+     "problem": "W 연마율과 거칠기 상충",
+     "approach": "나노 MnO2 복합 다기능 지립 적용",
+     "outcome": "연마율 대폭 향상 및 조도 개선",
+     "outcome_figure": "4753 Å/min"
+    },
+    "points": [
+     {
+      "label": "문제",
+      "text": "집적회로 텅스텐 CMP에서 높은 연마율과 우수한 표면 조도의 동시 달성 곤란."
+     },
+     {
+      "label": "접근",
+      "text": "지립, 산화제, 펜톤 유사 반응 촉매 역할을 겸비한 나노 MnO2 도입."
+     },
+     {
+      "label": "결과",
+      "text": "0.8 wt% 농도에서 제거율 4753 A/min(실리카의 2.75배), 거칠기 0.866 nm(37.7% 감소)."
+     },
+     {
+      "label": "시사점",
+      "text": "DFT 및 전기화학 계산을 통해 MnO2의 높은 산화력과 반응 시너지 규명."
+     }
+    ],
+    "key_figures": [
+     {
+      "value": "4753 Å/min",
+      "label": "W Removal Rate (0.8 wt% MnO2)"
+     },
+     {
+      "value": "2.75x",
+      "label": "MRR Enhancement vs Silica"
+     },
+     {
+      "value": "0.866 nm",
+      "label": "Surface Roughness"
+     },
+     {
+      "value": "37.7%",
+      "label": "Roughness Reduction vs Silica"
+     },
+     {
+      "value": "0.8 wt%",
+      "label": "Optimal Abrasive Concentration"
+     }
+    ],
+    "review": {
+     "verdict": "지립의 표면 반응성을 연마 화학 반응의 주체로 승격시킨 진보적인 슬러리 조성 연구.",
+     "strengths": [
+      "지립 자체가 산화 촉매로 작동하는 자가 완결적 화학 기계적 시너지 제시",
+      "극저농도(0.8 wt%) 지립 적용으로 패드 수명 및 재료 원가 절감 가능성 확보"
+     ],
+     "limits": [
+      "반도체 전공정에서 가장 민감한 망간 금속 이온 오염에 대한 세정성 데이터 결여",
+      "다양한 패턴 밀도를 가진 구조체에서의 디싱(Dishing) 및 침식(Erosion) 거동 미기재"
+     ],
+     "for_us": "텅스텐 배선용 슬러리 개발 시 산화제 의존형 레시피의 고부식 문제를 극복하기 위해 전이금속 산화물 복합 입자 개념을 검토할 가치가 있다. 단, 망간 오염 이슈를 회피하기 위해 MnO2 단독 지립보다는 실리카 코어에 초미세 전이금속 산화막을 코팅한 코어-쉘 구조체 합성을 초기 실험 과제로 설정하는 것이 현실적이다. H2O2 투입량을 절반 이하로 줄인 상태에서 텅스텐 정적 식각율과 동적 연마율 비(dynamic/static ratio)를 측정해 슬러리의 평탄화 창(process window)을 점검해야 한다."
+    },
+    "title": "Effect of Nano-MnO2 Abrasive in Chemical Mechanical Polishing of Tungsten for Integrated Circuits",
+    "journal": "ECS Journal of Solid State Science and Technology",
+    "year": "2025",
+    "doi": "10.1149/2162-8777/ade342",
+    "authors_list": [
+     "Yueqi Zhao",
+     "Shengli Wang",
+     "Chong Luo",
+     "Mengya Zhu",
+     "Jianwei Zhou"
+    ],
+    "corresponding_display": "Mengya Zhu",
+    "corresponding_label": "Corresponding",
+    "affiliation": "Hebei University of Technology",
+    "cited_by": 0,
+    "openalex": "https://openalex.org/W4411167102",
+    "verified": true
+   }
+  ],
+  "study": {
+   "why_it_matters": [
+    {
+     "label": "왜",
+     "text": "연마율 모델링의 기본 골격인 프레스턴 방정식을 이해해야 공정 마진과 결함 억제의 타협점을 수리적으로 도출 가능."
+    },
+    {
+     "label": "연결",
+     "text": "단순 P×V 선형성 붕괴 영역을 해석함으로써 저하중 고속 연마 또는 화학 구동형 저결함 슬러리 설계로 확장."
+    }
+   ],
+   "concept": {
+    "title": "Preston 방정식과 제거율 비선형성 거동",
+    "equation": "MRR = K_p · P · V",
+    "equation_note": "MRR은 단위 시간당 제거율, K_p는 공정·계면 화학을 포괄하는 프레스턴 계수, P는 가압력, V는 상대 속도",
+    "points": [
+     {
+      "label": "의미",
+      "text": "거시적 접촉 압력과 선속도의 곱에 비례하여 기계적 가공 에너지가 기판 제거율로 전환됨을 설명."
+     },
+     {
+      "label": "한계",
+      "text": "패드 아스페리티의 탄소성 변형, 슬러리 유체역학적 부상력, 계면 화학 반응 속도론의 비선형 효과를 배제함."
+     },
+     {
+      "label": "확장",
+      "text": "저하중 비프레스턴 영역 및 화학 반응 속도 제한 영역을 반영한 수정 랑뮤어-프레스턴 복합 모델로 발전."
+     }
+    ],
+    "curve": {
+     "title": "압력-속도 곱(P·V)에 따른 재료 제거율(MRR)의 전이 영역",
+     "shape": "saturating",
+     "x_label": "P · V (기계적 에너지 입력)",
+     "y_label": "Material Removal Rate (MRR)",
+     "regions": [
+      {
+       "from": 0.0,
+       "to": 0.25,
+       "label": "비접촉 유체윤활"
+      },
+      {
+       "from": 0.25,
+       "to": 0.7,
+       "label": "선형 프레스턴 영역"
+      },
+      {
+       "from": 0.7,
+       "to": 1.0,
+       "label": "화학반응 포화구간"
+      }
+     ],
+     "marks": [
+      {
+       "at": 0.7,
+       "label": "반응속도 제한 임계점"
+      }
+     ],
+     "caption": "기계적 에너지가 증가함에 따라 선형 마모에서 **표면 반응 속도 제한 포화**로 전이하는 제거율 곡선"
+    },
+    "diagram": null
+   },
+   "readings": [
+    {
+     "focus": "비생물학적 나노 입자 계측과 대비하여 콜로이드 **특성 평가 표준화** 및 입도 분리 분석의 엄밀성 고찰",
+     "title": "Minimal information for studies of extracellular vesicles (MISEV2023): From basic to advanced approaches",
+     "journal": "Journal of Extracellular Vesicles",
+     "year": "2024",
+     "doi": "10.1002/jev2.12404",
+     "authors_list": [
+      "Joshua A Welsh",
+      "Deborah C. I. Goberdhan",
+      "Lorraine O’Driscoll",
+      "Edit I. Buzás",
+      "Cherie Blenkiron",
+      "Benedetta Bussolati",
+      "Houjian Cai",
+      "Dolores Di Vizio",
+      "Tom A. P. Driedonks",
+      "Uta Erdbrügger",
+      "Juan Manuel Falcón‐Pérez",
+      "Qing‐Ling Fu",
+      "Andrew Francis Hill",
+      "Metka Lenassi",
+      "Sai Kiang Lim",
+      "My G Mahoney",
+      "Sujata Mohanty",
+      "Andreas Möller",
+      "Rienk Nieuwland",
+      "Takahiro Ochiya",
+      "Susmita Sahoo",
+      "Ana Cláudia Torrecilhas",
+      "Lei Zheng",
+      "Andries Zijlstra",
+      "Sarah Abuelreich",
+      "Reem Bagabas",
+      "Paolo Bergese",
+      "Esther Bridges",
+      "Marco Brucale",
+      "Dylan E Burger",
+      "Randy P. Carney",
+      "Emanuele Cocucci",
+      "Rossella Crescitelli",
+      "Edveena Hanser",
+      "Adrian Llewellyn Harris",
+      "Norman J. Haughey",
+      "An Hendrix",
+      "Alexander R. Ivanov",
+      "Tijana Jovanović‐Talisman",
+      "Nicole A. Kruh‐Garcia",
+      "Vroniqa Ku'ulei‐Lyn Faustino",
+      "Diego Kyburz",
+      "Cecilia Lässer",
+      "Kathleen M. Lennon",
+      "Jan O. Lötvall",
+      "Adam L. Maddox",
+      "Elena S. Martens‐Uzunova",
+      "Rachel R. Mizenko",
+      "Lauren A. Newman",
+      "Andrea Ridolfi",
+      "Eva Rohde",
+      "Tatu Rojalin",
+      "Andrew Rowland",
+      "András Saftics",
+      "Ursula S. Sandau",
+      "Julie Anne Saugstad",
+      "Faezeh Shekari",
+      "Simon Swift",
+      "Dmitry Ter‐Ovanesyan",
+      "Juan Pablo Tosar",
+      "Zivile Useckaite",
+      "Francesco Valle",
+      "Zoltán Varga",
+      "Edwin van der Pol",
+      "Martijn J. C. van Herwijnen",
+      "Marca H. M. Wauben",
+      "Ann Marie Wehman",
+      "Sarah Williams",
+      "Andrea Zendrini",
+      "Alan J. Zimmerman",
+      "Clotilde Théry",
+      "Kenneth Whitaker Witwer"
+     ],
+     "corresponding_display": "Joshua A Welsh",
+     "corresponding_label": "Corresponding",
+     "affiliation": "National Institutes of Health",
+     "cited_by": 4705,
+     "openalex": "https://openalex.org/W4391649568",
+     "verified": true,
+     "type": "Seminal",
+     "authors": "Joshua A Welsh et al."
+    },
+    {
+     "focus": "연마 공정 계면에서 발생하는 화학 흡착막의 내구성 한계와 **표면 개질 지속성** 메커니즘 확인",
+     "title": "Is dropwise condensation feasible? A review on surface modifications for continuous dropwise condensation and a profitability analysis",
+     "journal": "Journal of Advanced Research",
+     "year": "2018",
+     "doi": "10.1016/j.jare.2018.11.004",
+     "authors_list": [
+      "Marieke Ahlers",
+      "Alexander Buck-Emden",
+      "Hans‐Jörg Bart"
+     ],
+     "corresponding_display": "Hans‐Jörg Bart",
+     "corresponding_label": "Corresponding",
+     "affiliation": "University of Kaiserslautern",
+     "cited_by": 101,
+     "openalex": "https://openalex.org/W2903419052",
+     "verified": true,
+     "type": "Review",
+     "authors": "Marieke Ahlers et al."
+    },
+    {
+     "focus": "산화세륨 지립을 이용한 용융 실리카 연마 시 수직 하중과 회전 속도가 **프레스턴 이론 검증**에 미치는 영향 분석",
+     "title": "Experimental investigation of chemical mechanical polishing (CMP) process parameters through polishing of optical glass",
+     "journal": "AIP conference proceedings",
+     "year": "2024",
+     "doi": "10.1063/5.0193883",
+     "authors_list": [
+      "Aparajita Parashar",
+      "Manoj Kumar",
+      "Raj Kumar Pal",
+      "Vinod Karar"
+     ],
+     "corresponding_display": "Aparajita Parashar",
+     "corresponding_label": "Corresponding",
+     "affiliation": "Central Scientific Instruments Organisation",
+     "cited_by": 1,
+     "openalex": "https://openalex.org/W4391951086",
+     "verified": true,
+     "type": "Recent",
+     "authors": "Aparajita Parashar et al."
+    }
+   ],
+   "patents": [
+    {
+     "key_claim": "유압 로드와 대형 연마 정반을 포함한 제3세대 전력반도체 기판용 가압 구동 메커니즘 및 척킹 제어 구조",
+     "number": "CN114700871B",
+     "title": "Third-generation semiconductor chemical mechanical polishing device",
+     "assignee": "上海致领半导体科技发展有限公司",
+     "year": "2022",
+     "verified": true
+    },
+    {
+     "key_claim": "다중 압력 챔버(pressure chambers)를 구비한 베어링 헤드를 통해 기판 반경별 공압을 실시간 다변화하는 CMP 제어 시스템",
+     "number": "CN112936085B",
+     "title": "Chemical mechanical polishing control method and control system",
+     "assignee": "华海清科股份有限公司",
+     "year": "2021",
+     "verified": true
+    }
+   ],
+   "plan": [
+    {
+     "time": "08:30",
+     "minutes": 20,
+     "task": "R3 문헌을 검토하여 석영 유리 CMP에서 하중 및 속도 조건에 따른 Preston 계수 도출 방법론 분석"
+    },
+    {
+     "time": "08:50",
+     "minutes": 25,
+     "task": "T2 특허의 다중 챔버 압력 프로파일 제어 방식을 분석하여 국소 제거율 조절과 슬러리 거동 상관관계 정리"
+    },
+    {
+     "time": "09:15",
+     "minutes": 15,
+     "task": "Preston 방정식의 선형성 이탈 원인을 화학 반응 속도론 관점에서 정리하고 자체 체크리스트 작성"
+    }
+   ],
+   "self_check": [
+    {
+     "q": "Preston 방정식에서 K_p 계수는 단순한 상수인가, 아니면 계면 화학의 함수인가?",
+     "a": "K_p는 슬러리의 pH, 지립 형상, 킬레이트제 반응 속도 및 패드 접촉 면적 변화를 함축하는 다변수 반응 역학 계수이다."
+    },
+    {
+     "q": "P·V 값이 극도로 높아질 때 연마율이 선형 비례를 벗어나 포화되는 근본 원인은 무엇인가?",
+     "a": "기계적 제거 속도가 슬러리 화학 성분이 표면 산화막 또는 착물을 형성하는 화학 반응 속도를 초과하여 화학 공급 율속 단계에 진입하기 때문이다."
+    },
+    {
+     "q": "T2 특허와 같은 다중 압력 챔버 헤드 제어 기술이 Prestonian 모델 적용에 갖는 공학적 함의는 무엇인가?",
+     "a": "웨이퍼 반경별 선속도 차이(V)로 인한 불균일한 제거율을 국소 가압력(P)을 독립 제어함으로써 전면 균일도를 Preston 선형 제어 범위 내로 보정하기 위함이다."
+    }
+   ],
+   "theme": "Preston 방정식과 제거율 모델링"
+  },
+  "news": [
+   {
+    "title": "2035년 전자 화학재료 시장 전망: 첨단 공정과 패키징 수요가 성장 견인 - 뉴스 및 통계",
+    "source": "IndexBox",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWDNMZ0tBTjhab1hfQ3ZvX2xOTmZ3ankwVUVrYnk2TjgwbzVKdFRJbFpzNi1DanJBY0FrdWJEU29mNFg4eGxwMEljY2xFWDRSVlVjMTJlT2lNMGt4Yi1lemNOQ05xWDMyMy0wV1dMSnIyVWlhQWt2Q2dHOXpFdTlQZzJwcUFLMG9yODRFQUU1OUZSMjZMUk1XN25ZblV5TFRqMjJnTGpRWWJfaVVESHNKV0d3c3EyUWkwRGg1cmg2TUJQTnZzaGV5aXJZbEVTeWgtQ1ZFOGFsNA?oc=5",
+    "date": "2026-11-04",
+    "lang": "ko"
+   },
+   {
+    "title": "한화이센셜, 유리기판 사업 '고삐'…인력채용·핵심 공정 개발 나서",
+    "source": "지디넷코리아",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xNEJ2c1JDdlRYSnJkWWtMbHNzQXk4WTc0WmF5cTZDdWtTWmZ6cGFNdXB3c2diWG5aSURXQWRJWUt5dmpLdUo2bHQzdzZMVmhydk1NUTV3?oc=5",
+    "date": "2026-11-03",
+    "lang": "ko"
+   },
+   {
+    "title": "나노신소재(121600)저점을 줄때마다 물량 모아둘 기회로 보이며 이후 전망 및 대응전략.",
+    "source": "ThinkPool",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWT2pwSEhyZHJIUHpEcllOX1hMdWE1ZElRTnRfOUZFMGxrSUNDLXI4bERrdTFITEJGMmdHRHBGUllWMDBCTHNObEZNQld6QWNfSzBZSktnWmxNcmdJ?oc=5",
+    "date": "2026-11-03",
+    "lang": "ko"
+   },
+   {
+    "title": "Ace nanochem Develops Three New Semiconductor Materials for Power Devices and Advanced Packaging",
+    "source": "The Malaysian Reserve",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcGdsQ2tQVXBhMkxtSF9UY1JQTGR2bG1lMThXWWlqSmNaWTdYaFhMTUZpSW8zYzhyeE42NHZQMGg3SHBaVzRmejZmRFRuOE95TWZ1RmhPRVdXWTFvYWRIM1QzbmR5a3p1X2xCdlZkekQ2c2hVTEUwT0YzY2VGZVREWDExdVhRZ25UQ1dRdFRXUi1wM1hKVVNwR04tdnFjRWxscTZ3MVRadlRMek1BN2E1SkNUa1l4T1ZLV3lPdFh1NklOWnQzRkdsNzFFMEVwbEVhbE9KYlpqTQ?oc=5",
+    "date": "2026-11-02",
+    "lang": "en"
+   },
+   {
+    "title": "생기원 '우주 로봇팔·반도체 장비' 올해의 10대 기계기술 선정",
+    "source": "헬로디디",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wZ3ZDcEszSjN2bXpaNFl0ODJqbkZKdVVFVlBRMG9zZE5zV1FpWGZkWHdjOF91SV93Zkl1eUJuMEVFOGVGaXdXaEthQ3E0WnVLQXM5bHBRd2J1UnVjUk9zdGVTSFFCc3N3cHc?oc=5",
+    "date": "2026-11-01",
+    "lang": "ko"
+   },
+   {
+    "title": "CMP Slurry Market to Reach USD 12.4 Billion by 2034 as Advanced Semiconductor Manufacturing Expands",
+    "source": "openPR.com",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNXhlalNhR3J4S2lKTG96Q3FfNnpzSDdiQ0p1QThKYWdXZy1laVZYd1VJMV9LbU5uTVJJN3Y1eDVjY1A4YW56eElXbGpyVEFvaHBLMzRZcWZoeGhuWW9JQUFSX1VXX09BYURfb2x0NVdOUmZUYUczQldHeWRyQlhnbTVrMFd5QmRlZjBlTVZQV2lpbllRMlFBSVM2UmJnbVRB?oc=5",
+    "date": "2026-10-30",
+    "lang": "en"
+   },
+   {
+    "title": "Chemical Mechanical Polishing Machine (CMP) Market Size, Share & Forecast 2036",
+    "source": "Fact.MR",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTTd3T1hqXzlUWUxJdnJMbzhtRzBIZFk2c2lVSXN6YkJaWWdzRVBZTTYwM3dvb3ZfRUt2bFVCZmdCaE4wYkRoTkZWaXJTU25RRE9YZm5GQUw0RjZja3lnc2xCT2hZYUJseGFfQVhEWHJtSUZFOUszZmtNV1hrdDdqbXZpejc?oc=5",
+    "date": "2026-10-30",
+    "lang": "en"
+   },
+   {
+    "title": "생기원, 우주 로봇팔 ‘K-ARM’ 및 반도체 CMP 핵심 장비기술 ‘올해의 10대 기계기술’ 선정",
+    "source": "기계신문",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85UUhucTRYM2dCNmZzWDVQdHdZSG11LTMzZ1dTSlFKOG8wM2pCNmNBTnRRRi1NeUVaanZ5SjZ3V2EyZFdXY3JLeGZTWjlxMloyMXpQX09EaklFcUhFRzBTYWRYdW5EZ3M?oc=5",
+    "date": "2026-10-30",
+    "lang": "ko"
+   },
+   {
+    "title": "KITECH space robot arm and semiconductor CMP tools named Top 10 Mechanical Technologies of 2025",
+    "source": "DongA Science",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aYUVxSXJjejRsaXdJbExVWWlWMElKMkh1UGc0S2d3S21qWHdfWGpDalRWZHlDckFLVGN2UHc1bUJsZ3ZCOWgxZG91aFcxMFlEeFZkSg?oc=5",
+    "date": "2026-10-29",
+    "lang": "en"
+   },
+   {
+    "title": "에프엔에스테크, IT OLED 투자 지연에 목표가 22% 하향-SK",
+    "source": "이데일리",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdmNJeUVHYm1oTDZOSXVZNDMwa1AyUFpGcUIzTTFtV0N0RTY0THJRVFFsODYwMXloOU1YaEJZb3dmYlJwQ09FYkd6dXZXd3FhajFlQnRxLXpaLUI2eGJmZzVvZlhvbmZVcFIwRjcyRTk0bHFkd0dsTWhtcDNwaGx1Wg?oc=5",
+    "date": "2026-10-29",
+    "lang": "ko"
+   },
+   {
+    "title": "[르포] `화면` 대신 `반도체` 품은 유리… TGV 유리기판 격전지 선전 [C-터치 선전 2026]",
+    "source": "디지털데일리",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02cUdWOFhiU2J4R0w5SHk0TWJDYWpIR2VrbFk5S000bWZmek9VbmhWcU9vT3oyUV9FRU44cURCTVFWQ3dKWjN4TUdzT09UV0VjenlSd1hDanFfcmtqVkJYNFl3?oc=5",
+    "date": "2026-10-29",
+    "lang": "ko"
+   },
+   {
+    "title": "CMP Slurry Market Expands as AI Chip Packaging",
+    "source": "openPR.com",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV0dINi1lUzA4TzA0d2ZDSkZBd3J6RXlwTlYyelBGZFhEQ2FCRXdHU3hFV3VIeVdvV2J2T19SN1VnQ1QycnJnMjF2X0hsNktjbEZxcmZ1ejZwNDRrNjE3QkxGSDE3SjNGTk1LSnlQRkl5QkZhbWFMWjlUZm5RUW5BaDNwWER4NUxocEE?oc=5",
+    "date": "2026-10-27",
+    "lang": "en"
+   },
+   {
+    "title": "입방정 이산화세륨 시장 규모는 2026년 3억 4,500만 달러, 성장률 7.1%로 확대 전망｜QYResearch",
+    "source": "note",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12QjJVZ3NpQUVFZ18tTDNtYWNUWmlZbHg2TlY2aHdRa2ZGcWNPU2txZnFLaXRDWjNGTVEtQTQ3UjBqMUhWRlRaN1JFNDRvbFhJVWpnank1Vy1QekVRSFdV?oc=5",
+    "date": "2026-10-26",
+    "lang": "ko"
+   },
+   {
+    "title": "26년 만에 만든 'CHIP' 전시관…'반도체 굴기' 다시 힘주는 중국? - 머니투데이",
+    "source": "머니투데이",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10NVo3MlRFUjFyNnA5SF9JdlJndldJYmtIOGdGaTBCdkU1QmdZX0ZFX21Ub2dzbWExM0owa0dFYVhudllVTURaOVFSOGc5MDZ6TEI0QTVMTnZwbHV3TmhURHFuY01fdDIt0gFuQVVfeXFMTUZJbzhtNnp2UTczZ0tkN1pueVZlZUhBWnM5WkRNeVRFTjRDTHdSeFZPbkhIbTN2N1hvVnFXNGlMZmhYNVdNRVo1NEh3YlktbWhOQzNHRGhBX2hCU3VGckVJSnVNdW9oaDdnVmd4amc?oc=5",
+    "date": "2026-10-25",
+    "lang": "ko"
+   },
+   {
+    "title": "Fujifilm will expand production capacity at Mesa facility",
+    "source": "AZ Big Media",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOTZNU3lEVmJoSzV5ZG9wOG1rQTk4TXI0M3pOZ3l1RjRBNWJjSFVtdThRYy05dFJJaFlWQWFWWmQ5WjVQR0x3NkwtdDVZVy1WcnhqRFJ6TUpuaXk2S1lqclZ6bVYyb0VVeDhXQ3Mydks0QXV2NjV6ZnpKTmtSZHdkaHc3QkVZZE9CcWQwRWpwNXVZV0Nf?oc=5",
+    "date": "2026-10-24",
+    "lang": "en"
+   },
+   {
+    "title": "인테그리스코리아, 안산시 '1호 투자유치기업' 선정...보조금 5억원 수령",
+    "source": "CWN",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4T0ZyZHk4R3dtN2hkR3RyU0RYVnlIZVR1ZWNtbk1ZNnNpbUZTSm5UUGNEMm5mSThOMFAtWmZHaF96VWtBOVR6MktjQ3RuZ0tUTXdFMm14LVNYbWRwVHQ2bTZ3?oc=5",
+    "date": "2026-10-23",
+    "lang": "ko"
+   },
+   {
+    "title": "Silicon Carbide (SIC) Chemical Mechanical Planarization (CMP) Pads Is Expected to Experience Steady Growth",
+    "source": "EIN News",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdUMzVC1HYVl0YjBXOTBYbUxsQ0d3MG55ZDF4QmUybmo5S3l6RnM1b25odWZEZFNBZ0oybUE0ME1EVVMzX2tlS3NWbm02Z055REl4QjdDa1F2SlJNOWY1R3N3Y1Vva1FDc3dHVjYyc1ZVYWFPeTNvUWVlQldkSm51UzVoa3dCM1NocHctQkwwd1NTVnhmNUJBVkkzZlVVX1BKemJicGJXalRoZ01TTTBLVGFHZW04QTRXWWd4MHdDTkFsVTFBbVVHb2FpY2h5MjRWbTJGSldmSTRqWkdL?oc=5",
+    "date": "2026-10-22",
+    "lang": "en"
+   },
+   {
+    "title": "Toyota Tsusho backs US chip-polishing startup ChEmpower in convertible deal",
+    "source": "Dealroom",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUTRRbVZXZENNeXZpaW14QW9JWXJ3ajJUZ1VsN3R2Z29XUUVtR3RjLXk2WUtxaGFXVFdRc21ySjlLcVYtclpkYzZwaUpZZlR6UmdNOEU4ZlFfckwzSVB5MFdMM0Z1SXVJTC1nUTF0R2ViS0xOWmFMa20zdXFjWjlTSG5uLU9RNnpZeDVtVkhkcjZtUXNSVkVaMTRqM1BPTTRpM1FCYTZpaGd5OHVTZ1E?oc=5",
+    "date": "2026-10-21",
+    "lang": "en"
+   },
+   {
+    "title": "Amtech Systems Sees AI Chip Packaging as Its Next Growth Engine",
+    "source": "TradingView",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTDFOb2dRZmhueHRiWlJjbDBXSEJYOWhXQW5aaXNzRlF6T0Y4bnhfYkNaazdEakotb1dZT3l3Q00zSWQtNmRxLUp3OXNFaW5JQXRRY1MyVmtRQmhMZlpHcTktNXNMZG5DcUNDTzVUQ2E2Y2ZuYmk4N29CX1JqV25VQ2VuQkNMRnE5ZHZpLWFLanBJQkxqLUhOc2RLd3lNOWVtMHBUNkMwZkxZN1lSaFJvckxHTWFJMERJZDRxRlJOLW5CQQ?oc=5",
+    "date": "2026-10-21",
+    "lang": "en"
+   }
+  ]
+ }
+}
