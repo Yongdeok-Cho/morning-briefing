@@ -1,0 +1,637 @@
+{
+ "date": "2026-11-11",
+ "generated_at": "2026-11-11T09:51+09:00",
+ "summary": "패키징 진화와 CMP 소재의 구조적 재편",
+ "theme": "패드 소재·컨디셔닝과 표면 거칠기",
+ "day": 8,
+ "total_days": 22,
+ "rows": [
+  {
+   "name": "TSMC",
+   "code": "TSM",
+   "price": 396.4800109863281,
+   "chg": 2.022545408856396,
+   "cap": 2056.333295616,
+   "cur": "$"
+  },
+  {
+   "name": "ASML",
+   "code": "ASML",
+   "price": 1507.8499755859375,
+   "chg": -0.35684945739715845,
+   "cap": 581.152079872,
+   "cur": "$"
+  },
+  {
+   "name": "Intel",
+   "code": "INTC",
+   "price": 58.130001068115234,
+   "chg": -2.0885933738893634,
+   "cap": 308.96095232,
+   "cur": "$"
+  },
+  {
+   "name": "SK Hynix",
+   "code": "000660",
+   "price": 1200000.0,
+   "chg": -0.9900990099009901,
+   "cap": 846207.945539584,
+   "cur": "₩"
+  },
+  {
+   "name": "Samsung",
+   "code": "005930",
+   "price": 197700.0,
+   "chg": -0.603318250377074,
+   "cap": 1287407.991259136,
+   "cur": "₩"
+  },
+  {
+   "name": "AMAT",
+   "code": "AMAT",
+   "price": 372.5299987792969,
+   "chg": 0.5343438271638491,
+   "cap": 295.638859776,
+   "cur": "$"
+  }
+ ],
+ "tocs": [],
+ "notices": [
+  "오늘의 논문 검색 결과가 없습니다. (OpenAlex 429: {\"error\":\"Rate limit exceeded\",\"message\":\"Anonymous search is temporarily rate-limited while the search cluster is under)"
+ ],
+ "data": {
+  "edition_summary": "패키징 진화와 CMP 소재의 구조적 재편",
+  "market_insight": {
+   "headline": "메모리 감산 이면의 소재 독점과 하이브리드 본딩 장벽",
+   "bullets": [
+    "**소재 M&A 가속** — 미쓰이화학의 JSR 인수는 첨단 노드 포트폴리오의 독점적 수직계열화 신호.",
+    "**공정 스텝 증가** — HBM 고적층화로 웨이퍼당 ==CMP 통과 횟수와 결함 민감도==가 동반 상승.",
+    "**장비·부품 관세 수혜** — 멤브레인 0% 관세 적용은 장비 유지 비용 절감과 소모품 수명 사이클에 영향."
+   ],
+   "longread": {
+    "title": "설비투자 사이클의 둔화가 가리는 슬러리 소모량의 비대칭적 팽창",
+    "dek": "메모리 주가의 단기 조정 뒤편에서 단위 공정당 연마 스텝과 계면 스펙은 비가역적으로 상승하고 있다.",
+    "paragraphs": [
+     "삼성전자와 SK하이닉스의 주가 조정 및 인텔의 하락세를 단순한 전방 수요 둔화의 전조로 해석하는 시각은 공정 내면의 역학을 간과한다. 범용 메모리의 웨이퍼 투입량 조절과 무관하게, 고대역폭 메모리(HBM)와 첨단 이종 집적 공정은 단위 칩당 요구하는 CMP 단계 수를 구조적으로 늘리고 있다. 미쓰이화학이 1조 3,900억 엔 규모로 JSR 인수를 단행하고 듀폰에서 분사한 큐니티(Qnity)가 견조한 성장세를 보고한 배경에는 첨단 패터닝과 평탄화 소재의 과점화가 자리 잡고 있다.",
+     "핵심은 집적 밀도 상승에 따른 유전체와 금속 계면의 접촉 결함 허용치가 물리적 한계에 봉착했다는 점이다. 하이브리드 본딩 피치가 축소됨에 따라 검사 장비의 해상도 한계가 시험대에 올랐고, 이는 곧 사후 검출이 불가능한 수준의 미세 디싱과 스크래치를 CMP 단계에서 원천 봉쇄해야 함을 뜻한다. 연마 입자의 입도 분포를 극한으로 좁히지 못하거나 패드 아스페리티(asperity) 제어에 실패한 슬러리는 더 이상 수율 곡선 안으로 진입할 수 없다. 결과적으로 시장의 관심이 웨이퍼 출하량에 머무는 동안, ==소모품 단위 단가와 계면 제어 기술의 가격 결정력==은 오히려 소수 선도사로 집중되는 양상이다.",
+     "거시적 관점에서 보면 미세 금리 변동과 글로벌 공급망 블록화는 원가 구조의 재설계를 강제하고 있다. OCI가 인도 시장에서 무관세 지위를 유지하며 중국산 경쟁 제품에 부과된 고율 관세를 따돌린 사례나, 멤브레인 부품의 무관세 분류 결정은 국지적 보호무역이 CMP 밸류체인의 판도를 뒤흔들 수 있음을 입증한다. 2034년 124억 달러 규모로 전망되는 글로벌 CMP 슬러리 시장의 성장은 단순 물량 확장이 아니라, 이러한 규제 차익과 고부가가치 배합 기술이 결합된 과점 시장의 팽창을 의미한다.",
+     "반면 이 논거는 하이브리드 본딩의 상용화 수율이 임계치를 넘지 못해 범프 기반 패키징 수명이 예상보다 연장되거나, 유리기판 및 대체 배선 공정에서 건식 에치 백 기술이 CMP의 일부 단계를 영구히 대체할 경우 설득력을 잃는다. 파운드리 선두 주자의 수율 정체로 차세대 인터커넥트 도입 일정이 지연된다면, 고단가 슬러리로의 전환 속도는 급격히 둔화되고 범용 소재의 가격 경쟁만 잔존할 가능성 역시 열려 있다."
+    ],
+    "pull_quote": "장비 주문의 변동성에 가려진 진실은, 칩이 적층될수록 웨이퍼 한 장이 요구하는 평탄화의 물리 화학적 엄밀함이 기하급수적으로 높아진다는 사실이다.",
+    "watch": [
+     "JSR 합병 승인 이후 글로벌 CMP 패드·슬러리 턴키 공급망 재편 속도",
+     "하이브리드 본딩 공정 수율 발표 및 서브미크론 피치 적용 지연 여부",
+     "인도 및 북미 반도체 소재 통상 규제 변화와 관세 감면 항목 확장"
+    ]
+   }
+  },
+  "industry_needs": [
+   {
+    "need": "하이브리드 본딩 디싱 제어",
+    "pain": "피치 축소에 따라 구리 배선 디싱이 얕아도 접합 공동(void) 유발",
+    "refs": [
+     4
+    ]
+   },
+   {
+    "need": "CMP 소모품 공급망 안정화",
+    "pain": "원소재 관세 및 과점화로 인한 멤브레인·패드 조달 원가 변동",
+    "refs": [
+     1,
+     11
+    ]
+   },
+   {
+    "need": "TGV 유리기판 평탄화",
+    "pain": "취성 소재와 관통 비아 금속 간 연마 선택비 불균일로 기판 크랙 발생",
+    "refs": [
+     12,
+     22
+    ]
+   }
+  ],
+  "cmp_tech": [
+   {
+    "tag": "첨단 패키징 인터커넥트",
+    "title": "서브마이크론 피치 하이브리드 본딩을 위한 **계면 평탄화** 제어",
+    "lede": "하이브리드 본딩의 직접 접합 신뢰성을 확보하기 위해 구리와 유전체 간 단차 제어가 극단으로 수렴하고 있다.",
+    "points": [
+     {
+      "label": "배경",
+      "text": "피치 축소로 계면 결함 검사 한계 직면 및 접합 불량 위험 급증"
+     },
+     {
+      "label": "핵심 기술",
+      "text": "구리 착화제 반응 속도와 연마 입자 압력 분산을 통한 초저디싱 달성"
+     },
+     {
+      "label": "효과",
+      "text": "열처리 후 구리 팽창 시 무결점 접촉 유도 및 유전체 보이드 제거"
+     },
+     {
+      "label": "시사점",
+      "text": "단순 연마율보다 표면 단차 편차(PV) 억제 슬러리 설계가 관건"
+     }
+    ],
+    "key_figures": [
+     {
+      "value": "12.4B USD",
+      "label": "2034년 글로벌 CMP 슬러리 시장 전망치"
+     }
+    ],
+    "refs": [
+     4,
+     6,
+     10,
+     15
+    ],
+    "players": [
+     {
+      "name": "케이씨텍",
+      "role": "장비",
+      "activity": "반도체 호황에 힘입어 CMP 장비 및 소재 공급 역량 확대 추진",
+      "refs": [
+       6,
+       10
+      ]
+     },
+     {
+      "name": "동진쎄미켐",
+      "role": "슬러리",
+      "activity": "반도체 소재 성장세를 기반으로 CMP 슬러리 포트폴리오 다변화",
+      "refs": [
+       10
+      ]
+     },
+     {
+      "name": "Qnity Electronics",
+      "role": "패드",
+      "activity": "듀폰 분사 이후 CMP 패드 등 전자 소재 분야에서 견조한 성장세 지속",
+      "refs": [
+       8
+      ]
+     }
+    ],
+    "longread": {
+     "title": "원자층 수준의 단차 제어가 결정하는 하이브리드 본딩 접합 수율",
+     "dek": "배선 피치가 좁아질수록 디싱 억제와 표면 거칠기 제어는 트라이볼로지의 극한 테스트가 된다.",
+     "paragraphs": [
+      "다이 간 직접 접합 기술인 하이브리드 본딩은 기존 마이크로 범프의 물리적 한계를 돌파하기 위한 필수 공정으로 자리잡았다. 구리 패드와 유전체 계면이 동시에 평탄화되어야 하며, 상온 접합 후 후속 열처리 단계에서 구리의 열팽창(CTE 미스매치)을 이용해 완전한 금속 결합을 형성하는 원리다. 그러나 피치가 1마이크로미터 이하로 좁아지면서 후속 검사 장비의 분해능이 결함을 감지하지 못하는 영역으로 진입했고, 이는 평탄화 품질 자체에 공정의 운명을 맡겨야 함을 시사한다.",
+      "화학 기계적 연마 관점에서 구리와 유전체층(SiO2 또는 SiCN) 간의 연마 선택비는 과거와 다른 차원의 제어를 요구한다. 구리가 과도하게 연마되어 깊은 디싱(dishing)이 발생하면 열처리 팽창 후에도 계면 사이에 갭이 잔존하여 전기적 오픈 불량이 발생한다. 반대로 구리 연마가 불충분하여 돌출되면 유전체 접합면이 밀착되지 못해 다이 전체의 본딩 보이드(void)로 이어진다. 따라서 슬러리는 계면 부식 억제제 피막의 강도를 정밀 제어하면서 화학적 용출과 기계적 제거 속도를 엄격히 동기화해야 한다.",
+      "입자 분산 안정성과 패드 계면 접촉 역학은 이 좁은 마진을 지탱하는 본질적 축이다. 2차 입자의 응집은 연마면 상에 미세 마이크로 스크래치를 유발하며, 이는 고진공 하이브리드 접합 시 크랙 전파의 기점이 된다. 입자 표면의 제타 전위를 극대화해 정전기적 반발력을 유지하는 동시에, 연마 패드의 미세 돌기(asperity)가 구리 패드 국소 영역에 가하는 압력 피크를 슬러리 내 완충 고분자로 분산시키는 설계가 ==계면 무결점 평탄화==의 선결 과제다.",
+      "다만 구리 이외의 대체 저저항 합금 배선이 조기 도입되거나, 무연마 계면 활성화 기반의 건식 세정 및 접합 기술이 발전할 경우 현행 화학적 패시베이션 기반 슬러리의 수요 구조는 위축될 수 있다. 또한 CMP 후 세정 공정에서 화학 잔류물을 완벽히 제거하지 못해 접합 강도가 저하되는 기술적 병목이 지속된다면 본딩 수율 전체가 정체 국면에 갇힐 위험이 상존한다."
+     ],
+     "pull_quote": "하이브리드 본딩에서 평탄화 실패는 단순히 저항 증가로 끝나지 않고 계면 박리라는 전면적 수율 붕괴를 초래한다.",
+     "watch": [
+      "하이브리드 본딩 피치 축소에 따른 CMP 잔류물 세정 장비 기술 동향",
+      "구리 배선과 유전체 간 계면 결함 검사 계측 장비의 한계 해소 여부",
+      "주요 OSAT 및 파운드리의 접합 후 보이드 발생률 추이"
+     ]
+    },
+    "diagram": {
+     "title": "하이브리드 본딩 Cu/SiO2 평탄화 계면 구조",
+     "abrasive": "Colloidal Silica",
+     "pad": "Hard Polyurethane",
+     "polish_stop_after": 1,
+     "layers": [
+      {
+       "name": "과잉 도금 Cu",
+       "material": "Cu",
+       "role": "희생층",
+       "thickness": 0.6,
+       "remove": true
+      },
+      {
+       "name": "확산 방지막",
+       "material": "TaN",
+       "role": "배리어",
+       "thickness": 0.03,
+       "remove": true
+      },
+      {
+       "name": "Cu 패드 배선",
+       "material": "Cu",
+       "host": "SiO2",
+       "pattern": "inlaid",
+       "dishing": true,
+       "role": "접합 전극",
+       "thickness": 0.8
+      },
+      {
+       "name": "층간 절연막",
+       "material": "SiO2",
+       "role": "접합 계면",
+       "thickness": 0.8
+      }
+     ],
+     "caption": "과잉 구리와 배리어층을 제거하여 **절연막과 구리 패드의 동일 평면화**를 달성하는 하이브리드 본딩 CMP 도식."
+    }
+   },
+   {
+    "tag": "차세대 기판 소재",
+    "title": "AI 패키징용 유리기판 및 고방열 소재의 **고강도 평탄화** 메커니즘",
+    "lede": "유리기판 TGV 공정과 고방열 소재 도입은 취성 기판의 크랙을 방지하는 정밀 화학 연마를 요구한다.",
+    "points": [
+     {
+      "label": "배경",
+      "text": "AI 칩 발열 및 신호 손실 해결을 위해 유리기판과 SiC·다이아몬드 방열재 부상"
+     },
+     {
+      "label": "핵심 기술",
+      "text": "취성 재료의 미소 파괴를 억제하는 고선택비 세리아 및 실리카 슬러리 배합"
+     },
+     {
+      "label": "효과",
+      "text": "유리 관통 비아 단차 제거 및 방열 기판 계면 열저항 최소화"
+     },
+     {
+      "label": "시사점",
+      "text": "기존 실리콘 중심 CMP 장비와 소모품의 가공 메커니즘 전환 필요"
+     }
+    ],
+    "key_figures": [
+     {
+      "value": "1.39T JPY",
+      "label": "미쓰이화학의 첨단 소재사 JSR 인수 금액"
+     }
+    ],
+    "refs": [
+     3,
+     9,
+     12,
+     22
+    ],
+    "players": [
+     {
+      "name": "한화이센셜",
+      "role": "소재",
+      "activity": "유리기판 핵심 공정 개발 및 전문 인력 채용을 통한 사업 본격화",
+      "refs": [
+       12
+      ]
+     },
+     {
+      "name": "인테그리스",
+      "role": "소재",
+      "activity": "AI 패키징용 SiC 및 다이아몬드 기반 방열 소재 시장 신규 진출",
+      "refs": [
+       9
+      ]
+     },
+     {
+      "name": "신한다이아몬드공업",
+      "role": "소재",
+      "activity": "다이아몬드 공구 제조 역량을 바탕으로 반도체 첨단소재 가공 확장",
+      "refs": [
+       5
+      ]
+     }
+    ],
+    "longread": {
+     "title": "유리의 취성과 고열전도성 박막이 강제하는 화학적 침식 역학",
+     "dek": "단단하지만 깨지기 쉬운 무기 기판의 평탄화는 기계적 응력 집중을 배제하는 슬러리 화학에서 출발한다.",
+     "paragraphs": [
+      "고성능 컴퓨팅이 요구하는 대면적 패키징은 유기 인터포저의 휨 현상과 대역폭 한계로 인해 유리기판이라는 대안을 소환했다. 실리콘 대비 우수한 전기적 절연성과 열적 안정성을 지닌 유리는 TGV(Through Glass Via) 형성을 통해 미세 배선을 수용한다. 동시에 발열 밀도를 낮추기 위해 인테그리스 등이 추진하는 SiC 및 다이아몬드 기반 방열 소재의 결합은 평탄화 공정에 완전히 상이한 물성을 지닌 이종 계면의 균일 연마라는 난제를 던진다.",
+      "유리기판 연마의 가장 큰 장벽은 파괴 인성(fracture toughness)의 결여다. 일반적인 실리콘 CMP에서 사용하는 고하중 트라이볼로지 조건을 유리 기판에 그대로 인가할 경우 비아 홀 에지 부분에 응력이 집중되어 마이크로 크랙이 발생한다. 따라서 연마율을 높이기 위해 하중을 증가시키는 프레스톤(Preston) 경험칙을 따르는 대신, 유리 표면 실록산(Si-O-Si) 결합의 수화 반응을 극대화하는 화학 첨가제 기반의 ==표면 연질화 메커니즘== 설계가 필수적이다.",
+      "구리와 유리, 또는 다이아몬드 분말 복합체 간의 극한 경도 차이는 선택비 조절의 패러다임을 바꾼다. 비아를 채운 금속과 베이스 유리가 마모되는 속도의 불균형은 심각한 침식(erosion)을 초래하기 마련이다. 이를 방지하기 위해서는 연마 입자가 연질의 금속막에는 마찰 저항을 전달하되 취성 모재에는 충격을 완화하는 유기-무기 하이브리드 분산제의 완충 작용이 정밀하게 설계되어야 한다.",
+      "그러나 레이저 가공 기술이나 직접 식각 기반의 비아 비충전 평탄화 기술이 급진적으로 발전하여 연마 스텝 자체를 우회할 경우, 유리기판 전용 CMP 소재 시장의 개화는 지연될 수 있다. 아울러 대면적 유리 패널의 지지 및 이송 장비 표준화가 지연되면서 발생하는 수율 손실이 슬러리 소재의 기술적 이점을 상쇄할 가능성도 상존한다."
+     ],
+     "pull_quote": "유리와 방열 기판의 평탄화는 물리적 절삭이 아니라, 표면 결합을 화학적으로 약화시켜 부드럽게 걷어내는 계면 반응의 통제력에 달려 있다.",
+     "watch": [
+      "대면적 TGV 패널 연마 장비의 파손율 및 수율 지표 발표",
+      "SiC 및 다이아몬드 방열 기판의 CMP 공정 도입 주기",
+      "글로벌 패키징 기판 제조사들의 유리기판 양산 라인 발주 시점"
+     ]
+    },
+    "diagram": {
+     "title": "TGV 유리기판 Cu 비아 평탄화 계면",
+     "abrasive": "Surface-modified Ceria",
+     "pad": "Soft Porous Polyurethane",
+     "polish_stop_after": 1,
+     "layers": [
+      {
+       "name": "Cu 도금 오버버든",
+       "material": "Cu",
+       "role": "비아 충전층",
+       "thickness": 1.2,
+       "remove": true
+      },
+      {
+       "name": "Ti 시드 배리어",
+       "material": "TaN",
+       "role": "부착층",
+       "thickness": 0.05,
+       "remove": true
+      },
+      {
+       "name": "TGV 관통 배선",
+       "material": "Cu",
+       "host": "SiO2",
+       "pattern": "inlaid",
+       "dishing": true,
+       "role": "관통 전극",
+       "thickness": 2.0
+      },
+      {
+       "name": "유리 코어 기판",
+       "material": "SiO2",
+       "role": "절연 지지체",
+       "thickness": 2.0
+      }
+     ],
+     "caption": "취성 유리 기판 내 **관통 비아 금속의 단차와 미소 크랙**을 방지하는 저압 CMP 도식."
+    }
+   }
+  ],
+  "papers": [],
+  "study": {
+   "why_it_matters": [
+    {
+     "label": "왜",
+     "text": "패드 표면 거칠기는 슬러리 입자의 실효 접촉 압력을 결정하는 근본 변수다."
+    },
+    {
+     "label": "연결",
+     "text": "컨디셔닝 제어 실패는 웨이퍼 표면 결함 급증과 연마율 드리프트로 직결된다."
+    }
+   ],
+   "concept": {
+    "title": "그린우드-윌리엄슨(Greenwood-Williamson) 접촉 모델과 패드 아스페리티 변형",
+    "equation": "A_r = \\pi \\cdot \\eta \\cdot R \\cdot \\int_{d}^{\\infty} (z - d) \\phi(z) dz",
+    "equation_note": "A_r: 실접촉면적, \\eta: 돌기 밀도, R: 돌기 곡률반경, d: 분리 거리, \\phi(z): 돌기 높이 확률분포",
+    "points": [
+     {
+      "label": "의미",
+      "text": "패드 겉보기 면적 중 실제 웨이퍼와 접촉하는 면적은 아스페리티 높이 분포의 적분값에 비례함"
+     },
+     {
+      "label": "한계",
+      "text": "탄성 변형만을 가정하므로 고하중 연마 시 발생하는 패드 폴리우레탄의 점탄성 소성 변형 반영 제한"
+     },
+     {
+      "label": "확장",
+      "text": "컨디셔너 다이아몬드 입자 크기와 스캔 속도로 \\phi(z) 분포를 가우시안 형태로 일정하게 복원 유지"
+     }
+    ],
+    "curve": {
+     "title": "패드 거칠기(Ra)에 따른 연마율(RR)과 결함 지수의 트레이드오프",
+     "shape": "peak",
+     "x_label": "Pad Surface Roughness Ra (um)",
+     "y_label": "Removal Rate / Defect Level (A.U.)",
+     "regions": [
+      {
+       "from": 0.0,
+       "to": 0.3,
+       "label": "패드 글레이징 구역"
+      },
+      {
+       "from": 0.3,
+       "to": 0.7,
+       "label": "최적 연마 윈도우"
+      },
+      {
+       "from": 0.7,
+       "to": 1.0,
+       "label": "스크래치 위험 구역"
+      }
+     ],
+     "marks": [
+      {
+       "at": 0.5,
+       "label": "최적 밸런스 Ra"
+      }
+     ],
+     "caption": "거칠기가 너무 낮으면 슬러리 공급 차단으로 연마율이 급감하고 과도하면 **국소 압력 집중으로 결함이 급증**함."
+    },
+    "diagram": null
+   },
+   "readings": [
+    {
+     "focus": "고분자 네트워크의 불균일성과 기계적 물성 저하 극복 방안을 CMP **패드 폴리우레탄 탄성 거동** 해석에 투영하여 고찰할 것",
+     "title": "Evolution of Hybrid Hydrogels: Next-Generation Biomaterials for Drug Delivery and Tissue Engineering",
+     "journal": "Gels",
+     "year": "2024",
+     "doi": "10.3390/gels10040216",
+     "authors_list": [
+      "Md Mohosin Rana",
+      "Hector De la Hoz Siegler"
+     ],
+     "corresponding_display": "Hector De la Hoz Siegler",
+     "corresponding_label": "Corresponding",
+     "affiliation": "University of Calgary",
+     "cited_by": 240,
+     "openalex": "https://openalex.org/W4393094445",
+     "verified": true,
+     "type": "Review",
+     "authors": "Md Mohosin Rana et al."
+    }
+   ],
+   "patents": [
+    {
+     "key_claim": "구리 금속 표면 평탄화 시 디싱과 결함을 억제하도록 패드 표면 상태를 유지하는 화학 기계적 연마 패드 구조 및 연마 방법",
+     "number": "JP7260698B2",
+     "title": "chemical mechanical polishing pad",
+     "assignee": "ローム アンド ハース エレクトロニック マテリアルズ シーエムピー ホウルディングス インコーポレイテッド",
+     "year": "2017",
+     "verified": true
+    },
+    {
+     "key_claim": "CMP 공정 직후 기판을 지지체에서 회전시키며 잔류 입자와 오염물을 제거하는 포스트 세정 장비 및 기판 세정 시퀀스",
+     "number": "CN104956467B",
+     "title": "Method and apparatus for the base-plate cleaning after chemical-mechanical …",
+     "assignee": "应用材料公司",
+     "year": "2013",
+     "verified": true
+    }
+   ],
+   "plan": [
+    {
+     "time": "08:30",
+     "minutes": 20,
+     "task": "Greenwood-Williamson 접촉 역학 논문 발췌독 및 실효 접촉면적 수식 정리"
+    },
+    {
+     "time": "08:50",
+     "minutes": 25,
+     "task": "특허 T1을 검토하며 금속 연마용 패드의 디싱 억제 메커니즘과 표면 홈 구조 비교 분석"
+    },
+    {
+     "time": "09:15",
+     "minutes": 15,
+     "task": "컨디셔너 마모에 따른 패드 거칠기 감쇄 곡선과 당사 슬러리 연마율 변동 데이터 대조"
+    }
+   ],
+   "self_check": [
+    {
+     "q": "패드 글레이징(glazing) 현상이 연마율을 급격히 떨어뜨리는 기구적 원인은 무엇인가?",
+     "a": "마찰열과 압력으로 아스페리티 끝단이 소성 변형되어 뭉개지면서 기공이 막히고 슬러리 입자를 포집·이송하는 포켓 역할을 상실하기 때문이다."
+    },
+    {
+     "q": "컨디셔너 다이아몬드의 절입 깊이가 과도할 때 웨이퍼 결함률이 상승하는 메커니즘은?",
+     "a": "패드 표면에 파단된 대형 폴리우레탄 잔여 파편(debris)이 발생하고, 돌기 높이 편차가 커져 특정 입자에 국소 접촉 압력이 집중되어 스크래치를 유발하기 때문이다."
+    },
+    {
+     "q": "하이브리드 본딩용 저디싱 연마에서 하드 패드가 소프트 패드보다 유리한 접촉역학적 이유는?",
+     "a": "하드 패드는 높은 탄성 계수로 인해 구리 배선과 유전체 간 미세 단차 발생 시 오목부로 패드가 휘어 들어가는 탄성 침투(elastic rebound/penetration) 현상을 억제하기 때문이다."
+    }
+   ],
+   "theme": "패드 소재·컨디셔닝과 표면 거칠기"
+  },
+  "news": [
+   {
+    "title": "OCI, 인도서 무관세 혜택 지속…中 경쟁사는 최대 1296달러 관세",
+    "source": "핀포인트뉴스",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE16ZThjeHMwcFc3UFhqWE5xTjZsVWVyb1o4UFhMWklTallPOXA5d01DM3h3RTJjWXlSRnFjQkV6dkRYcGNPSGhSdVZKNWpLYkxKdFlnV3ZDSDFnRVRYUGpLTG81RDE3c0EzNnBzaExLb1pYa2PSAXdBVV95cUxNRFB4UnRZOFV5UWk5VFptbGNvNVA5V0dhNzJpTEFIMTBLRFI3QzA2LU9oOFFHTVpSR3drcU1PdXdMVE93Tlp5Nk0xUERKLXhvV0tULUdmRHhPSGxOeW9wc2pMazA0VERwaV9veE0wRXppQ2psYVNqOA?oc=5",
+    "date": "2026-11-11",
+    "lang": "ko"
+   },
+   {
+    "title": "Mitsui Chemicals To Acquire JSR For $11.6B",
+    "source": "Semiecosystem",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9hY2xNTjJNdTdxczNEek9ZTnVWQmxvRTRndGtfeDBNOF9meWptS3F3UTZWMzU3ZEs3ckxSV2NVTVFCMHdTWThxd2NUc1MxMnAzY3N1dWlmY0c1STJBM1ZMaDR4aEhqT3NPdmxLallEQk9lbk53UG1KelVR?oc=5",
+    "date": "2026-11-10",
+    "lang": "en"
+   },
+   {
+    "title": "Mitsui Chemicals: JSR Acquisition Valued At $8.81 Billion (¥1.39 Trillion) To Expand Semiconductor Materials Business",
+    "source": "Pulse 2.0",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOazhzN3EyN0JQMS1mNW5xeGFCVTVaLTdocmhTTVBZWVVOdm13WHMxbG5qMVpaMlZ4ZG4wYVRYRUdQMG9NR3daNEx1bHVyRU1nWDE4bmw0Sm1DZ1c3VUZlbnlOaUpSdmIteUFCb0F4eVpnaHlCazZMZ2NYd0lzS204UVZBYWJuNDdVSWE2WVF3bEctY05ITUJINmJhbFBvd05VTjhSMFA4eTY1bTNRaHl4OTM0UmxJSWZUSWcyRjdsRUU0Y1cyRGU2THpCTnVfX2F6MTl1bg?oc=5",
+    "date": "2026-11-10",
+    "lang": "en"
+   },
+   {
+    "title": "Shrinking Hybrid Bonding Pitches Push Inspection Limits",
+    "source": "Semiconductor Engineering",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR0dUbWltQkdIeUJCV3BkenlZYnJyVlpUSkhQaENtUDkyU01hNDFKdURMN1FqUFlkbWN5NGFOZGFHSjBqdzFaVHpfdnN2eE9jUEwyZmh6RDJEOVhjSUhfQVc5ZjczOERJVU0wSGc3YkxRMnZTTUJVemV3ZEVqZEFTb0p5ZC1nYS00bS1ENQ?oc=5",
+    "date": "2026-11-10",
+    "lang": "en"
+   },
+   {
+    "title": "[신한다이아몬드공업] '산업의 칼' 다이아몬드 공구 한길 반세기...반도체·첨단소재로 영토 넓힌다",
+    "source": "https://technovalue.com/",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBldDNPVGhTaUNzRnhZTzVUSHFRbnRtb2FKYl9CSE05a2dFMG54VWFHMW1IZ0taOWJ0bWpBRXNkSmFOaW5rZ0Y5cFNPUFZOVkVnYW53WU02Zw?oc=5",
+    "date": "2026-11-10",
+    "lang": "ko"
+   },
+   {
+    "title": "AI·HBM 투자 확대에 반도체 소재株 들썩…엘티씨·케이씨텍 폭풍매수",
+    "source": "핀포인트뉴스",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96TDNUU21wN2xibnFkYzI4d2hBQnB3ZE1XX0RnRWxURDBWSmFRVFBiYXNVWnhNZDBvQ0VQaGZkZlZ1YnpYWGh3ZHdQN1VGTnRJbk9PdDZKZ1B1NWd1UkszWm1UaUFxLUtBbHdXem9RVGhkRHfSAXdBVV95cUxQUXNKSTROVE5QMjFXdm0tUHJGY0hjUnY3S09OVEZtWnhTN0JoRzhCTkl1cUlOWkpkSHNDU2d2U2xrLWNDQWFwMTN5b2hyS1ozaHZCY2JxN2ZDbEh5YzBmRXpmN2JRdFB0em52V2ZQeXhzV1B1dFFROA?oc=5",
+    "date": "2026-11-10",
+    "lang": "ko"
+   },
+   {
+    "title": "[中 거인의 공급망] ③'YMTC', 반도체 장비 국산화 승부수…수혜주 라인업",
+    "source": "뉴스핌",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBraDhiMFhjMlJrNklKU3A1RndaZ05nSHRZOG1DS3UzT2dFMzQyaHdNOUxsUGUzSFdCSlpXVDJiQ2labTJvVDdjTWZENXJNUTF1WmxxS0NTUXZuSnVr?oc=5",
+    "date": "2026-11-09",
+    "lang": "ko"
+   },
+   {
+    "title": "Qnity Electronics reports strong growth one year after DuPont split",
+    "source": "Delawareonline.com",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNU01sVTBpT3lvZm9mY2FHWFpvZ1Z0VnJnbnNDb3M5VDFDRXF4OEFrYXFEYkFIeU5sRDJPUVNodTRNM05NMzh2cTNscWhBd2VwWjlWQ21DNUh1OVc2U1g4a2RyeWZmM1ByQXdMV09yMTllcVYtQWFEYUlxVHZRaGJYbDRybVlaOXUxLS1tREJldFA1Wjhua2laV3BzdENKSnkxSXJCYXkwSnRoNTRvZGdkbDlBWGtFWTdncGVaQ0MzMlFrT09ZbXRYWVo3OGhXckV3?oc=5",
+    "date": "2026-11-06",
+    "lang": "en"
+   },
+   {
+    "title": "인테그리스, AI 패키징용 SiC 및 다이아몬드 기반 방열 소재 시장 진출",
+    "source": "elec4",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QMVpnZjhlVWZKWnlsNXJGWV9WdEJfOE9ENGxmZjN6ajZQU25Ld2lqUEV3SmZnY0Q2WElldzRCYW9iM2h3NjhJUHdLekdKd05TWHhNUkxmR3VnQTR1SGpCUklDQkNLeWI3UW5MWE13?oc=5",
+    "date": "2026-11-05",
+    "lang": "ko"
+   },
+   {
+    "title": "[실적+] 동진쎄미켐·케이씨텍, 반도체 호황 타고 성장…CMP 소재 존재감 확대",
+    "source": "녹색경제신문",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1vTXMweVZvUkQ4a3dKS1FsX1QzSnJSaVV4c3phV2xmazAzRkpOazl5YWN5dXBNY3hNVUhlY2FFQkFOdDJsVFZxSkd4cUN3OFZ0NWNMVS1HYTJ3T2NRRjBYQ3NDNnlEemdz?oc=5",
+    "date": "2026-11-05",
+    "lang": "ko"
+   },
+   {
+    "title": "웨이퍼 고정 ‘멤브레인’ 반도체 장비 부품 분류… ‘관세 0%’",
+    "source": "쿠키뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TUHR4U0NzT2FJNjdTRjIwQ1RLdVhGM1B5emVseUU4NzFYUTFDdXBoSkZNMEl4a1ltcnhvRWI4SHJzWklKbGJOcTNhUks1ZDJSam1uQ1JNc2FxcmRhQ2w2cjVmSQ?oc=5",
+    "date": "2026-11-05",
+    "lang": "ko"
+   },
+   {
+    "title": "한화이센셜, 유리기판 사업 '고삐'…인력채용·핵심 공정 개발 나서",
+    "source": "지디넷코리아",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xNEJ2c1JDdlRYSnJkWWtMbHNzQXk4WTc0WmF5cTZDdWtTWmZ6cGFNdXB3c2diWG5aSURXQWRJWUt5dmpLdUo2bHQzdzZMVmhydk1NUTV3?oc=5",
+    "date": "2026-11-03",
+    "lang": "ko"
+   },
+   {
+    "title": "Ace nanochem Develops Three New Semiconductor Materials for Power Devices and Advanced Packaging",
+    "source": "The Manila Times",
+    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRFV0REljMmxHVkdER2t0dW95WG9ZbnZjSWtLQ3g5M1RGdEVvakJzbDFRYkVxeGdMWFRGQUpsTGtObDNWZE9POEMxRDB4MkRlVDRpQ1RNMk9JWnBPWDRDT1JfRTR2MFJBeGR5MWtpdUt0cmg0TGQ3dHlwbFROSmVEYW9lV3RoXzdST1gxaTlodGlpdlh3dmlkZTdURGRadTJqTXlDYVVHWExTcEtwV19yTURacjVBd3FwNmdDWGxjeVNkeV9oU05pVm9KdlFRTXBfVnhPd3haX1dneFpaQU1xRG1lcV95TldlaTlDYlFRNG1sa1BOc19YWWhncEbSAYICQVVfeXFMTm12Qm1pOGtUM0pEZTZhSm1tcUR3V1NhelJHMGdSZnNlZGNqUm9RU3FZTXNzTjNlR2w4U3p6bzluZGFkZnMzMXdOa19HTkQwYXlGSVJEb2tPb0tzRTdIN3I4eXprNC1ybXpnVm5TdU43VDhXa2w0Q2RZbWVwcUQ5ZmgzZGlhTnJ4VmpicFBBVVVTSmxSMXRlaU5GWjhwZlcwTTRWU3hpZXBKS3phdGJJbTFxZ0R6X3hqUHBtUVJiYUhXQkp3Z21nQXNuZVgzU0hTOGFHZjRncjJHMVFORWtqSmFObjl1eE5wMXRnY0NCeHRQNVc4WTJsWWZ5a1UyRnFST3R3?oc=5",
+    "date": "2026-11-02",
+    "lang": "en"
+   },
+   {
+    "title": "17th Edition of Amalthea Kicks Off at IIT Gandhinagar with Massive Turnout Across Tech Expo, Semiconductor Conclave, and National Competitions",
+    "source": "www.pib.gov.in",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZczlXY291eGZOaUllQ2N3N0steEY2SFNjTDBRWWF3akdpdzVDY1NIc25FRk9BU1YtdGUwRC0wX19SZU5CV0JxNE9kVW81TDBXZDZoY3ExZlN1UmNueG1YYjRNN3lUMnB1?oc=5",
+    "date": "2026-10-31",
+    "lang": "en"
+   },
+   {
+    "title": "CMP Slurry Market to Reach USD 12.4 Billion by 2034 as Advanced Semiconductor Manufacturing Expands",
+    "source": "openPR.com",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNXhlalNhR3J4S2lKTG96Q3FfNnpzSDdiQ0p1QThKYWdXZy1laVZYd1VJMV9LbU5uTVJJN3Y1eDVjY1A4YW56eElXbGpyVEFvaHBLMzRZcWZoeGhuWW9JQUFSX1VXX09BYURfb2x0NVdOUmZUYUczQldHeWRyQlhnbTVrMFd5QmRlZjBlTVZQV2lpbllRMlFBSVM2UmJnbVRB?oc=5",
+    "date": "2026-10-30",
+    "lang": "en"
+   },
+   {
+    "title": "Chemical Mechanical Polishing Machine (CMP) Market Size, Share & Forecast 2036",
+    "source": "Fact.MR",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTTd3T1hqXzlUWUxJdnJMbzhtRzBIZFk2c2lVSXN6YkJaWWdzRVBZTTYwM3dvb3ZfRUt2bFVCZmdCaE4wYkRoTkZWaXJTU25RRE9YZm5GQUw0RjZja3lnc2xCT2hZYUJseGFfQVhEWHJtSUZFOUszZmtNV1hrdDdqbXZpejc?oc=5",
+    "date": "2026-10-30",
+    "lang": "en"
+   },
+   {
+    "title": "생기원, 우주 로봇팔 ‘K-ARM’ 및 반도체 CMP 핵심 장비기술 ‘올해의 10대 기계기술’ 선정",
+    "source": "기계신문",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85UUhucTRYM2dCNmZzWDVQdHdZSG11LTMzZ1dTSlFKOG8wM2pCNmNBTnRRRi1NeUVaanZ5SjZ3V2EyZFdXY3JLeGZTWjlxMloyMXpQX09EaklFcUhFRzBTYWRYdW5EZ3M?oc=5",
+    "date": "2026-10-30",
+    "lang": "ko"
+   },
+   {
+    "title": "씽크풀 : 나노신소재(121600)눌릴때마다 물량 모아둘 기회로 보이며 이후 전망 및 대응전략.",
+    "source": "ThinkPool",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vUTBObHFPSVp4NzRyV2QwLXh2dnBwcUtVcE1MQUppdnpjdm9UWXMzamo0aWhQS280Y2E1Rmd0cjk1d05mZXptbENJcHgwQnppUVFUdk5iLVotQ3Uz?oc=5",
+    "date": "2026-10-30",
+    "lang": "ko"
+   },
+   {
+    "title": "KITECH space robot arm and semiconductor CMP tools named Top 10 Mechanical Technologies of 2025",
+    "source": "DongA Science",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aYUVxSXJjejRsaXdJbExVWWlWMElKMkh1UGc0S2d3S21qWHdfWGpDalRWZHlDckFLVGN2UHc1bUJsZ3ZCOWgxZG91aFcxMFlEeFZkSg?oc=5",
+    "date": "2026-10-29",
+    "lang": "en"
+   },
+   {
+    "title": "SK證 “에프엔에스테크, 소재·부품 중심 체질 전환…올해 실적 기대”",
+    "source": "팝콘뉴스",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93NkIzT1d2QTRacmtoOGJKZ2hmYVdJbTZ2MmtueHFyRTAtaVc4UEJGc3B0b1djT1NPUFMtN1BMX1NhQkM5MkNRZG5WcDRRenU1VjU3NWpiZHpTSHU1cDY0endxSllLYzBwMEpoclZB0gFyQVVfeXFMTVBCZm1sRDdqb0hRSDNOQkxSS2hfc3pWZ3FweGxxZC1CMTAyMWxZTVNPaTJveDRzQzZMNEVQTG44Q2lucDllYl9KVUFEa3NVRDdSeVlMTFFIWkpLMzNMMDQtRmRHTVBIRXY4TG1jRFh1QkZR?oc=5",
+    "date": "2026-10-29",
+    "lang": "ko"
+   },
+   {
+    "title": "에프엔에스테크, IT OLED 투자 지연에 목표가 22% 하향-SK",
+    "source": "이데일리",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdmNJeUVHYm1oTDZOSXVZNDMwa1AyUFpGcUIzTTFtV0N0RTY0THJRVFFsODYwMXloOU1YaEJZb3dmYlJwQ09FYkd6dXZXd3FhajFlQnRxLXpaLUI2eGJmZzVvZlhvbmZVcFIwRjcyRTk0bHFkd0dsTWhtcDNwaGx1Wg?oc=5",
+    "date": "2026-10-29",
+    "lang": "ko"
+   },
+   {
+    "title": "[르포] `화면` 대신 `반도체` 품은 유리… TGV 유리기판 격전지 선전 [C-터치 선전 2026]",
+    "source": "디지털데일리",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02cUdWOFhiU2J4R0w5SHk0TWJDYWpIR2VrbFk5S000bWZmek9VbmhWcU9vT3oyUV9FRU44cURCTVFWQ3dKWjN4TUdzT09UV0VjenlSd1hDanFfcmtqVkJYNFl3?oc=5",
+    "date": "2026-10-29",
+    "lang": "ko"
+   }
+  ]
+ }
+}
