@@ -1,0 +1,801 @@
+{
+ "date": "2026-11-15",
+ "generated_at": "2026-11-15T09:11+09:00",
+ "summary": "패키징 진화와 고선택비 계면 제어",
+ "theme": "Post-CMP 세정과 잔류 입자 제거",
+ "day": 12,
+ "total_days": 22,
+ "rows": [
+  {
+   "name": "TSMC",
+   "code": "TSM",
+   "price": 398.7300109863281,
+   "chg": -1.667113716947631,
+   "cap": 2068.002373632,
+   "cur": "$"
+  },
+  {
+   "name": "ASML",
+   "code": "ASML",
+   "price": 1495.1600341796875,
+   "chg": -0.13091542053358143,
+   "cap": 576.261193728,
+   "cur": "$"
+  },
+  {
+   "name": "Intel",
+   "code": "INTC",
+   "price": 59.65999984741211,
+   "chg": -2.516341333871214,
+   "cap": 317.092888576,
+   "cur": "$"
+  },
+  {
+   "name": "SK Hynix",
+   "code": "000660",
+   "price": 1216000.0,
+   "chg": -3.0303030303030303,
+   "cap": 857490.757517312,
+   "cur": "₩"
+  },
+  {
+   "name": "Samsung",
+   "code": "005930",
+   "price": 206000.0,
+   "chg": -0.9615384615384616,
+   "cap": 1341457.067671552,
+   "cur": "₩"
+  },
+  {
+   "name": "AMAT",
+   "code": "AMAT",
+   "price": 370.5,
+   "chg": -2.7431452611037277,
+   "cap": 294.027853824,
+   "cur": "$"
+  }
+ ],
+ "tocs": [
+  null,
+  null
+ ],
+ "notices": [],
+ "data": {
+  "edition_summary": "패키징 진화와 고선택비 계면 제어",
+  "market_insight": {
+   "headline": "장비 실적 반등과 소재 가치사슬의 재편",
+   "bullets": [
+    "**장비 호실적** — AMAT의 4분기 매출 53% 급증은 전방 설비투자 사이클 회복을 선반영 ==소모품 수요 가시성 확보==",
+    "**M&A 가속** — 미쓰이화학의 JSR 인수와 인테그리스의 초연마재 업체 인수로 ==소재 밸류체인 수직계열화 심화==",
+    "**패키징 다변화** — 하이브리드 본딩 피치 축소와 유리기판 도입 가속화로 ==신규 평탄화 공정 요구 증대=="
+   ],
+   "longread": {
+    "title": "설비투자 반등 국면에서 소모성 소재가 쥐는 주도권",
+    "dek": "장비 공급사의 실적 서프라이즈 이면에 숨겨진 단위 공정당 CMP 스텝 증가와 소재 국산화의 역학",
+    "paragraphs": [
+     "주요 반도체 제조사의 주가 조정에도 불구하고 AMAT의 4분기 실적 개선과 차년도 장비 시장 30% 성장 전망은 설비투자 저점 통과를 시사한다. 시장은 단순한 장비 발주 재개에 환호하지만 본질은 공정 집적화에 따른 CMP 스텝 수의 기하급수적 증가에 있다. HBM 고단 적층과 하이브리드 본딩 도입은 웨이퍼당 연마 횟수를 늘릴 뿐 아니라 허용 표면 결함 한계를 원자 수준으로 끌어내리고 있다.",
+     "글로벌 소재 생태계는 기민하게 재편되는 중이다. 미쓰이화학의 JSR 인수와 인테그리스의 초연마재 공급사 인수는 단순한 규모의 경제 확보가 아니라, 포토리소그래피와 CMP를 아우르는 전자재료 플랫폼의 지배력을 강화하려는 포석이다. 공정 미세화가 물리적 한계에 부딪힐수록 패드와 슬러리 계면의 화학적·기계적 일체화 제어가 수율을 좌우하는 결정적 변수로 부상하고 있다.",
+     "국내 생태계 역시 AI와 HBM 투자 확대 흐름에 올라타며 케이씨텍, 동진쎄미켐 등 기능성 소재·장비 공급사를 중심으로 실적 반등 모멘텀을 형성하고 있다. 후공정 고급화와 맞물려 유리기판, SiC 및 다이아몬드 기반 방열 기판 등 신소재 도입이 가시화되면서 과거 실리콘 산화막과 텅스텐에 국한되던 CMP 영역은 복합 계면 제어 공정으로 빠르게 확장되고 있다.",
+     "이러한 낙관적 확장 경로를 무너뜨릴 수 있는 유일한 반대 시나리오는 전방 파운드리 및 메모리 제조사의 가동률 정체와 하이브리드 본딩 도입 지연이다. 계면 결함 검사 한계로 인해 차세대 본딩 양산 시점이 미뤄지거나 유리기판 상용화 수율이 임계치를 넘지 못할 경우, 고부가 슬러리 수요는 예상보다 긴 정체기를 겪을 수 있다."
+    ],
+    "pull_quote": "장비 발주 재개 이면의 본질은 공정 집적화에 따른 CMP 스텝 수의 기하급수적 증가다.",
+    "watch": [
+     "AMAT 호실적 이후 파운드리·메모리 업계의 실질 capex 집행률",
+     "하이브리드 본딩 수율 확보에 따른 슬러리 교체 주기 단축 여부",
+     "유리기판 상용 라인 구축 시 연마 슬러리 스펙 채택 속도"
+    ]
+   }
+  },
+  "industry_needs": [
+   {
+    "need": "하이브리드 본딩 피치 축소 대응",
+    "pain": "미세 피치 접합부의 극단적 단차 및 결함 검사 한계 극복 필요",
+    "refs": [
+     8
+    ]
+   },
+   {
+    "need": "유리기판 핵심 공정 연마 최적화",
+    "pain": "취성 소재 특성으로 인한 크랙 방지와 고제거율 평탄화 동시 달성",
+    "refs": [
+     15,
+     19
+    ]
+   },
+   {
+    "need": "복합 방열 소재 정밀 평탄화",
+    "pain": "초경도 SiC 및 몰리브덴 기판 연마 시 낮은 가공 효율과 결함 제어",
+    "refs": [
+     17,
+     20
+    ]
+   }
+  ],
+  "cmp_tech": [
+   {
+    "tag": "Advanced Packaging",
+    "title": "하이브리드 본딩용 **Cu-유전체** 동시 제어 슬러리",
+    "lede": "미세 피치 접합을 위한 구리 디싱 제어와 유전체 계면 평탄화 기술",
+    "points": [
+     {
+      "label": "배경",
+      "text": "하이브리드 본딩 피치 축소로 계면 단차 검사 한계 도달"
+     },
+     {
+      "label": "핵심 기술",
+      "text": "금속 킬레이트제 및 부식방지제 정밀 설계를 통한 부식 억제"
+     },
+     {
+      "label": "효과",
+      "text": "Cu 리세스 및 유전체 침식 최소화로 완전 밀착 접합 구현"
+     },
+     {
+      "label": "시사점",
+      "text": "세리아 및 실리카 복합 슬러리를 통한 고선택비 평탄화 요구"
+     }
+    ],
+    "key_figures": [
+     {
+      "value": "5.8%",
+      "label": "구리 CMP 슬러리 시장 연평균 성장률"
+     }
+    ],
+    "refs": [
+     8,
+     11
+    ],
+    "players": [
+     {
+      "name": "케이씨텍",
+      "role": "슬러리",
+      "activity": "반도체 소재 및 HBM 공정용 소재 포트폴리오 강화",
+      "refs": [
+       10,
+       16
+      ]
+     },
+     {
+      "name": "AMAT",
+      "role": "장비",
+      "activity": "첨단 패키징 대응 CMP 장비 및 시스템 공급 확대",
+      "refs": [
+       1,
+       2
+      ]
+     }
+    ],
+    "longread": {
+     "title": "서브마이크론 본딩 계면이 요구하는 극한의 선택비 제어",
+     "dek": "구리와 유전체 이종 소재 간 화학적 활성화 에너지를 동기화하는 계면 제어의 정밀도",
+     "paragraphs": [
+      "다이-투-웨이퍼 및 웨이퍼-투-웨이퍼 하이브리드 본딩의 범프리스 구조는 금속 패드와 절연막 계면의 평탄도에 수직 연결의 운명을 건다. 피치가 급격히 축소됨에 따라 미세한 구리 디싱이나 절연막 침식도 본딩 시 보이드 형성과 계면 박리로 이어진다. 기존 인터커넥트 Cu CMP가 잔류 금속 제거와 배선 저항 확보에 방점을 두었다면, 패키징용 평탄화는 접합 에너지 극대화를 위한 **원자 단위 단차 제어**를 목표로 삼는다.",
+      "구리와 유전막은 화학적 산화 속도와 기계적 제거 메커니즘이 근본적으로 상이하다. 슬러리 내 산화제 농도가 지나치면 Cu 패드의 결정립계를 따라 국부적 갈바닉 부식이 발생해 리세스가 심화되고, 기계적 마모력이 지배하면 인접 절연막의 과도 연마로 침식이 유발된다. 이를 극복하려면 Cu 표면에 균일하고 강인한 부동태 피막을 형성함과 동시에 배리어 금속 및 절연막의 연마 속도를 화학적으로 정밀 조율해야 한다.",
+      "결국 승부는 슬러리 내 유기 킬레이트제와 부식 억제제의 배합 안정성에서 판가름 난다. 금속 표면 흡착 시 입체 장애를 부여하는 폴리머 성분과 이종 계면 간 제타 전위를 정밀 제어하는 계면활성제의 역할이 절대적이다. 이 미세 화학 밸런스가 흐트러지면 하이브리드 본딩 후 열처리 과정에서 보이드가 전파되어 전기적 신뢰성을 치명적으로 훼손한다.",
+      "반면 본딩 공정이 기존 솔더 마이크로범프의 극단적 미세화 기술로 대체되거나 플럭스리스 접합 기술의 완성도가 급격히 향상된다면, 하이브리드 본딩용 복합 평탄화 슬러리에 대한 단기적 R&D 투자는 투자 대비 수익률 저하라는 리스크에 직면할 수 있다."
+     ],
+     "pull_quote": "패키징용 평탄화의 본질은 배선 저항 확보가 아닌 접합 에너지 극대화를 위한 원자 단위 단차 제어다.",
+     "watch": [
+      "하이브리드 본딩 적용 칩의 열충격 신뢰성 테스트 통과율",
+      "Cu-SiO2 동시 평탄화 슬러리의 계면 산화물 형성 두께 추이",
+      "패키징 하우스의 플럭스리스 마이크로범프 공정 전환 동향"
+     ]
+    },
+    "diagram": {
+     "title": "Cu-Dielectric 하이브리드 본딩 평탄화 계면",
+     "abrasive": "Colloidal Silica",
+     "pad": "Polyurethane Pad",
+     "polish_stop_after": 0,
+     "layers": [
+      {
+       "name": "Cu Overfill",
+       "material": "Cu",
+       "role": "연마 제거층",
+       "thickness": 0.5,
+       "remove": true
+      },
+      {
+       "name": "Cu Bonding Pad",
+       "material": "Cu",
+       "host": "SiO2",
+       "pattern": "inlaid",
+       "dishing": true,
+       "role": "접합 배선",
+       "thickness": 1.0
+      },
+      {
+       "name": "Dielectric Interlayer",
+       "material": "SiO2",
+       "role": "절연 및 본딩층",
+       "thickness": 1.0,
+       "remove": false
+      },
+      {
+       "name": "Substrate",
+       "material": "Si",
+       "role": "지지 기판",
+       "thickness": 2.0,
+       "remove": false
+      }
+     ],
+     "caption": "하이브리드 본딩 계면에서 **Cu 리세스**를 방지하며 절연층과 동일 평면을 형성하는 복합 연마 공정"
+    }
+   },
+   {
+    "tag": "Substrate CMP",
+    "title": "첨단 방열 및 광학 기판용 **고경도 평탄화**",
+    "lede": "몰리브덴 및 특수 유리기판 가공을 위한 첨가제 복합 고능률 슬러리 시스템",
+    "points": [
+     {
+      "label": "배경",
+      "text": "전력소자 및 AI 패키징의 열 방출 요구 확대로 고방열 기판 부상"
+     },
+     {
+      "label": "핵심 기술",
+      "text": "CeO2-Al2O3 혼합 지립과 킬레이트 첨가제의 계면 반응 촉진"
+     },
+     {
+      "label": "효과",
+      "text": "취성 기판의 결함 억제 및 수직 열전도 경로의 무결함 계면 확보"
+     },
+     {
+      "label": "시사점",
+      "text": "전통 실리콘 연마를 넘어 특수 기판용 맞춤형 입자 배합 필수"
+     }
+    ],
+    "key_figures": [
+     {
+      "value": "521.71 nm/min",
+      "label": "복합 슬러리 기반 유리 기판 MRR"
+     }
+    ],
+    "refs": [
+     15,
+     17,
+     20
+    ],
+    "players": [
+     {
+      "name": "인테그리스",
+      "role": "소재",
+      "activity": "AI 패키징용 SiC 및 다이아몬드 기반 방열 소재 시장 진출",
+      "refs": [
+       17
+      ]
+     },
+     {
+      "name": "케이씨텍",
+      "role": "장비",
+      "activity": "다양한 신규 기판 대응 연마 장비 및 소모 소재 포트폴리오 확장",
+      "refs": [
+       10,
+       16
+      ]
+     }
+    ],
+    "longread": {
+     "title": "열전도 한계를 돌파하기 위한 고경도·취성 기판 연마의 열역학",
+     "dek": "기계적 마모와 화학적 수화층 탈락 사이의 계면 에너지 균형점 탐색",
+     "paragraphs": [
+      "AI 가속기와 고출력 LED 전력반도체의 집적도가 상승하면서 칩셋에서 발생하는 고열을 효과적으로 방출하는 기판의 중요성이 전례 없이 부각되고 있다. 몰리브덴과 같은 고방열 금속 및 광학 유리기판은 우수한 열적 특성을 지니지만, 가공 경도와 취성으로 인해 정밀 CMP 적용에 심각한 마이크로 스크래치와 표면 거칠기 불량을 동반한다. 이는 궁극적으로 방열 계면의 접촉 열저항을 증가시키는 치명적 원인이 된다.",
+      "이러한 난가공성 기판의 제거율을 끌어올리기 위해 경도가 높은 알루미나 입자만을 투입할 경우, 표면 하부 손상과 스크래치가 급증한다. 최근 연구가 입증하듯 세리아와 알루미나의 이종 복합 지립에 구아니딘 카보네이트(GC)와 같은 수화층 형성 촉진제를 도입하면, 화학 반응층의 생성과 기계적 박리가 최적의 동역학적 균형을 이루며 **초평탄 계면**을 형성할 수 있다.",
+      "동시에 음이온계 계면활성제(SL-6C) 등을 병용하여 지립 표면 전하를 개질함으로써 입자 간 응집을 원천적으로 억제해야 한다. 분산 안정성이 결여된 연마액은 마이크로 스케일의 거대 응집체를 유발해 기판에 깊은 소성 변형을 남긴다. 정밀 유기 첨가제를 활용한 계면 윤활막 제어가 고제거율과 원자 수준 표면 조도를 동시에 달성하는 핵심 열쇠다.",
+      "단, 유리기판 및 고방열 특수 메탈 기판의 양산성 검증이 지연되고 대체 쿨링 패키징 기술이 우선 적용될 경우, 고비용 특수 슬러리의 시장 진입 창구가 협소해질 가능성이 상존한다."
+     ],
+     "pull_quote": "경도 높은 지립의 기계적 충격과 수화층 형성제의 화학적 취화가 정확히 맞물려야 한다.",
+     "watch": [
+      "AI 패키징 라인 내 유리기판 파일럿 라인의 CMP 불량률",
+      "특수 합금 기판의 양면 CMP 상용 설비 도입 속도",
+      "방열 소재 연마 슬러리의 재활용 및 슬러리 원가 경쟁력"
+     ]
+    },
+    "diagram": {
+     "title": "고방열 몰리브덴/유리 기판 표면 수화 반응 평탄화",
+     "abrasive": "CeO2-Al2O3 복합 지립",
+     "pad": "Hard Pad",
+     "polish_stop_after": 0,
+     "layers": [
+      {
+       "name": "수화 반응층",
+       "material": "SiO2",
+       "role": "화학 개질층",
+       "thickness": 0.05,
+       "remove": true
+      },
+      {
+       "name": "방열/특수 기판",
+       "material": "Mo",
+       "role": "기판 본체",
+       "thickness": 3.0,
+       "remove": false
+      }
+     ],
+     "caption": "화학 첨가제로 개질된 **표면 수화층**을 복합 지립이 기계적으로 제거하는 초평탄화 메커니즘"
+    }
+   }
+  ],
+  "papers": [
+   {
+    "toc": {
+     "problem": "몰리브덴 기판 CMP 결함",
+     "approach": "직교실험 다요소 시너지 최적화",
+     "outcome": "조도 1.1nm 달성",
+     "outcome_figure": "Sa 1.1 nm"
+    },
+    "points": [
+     {
+      "label": "문제",
+      "text": "LED 방열용 몰리브덴 기판의 높은 경도와 가공 손상 제어 난제"
+     },
+     {
+      "label": "접근",
+      "text": "압력, pH, H2O2, 글리신, 입경을 변수로 양면 연마 직교실험 수행"
+     },
+     {
+      "label": "결과",
+      "text": "MRR 80 nm/min 및 표면 조도 Sa 1.1 nm의 경면 확보"
+     },
+     {
+      "label": "시사점",
+      "text": "산화제와 아미노산 킬레이트제의 상호작용이 금속 표면 평탄화 좌우"
+     }
+    ],
+    "key_figures": [
+     {
+      "value": "115 kPa",
+      "label": "최적 연마 압력"
+     },
+     {
+      "value": "pH 11",
+      "label": "최적 슬러리 pH"
+     },
+     {
+      "value": "0.5%",
+      "label": "H2O2 첨가 농도"
+     },
+     {
+      "value": "5 mg/L",
+      "label": "글리신 첨가 농도"
+     },
+     {
+      "value": "0.6 μm",
+      "label": "연마 입자 크기"
+     },
+     {
+      "value": "80 nm·min−1",
+      "label": "최적 가공 제거율(MRR)"
+     },
+     {
+      "value": "1.1 nm",
+      "label": "최종 표면 조도(Sa)"
+     }
+    ],
+    "review": {
+     "verdict": "직교설계법을 활용하여 금속 방열 기판의 복합 파라미터를 실용적으로 최적화한 연구",
+     "strengths": [
+      "가중치 매트릭스 최적화를 통해 압력, 화학제, 입경의 5개 변수 간 상호작용을 체계적으로 도출",
+      "염기성 영역(pH 11)에서 산화제와 착화제 복합 작용으로 우수한 표면 조도(Sa 1.1 nm) 달성"
+     ],
+     "limits": [
+      "사용한 지립의 구체적인 결정상이나 화학적 조성 데이터 결여",
+      "연마 압력 115 kPa 조건에서 연마 패드의 마모 및 열화 거동에 대한 장기 신뢰성 평가 부재"
+     ],
+     "for_us": "당사 금속 CMP 슬러리 개발 시 염기성 영역에서 H2O2와 아미노산계 킬레이트제의 농도 윈도우를 벤치마크할 필요가 있다. 우선 텅스텐 또는 차세대 몰리브덴 배선 연마 평가 시 pH 10~11 구간에서 글리신 첨가량에 따른 정적 에칭 속도와 동적 연마 속도를 계측해야 한다. 부동태화 막의 전기화학적 임피던스를 분석하여 최적의 착화 반응비를 수립하는 공정 테스트를 우선 실행한다."
+    },
+    "title": "Experimental Study on Double-Sided Chemical Mechanical Polishing of Molybdenum Substrates for LED Devices",
+    "journal": "Micromachines",
+    "year": "2026",
+    "doi": "10.3390/mi17020150",
+    "authors_list": [
+     "Zhihao Zhou",
+     "Jiabin Wang",
+     "Zhongwei Hu",
+     "PinHui Hsieh",
+     "Xipeng Xu"
+    ],
+    "corresponding_display": "Zhongwei Hu",
+    "corresponding_label": "Corresponding",
+    "affiliation": "Huaqiao University",
+    "cited_by": 0,
+    "openalex": "https://openalex.org/W7125530328",
+    "verified": true
+   },
+   {
+    "toc": {
+     "problem": "광학 유리 낮은 MRR",
+     "approach": "CeO2-Al2O3 혼합 및 유기첨가",
+     "outcome": "MRR 7배 향상",
+     "outcome_figure": "521.71 nm/min"
+    },
+    "points": [
+     {
+      "label": "문제",
+      "text": "K9 광학 유리의 높은 경도와 취성으로 인한 연마 효율 저하 및 표면 손상"
+     },
+     {
+      "label": "접근",
+      "text": "CeO2에 소량의 Al2O3를 혼합하고 GC 및 SL-6C 계면활성제 도입"
+     },
+     {
+      "label": "결과",
+      "text": "기존 대비 MRR 7배 상승(521.71 nm/min) 및 조도 0.11 nm 달성"
+     },
+     {
+      "label": "시사점",
+      "text": "기계적 마모 증대와 수화층 형성 촉진의 복합 설계가 극초평탄화 구현"
+     }
+    ],
+    "key_figures": [
+     {
+      "value": "1 wt%",
+      "label": "CeO2 연마 입자 농도"
+     },
+     {
+      "value": "0.05 wt%",
+      "label": "Al2O3 연마 입자 농도"
+     },
+     {
+      "value": "0.2 wt%",
+      "label": "구아니딘 카보네이트(GC) 농도"
+     },
+     {
+      "value": "0.2 wt%",
+      "label": "SL-6C 계면활성제 농도"
+     },
+     {
+      "value": "0.11 nm",
+      "label": "최종 표면 조도"
+     },
+     {
+      "value": "521.71 nm/min",
+      "label": "최적 제거율(MRR)"
+     },
+     {
+      "value": "7배",
+      "label": "단일 세리아 슬러리 대비 제거율 증가폭"
+     }
+    ],
+    "review": {
+     "verdict": "이종 지립의 기계적 특성과 유기 분자의 화학적 계면 제어를 완벽히 조화시킨 고효율 슬러리 개발 논문",
+     "strengths": [
+      "단 0.05 wt%의 소량 알루미나 첨가로 기계적 마찰력을 유효하게 증대시켜 제거율을 7배 비약시킴",
+      "GC에 의한 수화층 형성 촉진과 SL-6C에 의한 정전·배위 분산 안정화를 결합해 0.11 nm의 극저결함 조도 확보"
+     ],
+     "limits": [
+      "장시간 순환 연마 시 이종 지립(CeO2-Al2O3) 간의 전하 차이로 인한 선택적 응집 현상 장기 평가 미흡",
+      "K9 유리 외 반도체 쿼츠 또는 절연 산화막(SiO2)에 대한 선택비 데이터 부재"
+     ],
+     "for_us": "산화막 및 첨단 패키징용 유리기판 CMP용 슬러리 개발 시 고활성 세리아에 미량의 고경도 나노 입자를 하이브리드화하는 설계를 적용할 수 있다. SL-6C 계열의 카르복실레이트계 계면활성제를 당사 세리아 슬러리에 적용하여 지립 분산 안정성을 개선하고 제타 전위 제어를 타겟팅한다. 연마율 상승과 표면 마이크로 스크래치 억제 간의 상관관계를 확인하기 위해 농도별 결함 수 계측 평가를 즉시 수행해야 한다."
+    },
+    "title": "A High-Efficiency Environmentally Friendly Polishing Slurry for K9 Glass Utilizing Cerium-Based Compounds",
+    "journal": "Molecules",
+    "year": "2025",
+    "doi": "10.3390/molecules30234546",
+    "authors_list": [
+     "Shaoping Li",
+     "Rui Ye",
+     "Zhemin Zou",
+     "Zhaobo He",
+     "Kai Ming Feng",
+     "Huidong Cui",
+     "Ruan Chi",
+     "Yukun Chen",
+     "Yue Hao Luo"
+    ],
+    "corresponding_display": "Ruan Chi",
+    "corresponding_label": "Corresponding",
+    "affiliation": "Hubei Three Gorges Laboratory",
+    "cited_by": 2,
+    "openalex": "https://openalex.org/W4416666184",
+    "verified": true
+   }
+  ],
+  "study": {
+   "why_it_matters": [
+    {
+     "label": "왜",
+     "text": "아무리 평탄화 제거율이 높아도 잔류 입자 한 개가 칩 전체의 치명적 쇼트를 유발"
+    },
+    {
+     "label": "연결",
+     "text": "PVA 브러시의 압축 접촉역학 제어가 슬러리 잔류물 탈착의 물리적 한계를 결정"
+    }
+   ],
+   "concept": {
+    "title": "PVA 브러시 압축 변형과 입자 탈착 전단응력 상관성",
+    "equation": "F_{drag} = 6 \\pi \\eta r v + \\tau_{contact} A_{real} > F_{adh} (DLVO + Non-DLVO)",
+    "equation_note": "입자 탈착 조건: 유체 항력과 브러시 직접 접촉 전단력이 기판-입자 간 흡착 인력을 초과해야 함",
+    "points": [
+     {
+      "label": "의미",
+      "text": "PVA 브러시의 다공성 압축 변형에 의해 형성되는 실접촉 면적이 기계적 입자 제거력의 크기 결정"
+     },
+     {
+      "label": "한계",
+      "text": "과도한 압축 압력은 브러시 기공 폐색 및 기판 마찰열을 유발하여 오히려 2차 결함 및 잔류물 유착 야기"
+     },
+     {
+      "label": "확장",
+      "text": "세정액의 계면활성제 투입을 통한 제타 전위 반발력 극대화와 기계적 전단력의 동시 최적화 필수"
+     }
+    ],
+    "curve": {
+     "title": "PVA 브러시 압축률에 따른 잔류 입자 제거 효율(PRE) 및 결함 발생",
+     "shape": "peak",
+     "x_label": "Brush Compression Deformation Rate",
+     "y_label": "Particle Removal Efficiency (%)",
+     "regions": [
+      {
+       "from": 0.0,
+       "to": 0.3,
+       "label": "접촉 불충분 영역"
+      },
+      {
+       "from": 0.3,
+       "to": 0.7,
+       "label": "최적 세정 영역"
+      },
+      {
+       "from": 0.7,
+       "to": 1.0,
+       "label": "과압축 손상 영역"
+      }
+     ],
+     "marks": [
+      {
+       "at": 0.55,
+       "label": "최적 PRE 피크"
+      }
+     ],
+     "caption": "브러시 변형률이 낮으면 물리적 전단력이 부족하고, 과도하면 기공 폐색으로 세정액 순환 저하 및 스크래치가 증가함"
+    },
+    "diagram": null
+   },
+   "readings": [
+    {
+     "focus": "화학 구조 명칭 혼동 주의: 공액 미세다공성 고분자(Conjugated Microporous Polymers)는 반도체 **CMP(연마 공정)**와 무관한 다공성 유기 골격체 합성에 관한 기초 화학 문헌이므로 배경 지식으로만 참고",
+     "title": "Advances in Conjugated Microporous Polymers",
+     "journal": "Chemical Reviews",
+     "year": "2020",
+     "doi": "10.1021/acs.chemrev.9b00399",
+     "authors_list": [
+      "Jet‐Sing M. Lee",
+      "Andrew Ian Cooper"
+     ],
+     "corresponding_display": "Andrew Ian Cooper",
+     "corresponding_label": "Corresponding",
+     "affiliation": "University of Liverpool",
+     "cited_by": 1413,
+     "openalex": "https://openalex.org/W3003716272",
+     "verified": true,
+     "type": "Seminal",
+     "authors": "Jet‐Sing M. Lee et al."
+    },
+    {
+     "focus": "PVA 스펀지 브러시의 기공률(Porosity) 및 포화 흡수율에 따른 **압축 변형량과 웨이퍼 표면 압력의 정량적 상관관계** 분석",
+     "title": "The compression deformation and particles removal of PVA brushes during the post-CMP cleaning process",
+     "journal": "Semiconductor Science and Technology",
+     "year": "2024",
+     "doi": "10.1088/1361-6641/ad78fa",
+     "authors_list": [
+      "Fuping Chen",
+      "Yin Wang",
+      "Fan Zhou",
+      "Guangming Chai",
+      "Haiyang Jin",
+      "Zengyuan Li",
+      "Jiani Zhang",
+      "Yinkui Jiang",
+      "Zihang Wu",
+      "Jiajie Liu",
+      "Frey Zhou",
+      "Shu Yang",
+      "Xiaoyan Zhang",
+      "Huijun Zhao",
+      "Xuejun Li",
+      "David Wei Zhang"
+     ],
+     "corresponding_display": "Fuping Chen",
+     "corresponding_label": "Corresponding",
+     "affiliation": "Fudan University",
+     "cited_by": 2,
+     "openalex": "https://openalex.org/W4402397783",
+     "verified": true,
+     "type": "Recent",
+     "authors": "Fuping Chen et al."
+    }
+   ],
+   "patents": [
+    {
+     "key_claim": "암모늄 도데실 설페이트 및 폴리글리세롤 라우릴 에테르 계면활성제를 포함하는 **연마 후 표면 처리용 세정 조성물**",
+     "number": "JP7645682B2",
+     "title": "Surface treatment composition, method for producing surface treatment …",
+     "assignee": "株式会社フジミインコーポレーテッド",
+     "year": "2021",
+     "verified": true
+    },
+    {
+     "key_claim": "금속 함유층의 부식을 방지하면서 오염물질을 용해·제거하는 **반도체 디바이스용 후처리 세정액**",
+     "number": "TWI923610B",
+     "title": "Treating liquid and method for treating subject",
+     "assignee": "日商富士軟片股份有限公司",
+     "year": "2020",
+     "verified": true
+    }
+   ],
+   "plan": [
+    {
+     "time": "08:30",
+     "minutes": 20,
+     "task": "R2 논문을 통해 PVA 브러시 압축 변형률과 기공 변화율이 물리적 잔류 입자 제거력에 미치는 동역학 수식 정리"
+    },
+    {
+     "time": "08:50",
+     "minutes": 25,
+     "task": "T1 특허 명세서 분석: 음이온(도데실설페이트) 및 비이온(폴리글리세롤 에테르) 계면활성제 복합 처리가 세정 시 잔류물 재흡착 방지에 미치는 메커니즘 도출"
+    },
+    {
+     "time": "09:15",
+     "minutes": 15,
+     "task": "당사 세리아 및 복합 금속 슬러리 세정 프로세스에 브러시 접촉 압력과 세정제 계면 전하 제어 파라미터를 매핑하여 실험 계획표 수립"
+    }
+   ],
+   "self_check": [
+    {
+     "q": "PVA 브러시의 압축 변형률을 무조건 높이는 것이 입자 제거에 유리하지 않은 물리적 이유는 무엇인가?",
+     "a": "과도한 압축 변형은 스펀지 내부 기공을 압착 폐색시켜 세정액의 공급 및 배출 흐름을 차단하며, 브러시와 웨이퍼 간 마찰열 및 전단 응력 과다로 기판 스크래치와 입자 고착을 유발하기 때문이다."
+    },
+    {
+     "q": "T1 특허에서 도데실 설페이트와 폴리글리세롤 라우릴 에테르를 병용하는 주된 계면화학적 목적은 무엇인가?",
+     "a": "음이온성 계면활성제로 입자와 기판 표면의 음전하 반발력을 극대화하여 재부착을 방지하고, 비이온성 폴리글리세롤 유도체로 계면 장력을 낮추어 소수성 오염물 분산 및 젖음성을 보안하기 위함이다."
+    },
+    {
+     "q": "문헌 R1의 Conjugated Microporous Polymers를 반도체 CMP 공정 기술로 오독하면 안 되는 이유는?",
+     "a": "R1은 파이 공액 결합 기반의 다공성 유기 합성 재료(기체 흡착·촉매 등)를 다루는 논문이며, 반도체 평탄화 공정인 Chemical Mechanical Polishing(CMP)과는 약어만 동일할 뿐 무관하기 때문이다."
+    }
+   ],
+   "theme": "Post-CMP 세정과 잔류 입자 제거"
+  },
+  "news": [
+   {
+    "title": "AMAT Q4 Earnings Beat on Record Semiconductor Systems Sales",
+    "source": "The Globe and Mail",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMjVCZURCcVB0MXlRbk11RWRyWWZ3bU5Vak0zZHZwU2VrZ0pjRmZZMHdiZTRHT19QSzhRYy1TQW9IT1dfcmJjZXRBcTJYd2t1aGkwYlZaYjM3QmdzYTZsRXBlZFRzcjJVS2ZSSzlMdjZNVTd3bVJBcFJ6VzBFbTVCU0JFTVdYRDQzZjJNdUhPdGJTV2lyNm0zNzlNekhVX2V6S1RRdWlHZzBkSE5xdmhrNzFtM3Z5aUk1UWxvQWtvTmRCejBfZzloMEM5T29LeklCcmk2dm5vTGdFbldM?oc=5",
+    "date": "2026-11-14",
+    "lang": "en"
+   },
+   {
+    "title": "어플라이드머티어리얼즈, 4분기 매출 53%↑…\"내년 장비시장 30%↑\"",
+    "source": "더페어",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1dmpxeXQxY2czb1ZQMHdoalBQOTJiQnVpR0htbkhTbV91a1QwcHVPcE5pdVJoa3VMWmFCTmtscTRaY1pPY3NkeXZiWXlNbHM4LXNBM2hJMXhBZnVseGpabWxOaGxFcjd4RDNsTm5DQ1g?oc=5",
+    "date": "2026-11-13",
+    "lang": "ko"
+   },
+   {
+    "title": "Applied Materials stock: death cross pattern nears ahead of earnings",
+    "source": "TradingView",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeVhyV0U2V3EtRkR6TXdaMFFUdHcxOGlzSFVISXZoZFVLOHJwYmZfVl9IdXYwblUzWk10UGdrVkkzbGlmTkNaUkRRODN2a3QyWXNJUEFWYzRkTm9BQ0U4dEpCNGRZbWZrVUFZbXppazdwb2txdlIzUk5mUkJySV9BcWg2ajl0U0FsWE9Ga1JiTVh2YjU1U1p6Z29EMHpMRXZYT21qSnNoaE8zaFNuR1lIUm1PMVY3aGUxcVZLRVhRckk?oc=5",
+    "date": "2026-11-11",
+    "lang": "en"
+   },
+   {
+    "title": "에프엔에스테크 주가, 급등세... 무슨 회사길래?",
+    "source": "금강일보",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16OVhKakEwTWhrU1hoeXlodzNNUDZoTjJodmdMeWFaYy1ER1V1S21zS0RwYjViZEswNHJvcTlLUkdIRTA1cDA3NmdIV1h0Uzlwd0pRZTZxX1pfTzlRQ1hxMWU2QXJJX2RWaGc?oc=5",
+    "date": "2026-11-11",
+    "lang": "ko"
+   },
+   {
+    "title": "OCI, 인도서 무관세 혜택 지속…中 경쟁사는 최대 1296달러 관세",
+    "source": "핀포인트뉴스",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EUHhSdFk4VXlRaTlUWm1sY281UDlXR2E3MmlMQUgxMEtEUjdDMDYtT2g4UUdNWlJHd2txTU91d0xUT3dOWnk2TTFQREoteG9XS1QtR2ZEeE9IbE55b3BzakxrMDRURHBpX294TTBFemlDamxhU2o40gF3QVVfeXFMTURQeFJ0WThVeVFpOVRabWxjbzVQOVdHYTcyaUxBSDEwS0RSN0MwNi1PaDhRR01aUkd3a3FNT3V3TFRPd05aeTZNMVBESi14b1dLVC1HZkR4T0hsTnlvcHNqTGswNFREcGlfb3hNMEV6aUNqbGFTajg?oc=5",
+    "date": "2026-11-11",
+    "lang": "ko"
+   },
+   {
+    "title": "Mitsui Chemicals: JSR Acquisition Valued At $8.81 Billion (¥1.39 Trillion) To Expand Semiconductor Materials Business",
+    "source": "Pulse 2.0",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOazhzN3EyN0JQMS1mNW5xeGFCVTVaLTdocmhTTVBZWVVOdm13WHMxbG5qMVpaMlZ4ZG4wYVRYRUdQMG9NR3daNEx1bHVyRU1nWDE4bmw0Sm1DZ1c3VUZlbnlOaUpSdmIteUFCb0F4eVpnaHlCazZMZ2NYd0lzS204UVZBYWJuNDdVSWE2WVF3bEctY05ITUJINmJhbFBvd05VTjhSMFA4eTY1bTNRaHl4OTM0UmxJSWZUSWcyRjdsRUU0Y1cyRGU2THpCTnVfX2F6MTl1bg?oc=5",
+    "date": "2026-11-10",
+    "lang": "en"
+   },
+   {
+    "title": "Mitsui Chemicals To Acquire JSR For $11.6B",
+    "source": "Semiecosystem",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9hY2xNTjJNdTdxczNEek9ZTnVWQmxvRTRndGtfeDBNOF9meWptS3F3UTZWMzU3ZEs3ckxSV2NVTVFCMHdTWThxd2NUc1MxMnAzY3N1dWlmY0c1STJBM1ZMaDR4aEhqT3NPdmxLallEQk9lbk53UG1KelVR?oc=5",
+    "date": "2026-11-10",
+    "lang": "en"
+   },
+   {
+    "title": "Shrinking Hybrid Bonding Pitches Push Inspection Limits",
+    "source": "Semiconductor Engineering",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR0dUbWltQkdIeUJCV3BkenlZYnJyVlpUSkhQaENtUDkyU01hNDFKdURMN1FqUFlkbWN5NGFOZGFHSjBqdzFaVHpfdnN2eE9jUEwyZmh6RDJEOVhjSUhfQVc5ZjczOERJVU0wSGc3YkxRMnZTTUJVemV3ZEVqZEFTb0p5ZC1nYS00bS1ENQ?oc=5",
+    "date": "2026-11-10",
+    "lang": "en"
+   },
+   {
+    "title": "[신한다이아몬드공업] '산업의 칼' 다이아몬드 공구 한길 반세기...반도체·첨단소재로 영토 넓힌다",
+    "source": "https://technovalue.com/",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBldDNPVGhTaUNzRnhZTzVUSHFRbnRtb2FKYl9CSE05a2dFMG54VWFHMW1IZ0taOWJ0bWpBRXNkSmFOaW5rZ0Y5cFNPUFZOVkVnYW53WU02Zw?oc=5",
+    "date": "2026-11-10",
+    "lang": "ko"
+   },
+   {
+    "title": "AI·HBM 투자 확대에 반도체 소재株 들썩…엘티씨·케이씨텍 폭풍매수",
+    "source": "핀포인트뉴스",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96TDNUU21wN2xibnFkYzI4d2hBQnB3ZE1XX0RnRWxURDBWSmFRVFBiYXNVWnhNZDBvQ0VQaGZkZlZ1YnpYWGh3ZHdQN1VGTnRJbk9PdDZKZ1B1NWd1UkszWm1UaUFxLUtBbHdXem9RVGhkRHfSAXdBVV95cUxQUXNKSTROVE5QMjFXdm0tUHJGY0hjUnY3S09OVEZtWnhTN0JoRzhCTkl1cUlOWkpkSHNDU2d2U2xrLWNDQWFwMTN5b2hyS1ozaHZCY2JxN2ZDbEh5YzBmRXpmN2JRdFB0em52V2ZQeXhzV1B1dFFROA?oc=5",
+    "date": "2026-11-10",
+    "lang": "ko"
+   },
+   {
+    "title": "[최신 예측] 구리 CMP 슬러리 시장 규모, 2026년 5억 9,700만 달러 전망｜연평균 성장률 5.8%로 추이 예측｜QYResearch",
+    "source": "note",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Wek5uZXkyUFRGdC03T3BHcHlJQXQwRThDckdpdmJyS2pGN1NUUmlqbGVxRU1NMFJ0RjBKcThqWEZVWHF0VzN2VXBKM0EwaFlycEptak56akh3VnRZNWg0?oc=5",
+    "date": "2026-11-10",
+    "lang": "ko"
+   },
+   {
+    "title": "[中 거인의 공급망] ③'YMTC', 반도체 장비 국산화 승부수…수혜주 라인업",
+    "source": "뉴스핌",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBraDhiMFhjMlJrNklKU3A1RndaZ05nSHRZOG1DS3UzT2dFMzQyaHdNOUxsUGUzSFdCSlpXVDJiQ2labTJvVDdjTWZENXJNUTF1WmxxS0NTUXZuSnVr?oc=5",
+    "date": "2026-11-09",
+    "lang": "ko"
+   },
+   {
+    "title": "Entegris Acquires Superabrasive Materials Supplier",
+    "source": "Semiecosystem",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWHhMZHpOSnFDZHBGLVdmVlVadzFEQThwTm9oSTdMVmVtWkJhWUR4eFRZZzA3b2ZnSVJ2bWJxV1RTOEwyWXFuWlFEdjRJcnJDeDZCTDZKZk81Qi04Skk0OVAwZWY0akw2U3BMN1ZPOGFPaEFNdDItRGphVVlSNUs4U3Vn?oc=5",
+    "date": "2026-11-07",
+    "lang": "en"
+   },
+   {
+    "title": "Qnity Electronics reports strong growth one year after DuPont split",
+    "source": "Delawareonline.com",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNU01sVTBpT3lvZm9mY2FHWFpvZ1Z0VnJnbnNDb3M5VDFDRXF4OEFrYXFEYkFIeU5sRDJPUVNodTRNM05NMzh2cTNscWhBd2VwWjlWQ21DNUh1OVc2U1g4a2RyeWZmM1ByQXdMV09yMTllcVYtQWFEYUlxVHZRaGJYbDRybVlaOXUxLS1tREJldFA1Wjhua2laV3BzdENKSnkxSXJCYXkwSnRoNTRvZGdkbDlBWGtFWTdncGVaQ0MzMlFrT09ZbXRYWVo3OGhXckV3?oc=5",
+    "date": "2026-11-06",
+    "lang": "en"
+   },
+   {
+    "title": "제이앤티씨, 엔비디아 유리기판 공급사 등록",
+    "source": "디일렉",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12SHcxUkpkc3JwZ3pPMS0wT2MzLTRILV9YTWc4WXk3WTg0ZkFhMFVuNWw3Nm5iVjFYRnRTM1VTWlExSDJ3aDB2M3ktbndWcGY5c0RNLVZGQ1VtVUtrUzMtVjVZSzladw?oc=5",
+    "date": "2026-11-06",
+    "lang": "ko"
+   },
+   {
+    "title": "[실적+] 동진쎄미켐·케이씨텍, 반도체 호황 타고 성장…CMP 소재 존재감 확대",
+    "source": "녹색경제신문",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1vTXMweVZvUkQ4a3dKS1FsX1QzSnJSaVV4c3phV2xmazAzRkpOazl5YWN5dXBNY3hNVUhlY2FFQkFOdDJsVFZxSkd4cUN3OFZ0NWNMVS1HYTJ3T2NRRjBYQ3NDNnlEemdz?oc=5",
+    "date": "2026-11-05",
+    "lang": "ko"
+   },
+   {
+    "title": "인테그리스, AI 패키징용 SiC 및 다이아몬드 기반 방열 소재 시장 진출",
+    "source": "elec4",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QMVpnZjhlVWZKWnlsNXJGWV9WdEJfOE9ENGxmZjN6ajZQU25Ld2lqUEV3SmZnY0Q2WElldzRCYW9iM2h3NjhJUHdLekdKd05TWHhNUkxmR3VnQTR1SGpCUklDQkNLeWI3UW5MWE13?oc=5",
+    "date": "2026-11-04",
+    "lang": "ko"
+   },
+   {
+    "title": "CMP 슬러리 시장 규모, 점유율 및 예측(2035년)",
+    "source": "Business Research Insights",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaS1uVDAtcHBCUm4tT3BaeEl4ZkZ4NVVIRUtRUzViWDFOQmtsRHRYMksyX19OSDFRNnRaN1dBYnFIV3o2NFBTb29SSWowQ1pCT1VlZ2lrUDQzQ0RoTXpzRWxuNkRpOTU3WkZCbnJkbWM3UDBEVWtxLVpxdW9JWkJxUERPMjdHSE14UHkw?oc=5",
+    "date": "2026-11-03",
+    "lang": "ko"
+   },
+   {
+    "title": "한화이센셜, 유리기판 사업 '고삐'…인력채용·핵심 공정 개발 나서",
+    "source": "지디넷코리아",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xNEJ2c1JDdlRYSnJkWWtMbHNzQXk4WTc0WmF5cTZDdWtTWmZ6cGFNdXB3c2diWG5aSURXQWRJWUt5dmpLdUo2bHQzdzZMVmhydk1NUTV3?oc=5",
+    "date": "2026-11-03",
+    "lang": "ko"
+   },
+   {
+    "title": "Ace nanochem Develops Three New Semiconductor Materials for Power Devices and Advanced Packaging",
+    "source": "The Manila Times",
+    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRFV0REljMmxHVkdER2t0dW95WG9ZbnZjSWtLQ3g5M1RGdEVvakJzbDFRYkVxeGdMWFRGQUpsTGtObDNWZE9POEMxRDB4MkRlVDRpQ1RNMk9JWnBPWDRDT1JfRTR2MFJBeGR5MWtpdUt0cmg0TGQ3dHlwbFROSmVEYW9lV3RoXzdST1gxaTlodGlpdlh3dmlkZTdURGRadTJqTXlDYVVHWExTcEtwV19yTURacjVBd3FwNmdDWGxjeVNkeV9oU05pVm9KdlFRTXBfVnhPd3haX1dneFpaQU1xRG1lcV95TldlaTlDYlFRNG1sa1BOc19YWWhncEbSAYICQVVfeXFMTm12Qm1pOGtUM0pEZTZhSm1tcUR3V1NhelJHMGdSZnNlZGNqUm9RU3FZTXNzTjNlR2w4U3p6bzluZGFkZnMzMXdOa19HTkQwYXlGSVJEb2tPb0tzRTdIN3I4eXprNC1ybXpnVm5TdU43VDhXa2w0Q2RZbWVwcUQ5ZmgzZGlhTnJ4VmpicFBBVVVTSmxSMXRlaU5GWjhwZlcwTTRWU3hpZXBKS3phdGJJbTFxZ0R6X3hqUHBtUVJiYUhXQkp3Z21nQXNuZVgzU0hTOGFHZjRncjJHMVFORWtqSmFObjl1eE5wMXRnY0NCeHRQNVc4WTJsWWZ5a1UyRnFST3R3?oc=5",
+    "date": "2026-11-02",
+    "lang": "en"
+   }
+  ]
+ }
+}
