@@ -1,0 +1,683 @@
+{
+ "date": "2026-11-18",
+ "generated_at": "2026-11-18T11:34+09:00",
+ "summary": "패키징 고도화와 저유전율 계면 제어의 역학",
+ "theme": "Low-k·SiCN 유전체 CMP",
+ "day": 15,
+ "total_days": 22,
+ "rows": [
+  {
+   "name": "TSMC",
+   "code": "TSM",
+   "price": 359.69000244140625,
+   "chg": -3.6845653543577335,
+   "cap": 1865.522479104,
+   "cur": "$"
+  },
+  {
+   "name": "ASML",
+   "code": "ASML",
+   "price": 1383.1099853515625,
+   "chg": -1.6832685086907595,
+   "cap": 533.075099648,
+   "cur": "$"
+  },
+  {
+   "name": "Intel",
+   "code": "INTC",
+   "price": 55.16999816894531,
+   "chg": -0.5408383723738627,
+   "cap": 293.228544,
+   "cur": "$"
+  },
+  {
+   "name": "SK Hynix",
+   "code": "000660",
+   "price": 1135000.0,
+   "chg": 3.3697632058287796,
+   "cap": 800371.719012352,
+   "cur": "₩"
+  },
+  {
+   "name": "Samsung",
+   "code": "005930",
+   "price": 190900.0,
+   "chg": 0.3152916447714136,
+   "cap": 1243126.878437376,
+   "cur": "₩"
+  },
+  {
+   "name": "AMAT",
+   "code": "AMAT",
+   "price": 349.2300109863281,
+   "chg": -0.29121742003479656,
+   "cap": 277.148041216,
+   "cur": "$"
+  }
+ ],
+ "tocs": [
+  null
+ ],
+ "notices": [],
+ "data": {
+  "edition_summary": "패키징 고도화와 저유전율 계면 제어의 역학",
+  "market_insight": {
+   "headline": "파운드리 조정 속 메모리·소재의 디커플링",
+   "bullets": [
+    "**파운드리 약세와 메모리 반등** — TSMC(-3.68%) 하락 속 SK하이닉스(+3.37%) 상승하며 차별화, ==HBM 공정 고도화 기대감== 반영.",
+    "**소재 섹터 자본 재편** — 미쓰이화학의 JSR 인수와 소재주 매수세 확대, ==소모품의 구조적 지배력== 재평가.",
+    "**장비 실적 호조** — AMAT 호실적과 에바라 순이익 60% 급증, AI 인프라 확장에 따른 평탄화 수요 견인."
+   ],
+   "longread": {
+    "title": "설비투자 사이클의 이면: 장비 증설 둔화와 CMP 소모품의 구조적 비대칭",
+    "dek": "선단 파운드리의 주가 조정 속에서도 적층 고도화에 따른 평탄화 스텝 수 증가는 소모품 업체의 실질 가격 결정력을 떠받친다.",
+    "paragraphs": [
+     "TSMC와 ASML의 주가 조정을 반도체 전방 수요 둔화의 전조로 해석하는 시각은 공정 내 세부 역학을 간과한 것이다. 웨이퍼 투입량의 급격한 팽창이 제한되는 국면에서도 고대역폭 메모리(HBM)와 이종 집적 패키징은 층간 평탄화 스텝을 기하급수적으로 늘리고 있다. 장비 제조사의 수주 잔고가 거시 불확실성에 노출되는 동안, 단위 웨이퍼당 소모되는 **슬러리**와 패드의 단위 면적당 소모율은 적층 수에 비례하여 증가하는 구조적 디커플링이 관측된다.",
+     "미쓰이화학의 116억 달러 규모 JSR 인수와 국내 CMP 소재 기업에 몰리는 자본의 성격은 명확하다. 에바라의 순이익이 60% 급증한 배경 역시 인공지능 기반 고성능 칩에 필수적인 화학기계적 연마 설비의 가동률 유지에 기인한다. 미세화 한계에 직면한 전공정의 설비투자 여력이 후공정 및 3차원 적층 계면 평탄화로 이동하면서, 정밀한 계면 제어 능력을 확보한 소모품 공급망으로 밸류체인의 무게중심이 이동하고 있다.",
+     "현재 시장이 과소평가하고 있는 변수는 세리아 계열 연마재 공급망과 미세 하이브리드 본딩 한계다. 희토류 기반 세리아 소재에 대한 중국의 전략화 움직임과 더불어, 피치 축소에 따른 검사 한계는 슬러리 공급업체에 결함률을 '0'에 수렴하도록 강제하고 있다. 결국 고제거율을 유지하면서도 웨이퍼 표면의 미세 결함을 유발하지 않는 고난도 입자 제어 기술이 단가 방어의 유일한 지렛대가 된다.",
+     "그러나 이 가설은 단일 칩 아키텍처 혁신으로 적층 수요 자체가 둔화되거나 유리기판 등 대체 기판 전환이 지연될 경우 흔들릴 수 있다. ==선단 공정의 단위당 소모품 소모량 증가==가 전체 웨이퍼 팹 가동률의 급격한 하락을 상쇄하지 못하는 시나리오에서는 원가 절감 압박이 소재 업체의 마진을 가장 먼저 훼손할 것이다."
+    ],
+    "pull_quote": "웨이퍼 투입 증가세가 꺾이더라도 적층 수가 늘어나는 한 평탄화 소모품의 시간은 줄어들지 않는다.",
+    "watch": [
+     "미쓰이화학의 JSR 인수 후 전자소재 포트폴리오 통합 속도",
+     "에바라 및 AMAT의 CMP 장비 부문 후속 분기 수주 잔고 추이",
+     "중국의 세리아 연마재 수출 규제 및 대체 공급망 확보 여부"
+    ]
+   }
+  },
+  "industry_needs": [
+   {
+    "need": "하이브리드 본딩 결함 극소화",
+    "pain": "본딩 피치 축소로 인한 미세 결함 검출 한계 도달 및 수율 저하",
+    "refs": [
+     12
+    ]
+   },
+   {
+    "need": "머신러닝 기반 MRR 예측",
+    "pain": "CMP 연마율 변동성으로 인한 가상 계측 정확도 저하 및 공정 제어 지연",
+    "refs": [
+     3
+    ]
+   },
+   {
+    "need": "안정적 세리아 소재 확보",
+    "pain": "세리아 CMP 연마재 공급망의 지정학적 불안정성 증대",
+    "refs": [
+     5
+    ]
+   }
+  ],
+  "cmp_tech": [
+   {
+    "tag": "후면 전력망 연마",
+    "title": "Backside Power Delivery Network 평탄화와 **SiCN** 계면 제어",
+    "lede": "후면 전력망 구현을 위한 실리콘 관통 배선 노출 및 박막 유전체 CMP 정밀화.",
+    "points": [
+     {
+      "label": "배경",
+      "text": "전력 클록 메쉬 구성 시 후면 연마 제어가 클록 스큐 감소를 결정"
+     },
+     {
+      "label": "핵심 기술",
+      "text": "Si 기판 박막화 후 SiCN 및 저유전율 절연막의 선택적 고평탄화"
+     },
+     {
+      "label": "효과",
+      "text": "배선 저항 불균일 해소 및 전력 전달 네트워크의 전력 손실 억제"
+     },
+     {
+      "label": "시사점",
+      "text": "전면 대비 결함 허용치가 극도로 낮은 후면 박막 연마 슬러리 요구"
+     }
+    ],
+    "key_figures": [
+     {
+      "value": "Backside Clock Mesh",
+      "label": "Skew and Power Reduction"
+     }
+    ],
+    "refs": [
+     1,
+     13
+    ],
+    "players": [
+     {
+      "name": "케이씨텍",
+      "role": "장비",
+      "activity": "반도체 호황 속 CMP 장비 및 소재 시장 지배력 확대 추진",
+      "refs": [
+       13,
+       17
+      ]
+     },
+     {
+      "name": "AMAT",
+      "role": "장비",
+      "activity": "선단 노드 반도체 시스템 매출 호조로 견고한 실적 유지",
+      "refs": [
+       7
+      ]
+     }
+    ],
+    "longread": {
+     "title": "후면 배선망(BSPDN) 전환이 촉발하는 박막 CMP 화학의 패러다임 변화",
+     "dek": "전면 배선 한계를 극복하기 위한 후면 전력 공급망은 박막 두께 균일성과 SiCN 선택비의 극단적 정밀도를 요구한다.",
+     "paragraphs": [
+      "로직 소자의 스케일링이 한계에 직면함에 따라 전력 공급 배선을 웨이퍼 후면으로 이전하는 후면 전력 공급망(BSPDN) 구조가 선단 파운드리의 표준 아키텍처로 부상하고 있다. KAIST가 발표한 후면 클록 메쉬 구조는 클록 스큐와 소비 전력을 동시에 낮추는 이점을 입증했으나, 제조 공정 측면에서는 극한의 박막 균일도를 요구한다. 나노 단위로 웨이퍼를 박막화한 후 미세 실리콘 관통 전극(TSV)을 손상 없이 노출시키는 평탄화 공정은 과거의 CMP와는 차원이 다른 계면 제어를 강제한다.",
+      "이 공정의 기술적 핵심은 실리콘 기판 박막화 이후 노출되는 배리어 및 유전체 층간의 선택비 플래토를 확보하는 것이다. SiCN 및 저유전율 유전막이 혼재된 복합 계면에서 특정 막질의 과도한 리세스나 디싱은 배선 저항의 산포로 직결된다. 슬러리 내 화학 첨가제가 **SiCN** 박막 표면과 형성하는 흡착 흡열 반응의 열역학적 안정성이 전체 전력 분배망의 전기적 신뢰성을 좌우하는 병목으로 작용한다.",
+      "장비 업계는 Virtual Metrology와 결합된 실시간 인라인 압력 제어로 대응하려 하지만, 기계적 접근만으로는 한계가 명확하다. 슬러리의 화학적 패시베이션 층이 연마 패드의 기계적 응력 하에서만 국소적으로 탈착되는 동적 평형 상태를 설계해야만 잔류 결함 없는 평탄화가 완결된다. 케이씨텍 등 국내 소재·장비 연계 기업들이 주목받는 이유 역시 이러한 맞춤형 슬러리 화학과 장비 제어의 통합 역량에 있다.",
+      "만약 후면 공정에서 유전막 크랙 방지를 위해 CMP 대신 건식 식각 비중을 극단적으로 높이는 대체 공정이 완성된다면 ==후면 유전체 전용 슬러리==의 시장 잠재력은 축소될 수 있다. 또한 캐리어 웨이퍼 본딩의 열팽창 불일치 문제를 본딩 층 자체에서 완벽히 흡수하지 못할 경우 웨이퍼 휨으로 인한 CMP 공정 마진은 성립하기 어렵다."
+     ],
+     "pull_quote": "후면 전력망의 성패는 나노 박막 계면에서 화학적 패시베이션 층을 얼마나 정밀하게 유지하느냐에 달려 있다.",
+     "watch": [
+      "후면 배선 공정 내 SiCN 라이너 도입 비중 추이",
+      "BSPDN 수율 검증을 위한 가상 계측(VM) 인라인 도입률",
+      "CMP 장비사들의 박막 웨이퍼 엣지 프로파일 제어 기술 개발 현황"
+     ]
+    },
+    "diagram": {
+     "title": "BSPDN Contact Via Expose CMP",
+     "abrasive": "Colloidal Silica",
+     "pad": "Hard Polyurethane",
+     "polish_stop_after": 2,
+     "layers": [
+      {
+       "name": "Thinning Si",
+       "material": "Si",
+       "role": "잔여 기판",
+       "thickness": 0.5,
+       "remove": true
+      },
+      {
+       "name": "Dielectric Liner",
+       "material": "SiCN",
+       "role": "식각정지막",
+       "thickness": 0.05,
+       "remove": false
+      },
+      {
+       "name": "Power Delivery Via",
+       "material": "W",
+       "host": "SiO2",
+       "pattern": "inlaid",
+       "dishing": false,
+       "role": "전력 배선",
+       "thickness": 1.0
+      }
+     ],
+     "caption": "후면 실리콘 제거 후 **SiCN** 라이너 상에서 정밀 정지하는 평탄화 모식도."
+    }
+   },
+   {
+    "tag": "첨단 패키징 본딩",
+    "title": "서브마이크론 하이브리드 본딩을 위한 **Cu/SiO2** 초평탄화",
+    "lede": "다이-투-웨이퍼 피치 축소에 대응하는 원자 수준의 디싱 제어 기술.",
+    "points": [
+     {
+      "label": "배경",
+      "text": "본딩 피치 축소로 인한 본딩 계면 결함 검출의 한계 직면"
+     },
+     {
+      "label": "핵심 기술",
+      "text": "구리 배선과 산화막 절연체 간 단차 제로화 및 입자 흡착 억제"
+     },
+     {
+      "label": "효과",
+      "text": "하이브리드 다이 적층 계면의 보이드 형성 차단 및 접합력 극대화"
+     },
+     {
+      "label": "시사점",
+      "text": "화학적 부식 억제제와 고경도 코어쉘 연마 입자의 배합 정밀화"
+     }
+    ],
+    "key_figures": [
+     {
+      "value": "Sub-micron Pitch",
+      "label": "Hybrid Bonding Limits"
+     }
+    ],
+    "refs": [
+     12,
+     16
+    ],
+    "players": [
+     {
+      "name": "SK하이닉스",
+      "role": "소자",
+      "activity": "트리니티 팹을 통한 소재·부품·장비 검증 체계 고도화",
+      "refs": [
+       6
+      ]
+     },
+     {
+      "name": "에바라",
+      "role": "장비",
+      "activity": "AI 반도체 수요 기반 CMP 장비 실적 급증 기록",
+      "refs": [
+       8
+      ]
+     }
+    ],
+    "longread": {
+     "title": "원자 스케일 하이브리드 본딩: 평탄화 편차 제로를 향한 계면 접촉역학",
+     "dek": "미세 피치 본딩에서 단 몇 옹스트롬의 구리 디싱은 소자 전체의 전기적 접촉 불량과 계면 보이드로 이어진다.",
+     "paragraphs": [
+      "하이브리드 본딩 기술이 1마이크론 이하 피치로 좁혀지면서 계면 평탄화는 물리적 한계에 부딪히고 있다. 구리 패드와 유전체 절연막의 열팽창 계수 차이를 고려할 때, 상온 CMP 단계에서 유도되는 미세 단차는 후속 열처리 본딩 공정의 무결성을 결정한다. Semiconductor Engineering이 지적했듯 검사 기술의 분해능이 물리적 피치 축소 속도를 따라가지 못하는 상황에서, CMP 공정 단계의 완전한 결함 제어만이 수율 붕괴를 막는 유일한 방파제다.",
+      "핵심 과제는 기계적 응력 인가 시 구리와 산화물 계면에서 발생하는 연마 속도 차이를 물리화학적으로 억제하는 것이다. 기존의 벤조트리아졸(BTA) 기반 부식 방지막만으로는 전단 응력 하에서 패시베이션 층의 파열과 불균일 용출을 통제하기 어렵다. 연마 입자가 배선 표면과 충돌할 때 발생하는 국소 접촉 압력을 분산시키면서도 화학 반응층만을 선택적으로 제거하는 정교한 **트라이볼로지** 모델링이 슬러리 설계의 선결 요건이다.",
+      "특히 SK하이닉스의 '트리니티 팹'과 같은 소재·장비 검증 인프라의 가동은 이러한 미세 결함 제어의 검증 주기를 단축시키고 있다. 연마 속도를 희생하지 않으면서도 구리 표면의 거칠기를 원자 수준으로 제어하기 위해, 코어-쉘 입자 기술 및 유기 킬레이트 복합체의 농도 프로파일을 나노초 단위의 계면 동역학 수준에서 최적화해야 한다.",
+      "그러나 열처리 본딩 공정 자체에서 구리의 표면 확산 능력을 인위적으로 강화하는 저온 확산 본딩 신소재가 도입된다면 ==극단적 디싱 제어==에 대한 슬러리의 마진 요건은 완화될 가능성이 있다. 또한 다이 휨 제어가 불가능한 수준으로 칩 두께가 얇아진다면 CMP의 정밀도와 무관하게 접합 보이드가 발생하여 기술의 주도권이 패키징 핸들링 장비로 넘어갈 위험도 상존한다."
+     ],
+     "pull_quote": "하이브리드 본딩 피치가 축소될수록 슬러리는 단순한 연마재가 아닌 원자 단위 표면 평활화 시약으로 기능해야 한다.",
+     "watch": [
+      "하이브리드 본딩 피치 0.5um 이하 양산 진입 시점",
+      "Cu-to-Cu 무보이드 접합을 위한 화학 세정 복합 슬러리 평가 결과",
+      "검사 장비의 인라인 결함 분해능 한계 개선 추이"
+     ]
+    },
+    "diagram": {
+     "title": "Hybrid Bonding Ultra-flat CMP",
+     "abrasive": "SiO2@ZrO2 Core-Shell",
+     "pad": "Low-deflection Polyurethane",
+     "polish_stop_after": 1,
+     "layers": [
+      {
+       "name": "Overburden Cu",
+       "material": "Cu",
+       "role": "벌크 도전체",
+       "thickness": 0.3,
+       "remove": true
+      },
+      {
+       "name": "Cu Pad",
+       "material": "Cu",
+       "host": "SiO2",
+       "pattern": "inlaid",
+       "dishing": false,
+       "role": "본딩 접점",
+       "thickness": 0.5
+      },
+      {
+       "name": "Substrate Dielectric",
+       "material": "SiO2",
+       "role": "절연 베이스",
+       "thickness": 1.0,
+       "remove": false
+      }
+     ],
+     "caption": "단차 발생을 원천 억제하여 잔류 응력을 배제한 **Cu/SiO2** 동시 평탄화 단면."
+    }
+   }
+  ],
+  "papers": [
+   {
+    "toc": {
+     "problem": "고연마율과 원자수준 거칠기의 양립 곤란",
+     "approach": "졸겔 합성 SiO2@ZrO2 코어쉘 입자 적용",
+     "outcome": "연마율 2.8배 향상 및 거칠기 개선",
+     "outcome_figure": "353.54 nm/min"
+    },
+    "points": [
+     {
+      "label": "문제",
+      "text": "실리콘 웨이퍼 연마 시 고연마율과 원자 스케일 표면 품질의 동시 달성 한계"
+     },
+     {
+      "label": "접근",
+      "text": "비정질 실리카 코어(70nm)에 정방정계 지르코니아 쉘(6nm)을 코팅한 코어쉘 입자 합성"
+     },
+     {
+      "label": "결과",
+      "text": "순수 실리카 대비 2.8배 높은 연마율(353.54 nm/min) 및 Ra 0.105 nm 달성"
+     },
+     {
+      "label": "시사점",
+      "text": "고경도 쉘 구조를 통한 전단응력 극대화와 압입깊이 제어로 스크래치 억제"
+     }
+    ],
+    "key_figures": [
+     {
+      "value": "353.54 nm/min",
+      "label": "Material Removal Rate (MRR)"
+     },
+     {
+      "value": "2.8배",
+      "label": "Pure SiO2 대비 연마율 증가 배수"
+     },
+     {
+      "value": "0.105 ± 0.015 nm",
+      "label": "Surface Roughness (Ra)"
+     },
+     {
+      "value": "~70 nm",
+      "label": "Amorphous SiO2 Core Diameter"
+     },
+     {
+      "value": "~6 nm",
+      "label": "Tetragonal ZrO2 Shell Thickness"
+     }
+    ],
+    "review": {
+     "verdict": "코어쉘 복합 입자의 기계적 변형 억제 특성을 정밀 제어하여 연마 효율과 결함 제어의 상충관계를 극복한 의미 있는 결과다.",
+     "strengths": [
+      "Si-O-Zr 공유결합을 화학적으로 검증하여 쉘 탈락으로 인한 결함 발생 가능성을 사전에 차단함",
+      "탄성 변형 억제 및 접촉 면적 축소를 통한 전단 응력 증가 메커니즘을 역학적으로 명확히 규명함",
+      "단일 연마재 조건에서 원자 스케일(Ra ~0.1nm) 표면 조도와 350 nm/min 이상의 제거율을 동시 입증함"
+     ],
+     "limits": [
+      "실리콘 단결정 기판 결과로 다층 박막(Low-k, 배리어 메탈)에 적용 시 선택비 데이터 부재",
+      "장시간 순환 슬러리 조건에서 지르코니아 쉘의 박리 및 슬러리 응집 안정성 장기 평가 미흡",
+      "실제 CMP 공정 패드와의 마모 상호작용 및 패드 수명 영향도 분석 누락"
+     ],
+     "for_us": "당사 세리아 및 실리카 슬러리 라인업의 입자 경도 제어 플랫폼으로 즉각 응용을 검토해야 한다. 우선 70nm 콜로이달 실리카 코어 표면에 지르코니아 쉘을 균일 코팅하는 랩 스케일 합성 재현성을 확보하고, SiCN 및 저유전율 유전막 연마 시 마이크로 스크래치 유발 여부를 블랭킷 웨이퍼에서 확인한다. 이후 입자 분산 안정성을 결정짓는 제타 전위 거동을 산성 및 염기성 영역에서 스캔하여 슬러리 배합 처방에 편입할 수 있는지 검증한다."
+    },
+    "title": "High Removal Rates and Atomically Smooth Surfaces Are Achieved on Silicon Wafers Using the New SiO2@ZrO2 Core–Shell Abrasive",
+    "journal": "Nanomaterials",
+    "year": "2026",
+    "doi": "10.3390/nano16171064",
+    "authors_list": [
+     "Maokui Wang",
+     "Weilong He",
+     "Kai Feng",
+     "Rui Ye",
+     "Yunci Wang",
+     "关维一",
+     "Facheng Qiu",
+     "Xing He Fan",
+     "Renlong Liu"
+    ],
+    "corresponding_display": "Renlong Liu",
+    "corresponding_label": "Corresponding",
+    "affiliation": "Chongqing University",
+    "cited_by": 0,
+    "openalex": "https://openalex.org/W7204242710",
+    "verified": true
+   }
+  ],
+  "study": {
+   "why_it_matters": [
+    {
+     "label": "왜",
+     "text": "배선 지연 극복을 위한 저유전율 다공성 유전체 도입 필수"
+    },
+    {
+     "label": "연결",
+     "text": "기계적 강도 취약성으로 인한 CMP 유기 결함 및 크랙 빈발"
+    }
+   ],
+   "concept": {
+    "title": "다공성 저유전율(Low-k) 박막의 화학기계적 손상 역학",
+    "equation": "MRR = k_p \\cdot P \\cdot V + k_c \\cdot [C] \\cdot \\exp\\left(-\\frac{E_a - \\sigma \\cdot \\Delta V^*}{R T}\\right)",
+    "equation_note": "기계적 마멸 항과 전단 응력(\\sigma)에 의해 활성화 에너지가 변조되는 화학 반응 속도 항의 결합 모델",
+    "points": [
+     {
+      "label": "의미",
+      "text": "기계적 탄성률이 낮은 다공성 유전막은 전단 응력에 의한 결합 파괴 활성화 에너지가 급격히 감소함"
+     },
+     {
+      "label": "한계",
+      "text": "연마율을 높이기 위해 압력(P)을 증가시키면 박막 내부 나노 기공의 붕괴와 크랙이 발생함"
+     },
+     {
+      "label": "확장",
+      "text": "SiCN 등 고밀도 캡핑층과의 선택비를 제어하기 위해 표면 패시베이션 억제제의 흡착열 조절 필수"
+     }
+    ],
+    "curve": {
+     "title": "유전율(k값) 감소에 따른 연마 스크래치 취약도 및 제거율",
+     "shape": "sigmoid",
+     "x_label": "유전율 (k value)",
+     "y_label": "Defect Susceptibility",
+     "regions": [
+      {
+       "from": 0.0,
+       "to": 0.4,
+       "label": "Catastrophic Fracture"
+      },
+      {
+       "from": 0.4,
+       "to": 0.8,
+       "label": "Plastic Shear Dominant"
+      },
+      {
+       "from": 0.8,
+       "to": 1.0,
+       "label": "Stable Wear"
+      }
+     ],
+     "marks": [
+      {
+       "at": 0.4,
+       "label": "Critical k Threshold"
+      }
+     ],
+     "caption": "유전율이 2.5 이하로 낮아질수록 기공도 증가로 인해 **기계적 결함 감수성**이 지수함수적으로 급증함."
+    },
+    "diagram": null
+   },
+   "readings": [
+    {
+     "focus": "극초단 펄스 레이저의 비열적 가공 메커니즘을 CMP의 **국소 접촉 에너지 제어** 및 비열적 표면 개질 개념과 대비하여 고찰할 것.",
+     "title": "Ultrafast laser processing of materials: from science to industry",
+     "journal": "Light Science & Applications",
+     "year": "2016",
+     "doi": "10.1038/lsa.2016.133",
+     "authors_list": [
+      "Mangirdas Malinauskas",
+      "Albertas Žukauskas",
+      "Satoshi Hasegawa",
+      "Yoshio Hayasaki",
+      "Vygantas Mizeikis",
+      "Ričardas Buividas",
+      "Saulius Juodkazis"
+     ],
+     "corresponding_display": "Mangirdas Malinauskas",
+     "corresponding_label": "Corresponding",
+     "affiliation": "Vilnius University",
+     "cited_by": 1483,
+     "openalex": "https://openalex.org/W2514605621",
+     "verified": true,
+     "type": "Review",
+     "authors": "Mangirdas Malinauskas et al."
+    },
+    {
+     "focus": "다공성 OSG 막질에서 유전율 감소가 영률과 경도 저하로 이어져 **CMP 박막 파괴**를 유발하는 기계화학적 상충 메커니즘을 파악할 것.",
+     "title": "Effect of Dielectric Constant on CMP Behavior in Porous Low-k Dielectrics through Integrated Mechanical and Chemical Analysis",
+     "journal": "ECS Meeting Abstracts",
+     "year": "2026",
+     "doi": "10.1149/ma2026-01211199mtgabs",
+     "authors_list": [
+      "Geumji Back",
+      "Taesung Kim"
+     ],
+     "corresponding_display": "Taesung Kim",
+     "corresponding_label": "Senior Author",
+     "affiliation": "Sungkyunkwan University",
+     "cited_by": 0,
+     "openalex": "https://openalex.org/W7168771928",
+     "verified": true,
+     "type": "Recent",
+     "authors": "Geumji Back et al."
+    }
+   ],
+   "patents": [
+    {
+     "key_claim": "배리어층 촉진제와 2종의 **Low-k 연마 억제제**, 아졸계 및 코발트 부식방지제가 결합된 복합 선택비 제어 조성물의 흡착 메커니즘 분석.",
+     "number": "TWI924642B",
+     "title": "Polishing compositions and methods of use thereof",
+     "assignee": "美商富士軟片電子材料美國股份有限公司",
+     "year": "2019",
+     "verified": true
+    },
+    {
+     "key_claim": "3만~3000만 달톤 고분자량 공중합체(PVP-co-DMAEMA 등)를 배리어 CMP 슬러리에 투입하여 **계면 완충 및 결함 억제**를 유도하는 청구 범위 확인.",
+     "number": "KR101954380B1",
+     "title": "Additives for barrier chemical mechanical planarization",
+     "assignee": "버슘머트리얼즈 유에스, 엘엘씨",
+     "year": "2016",
+     "verified": true
+    }
+   ],
+   "plan": [
+    {
+     "time": "08:30",
+     "minutes": 30,
+     "task": "R2 초록을 바탕으로 OSG 박막의 k값 감소에 따른 기계적 물성 저하 및 CMP 크랙 발생 메커니즘 정리"
+    },
+    {
+     "time": "09:00",
+     "minutes": 30,
+     "task": "T1 및 T2 특허 명세서의 저유전율 유전체 연마 억제제 분자 구조 및 배리어막 대비 선택비 수치 비교 분석"
+    },
+    {
+     "time": "09:30",
+     "minutes": 30,
+     "task": "당사 Low-k/SiCN 슬러리 처방에 적용할 수 있는 고분자 부식방지제 배합비 설계 및 1차 스크리닝 매트릭스 도출"
+    }
+   ],
+   "self_check": [
+    {
+     "q": "다공성 OSG 막질에서 메틸기(–CH3) 치환과 기공 형성이 CMP 공정의 기계적 파괴에 미치는 영향은 무엇인가?",
+     "a": "실리카 네트워크의 산소 가교 결합을 메틸기로 치환하고 나노 기공을 도입하면 밀도가 감소하여 영률과 경도가 급감하므로, CMP 전단 응력 하에서 크랙 및 박막 파괴가 유발된다."
+    },
+    {
+     "q": "T1 특허에서 제1 및 제2 Low-k 연마 억제제를 복합 사용하는 화학적 목적은 무엇인가?",
+     "a": "단일 억제제 사용 시 발생할 수 있는 탈착을 방지하고, 다공성 저유전막 표면에 견고한 소수성 보호막을 형성하여 연마 속도를 선택적으로 억제함으로써 과도한 막질 손실을 차단하기 위함이다."
+    },
+    {
+     "q": "SiO2@ZrO2 코어-쉘 입자가 순수 실리카 대비 높은 연마율과 낮은 조도를 동시에 달성하는 물리적 메커니즘은?",
+     "a": "강성이 높은 정방정계 지르코니아 쉘이 입자의 탄성 변형을 억제해 접촉 면적을 줄임으로써 전단 응력을 집중시켜 연마율을 높이고, 동시에 압입 깊이를 제한하여 스크래치를 방지하기 때문이다."
+    }
+   ],
+   "theme": "Low-k·SiCN 유전체 CMP"
+  },
+  "news": [
+   {
+    "title": "Backside Clock Mesh Reduces Skew And Power In Backside Power Delivery (KAIST)",
+    "source": "Semiconductor Engineering",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTWdoVk94M3BfOHRLb3ExektlRnA0MlVuVTJuUzNNbVlXVUpHMDM2MFQzMVNOOGh6QjFMMUJrZmhLQ3pobzVINXNxWExmc21xVzZNbFhHMkdRVnR3a3c2VnhzbG1SRmcwa3ZhWWdFYVNNUnNKcWNSVERFYWpLVVNJZFRyMmpseHp6YmJVM0pRYW5JRk45dzBvdzZyNlotWnFsQ3h1Qy1ROA?oc=5",
+    "date": "2026-11-18",
+    "lang": "en"
+   },
+   {
+    "title": "\"가끔 내가 '무인 편의점 알바인가' 해요\" 반도체 장비 '파수꾼' 비정규직 PM",
+    "source": "프레시안",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BQ2dyYldObFBqMTdBNjhlQXVBMFFEZ3JCampzOGFGaE04QVVXam1KdlRkRFdmWV80aFdPUWNmS2lwR0ZBWVB1aFVONERZcXlMcUhCMlMtUEp1MUJLMzZ3UFNleTBRUUxVa3F6Q2twZEZ4QVBiTUNPQnhKQQ?oc=5",
+    "date": "2026-11-18",
+    "lang": "ko"
+   },
+   {
+    "title": "Self-Supervised Virtual Metrology For CMP MRR Prediction (SUTD, A*STAR, NUS)",
+    "source": "Semiconductor Engineering",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX3ZJdDdUcy1LR25UTkdselVJSDRDaVdCNnJIT2lKaFM5NWN0dG9kTlIxcXczNDhacFVXa1dzWUxzTGJMdWtsd3RTVDFDWmttdFFyTlJrdkZId0RhdVBLSE1UMTNzX0FHRnJxMUgtYXBib0RwNHBvU3J5MTN0TnNfX1JJelhIaXJrX0hCOV85Tl9JeTRrSDc3Ynd3SWRab0xNVkE?oc=5",
+    "date": "2026-11-17",
+    "lang": "en"
+   },
+   {
+    "title": "CMP·식각·패키징까지…반도체 소재주 매수 뜨거워질 조짐",
+    "source": "핀포인트뉴스",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90VHZTMjkwQ0U0VlA0VUlibWd2bXVVTlRqS3pGOGt3d2Q5V3hHczJfQm9zYm5BMUFjU3dubkpFa0pobzdVOXJ0ODFsM0swSU5fdVRJZkZscDUtSHFNQlRUOTM5dEhOeWVsRUZuWEdUM3psWG14YUww0gF3QVVfeXFMT3RUdlMyOTBDRTRWUDRVSWJtZ3ZtdVVOVGpLekY4a3d3ZDlXeEdzMl9Cb3NibkExQWNTd25uSkVrSmhvN1U5cnQ4MWwzSzBJTl91VElmRmxwNS1IcU1CVFQ5Mzl0SE55ZWxFRm5YR1QzemxYbXhhTDA?oc=5",
+    "date": "2026-11-17",
+    "lang": "ko"
+   },
+   {
+    "title": "Cerium Oxide CMP Materials China Semiconductor Strategy",
+    "source": "Rare Earth Exchanges",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NSldFOWc0QUhYTktuOXlCWWFIcG1keGtVSmZ3Qk16SGs2eDI0cXpNMzlRZGpQSWdkME0xczV0RW5QSW5SQjVoWUIydURtWWw2bEhZZXVzdmQ1dGZETnQ5ZkR5dWZKbUhIOWU1WVlhYXRpUUViN2lpTHp3WlNfZw?oc=5",
+    "date": "2026-11-16",
+    "lang": "en"
+   },
+   {
+    "title": "What is SK hynix's world-unique 'Trinity Fab'... Verifying prototypes for materials, components and equipment [Report]",
+    "source": "머니투데이",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zdW9IendWR2FzOUw1Nk95eHdKYXVrQUhIWTVkUWFoYi1fZzZONjlCeWtVcjN1UlN1WmFuZUZfMXZHVlBjSldvVzBSaHUtMHJyekp4emxoa0t3SnJUQUV5ZmpYVVBSdENZOUlJVlJwY2U?oc=5",
+    "date": "2026-11-16",
+    "lang": "en"
+   },
+   {
+    "title": "AMAT Q4 Earnings Beat on Record Semiconductor Systems Sales",
+    "source": "TradingView",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS2l4M0JvSUl3RnR0WDdUUzV0ZUs2VDFSVHlUUElDSXB2cFhZVjBTQVNyaGt6SXktZWZZRWU5cXpIbW5YZktNeUhiTzdSalE2dDR5WjRLcGJKbWpUc2RmR2c3QlpWVFVzcDBOUGZWb0N1V2lhNjdHSS1YeHhXVEVjM3N5RXlCbnQzZUFpR1BPRHNXX1BVNEl3OW1RR0luMXRzMnFTTTNLbHNmbXk2LVB6VEFhNTVSQQ?oc=5",
+    "date": "2026-11-14",
+    "lang": "en"
+   },
+   {
+    "title": "Japan's Ebara Posts 60% Jump in January-September Net Profit to ¥71.4 Billion as AI-Driven Semiconductor Equipment Leads Growth",
+    "source": "BigGo Finance",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hbXZKaHFmRElQVE9PaEtOWE9PbUE3NEdtWGpWcG5sbzNacEIwRklUQkJELXZFN2o3Nk5WaFdmdlJpOWVUY0ItTTl3Q2JSWk5GYkVfd2paQXJhdFNzY0tTVTdHdWxjWllGYlhVX0d6LTV6NG5FaGc?oc=5",
+    "date": "2026-11-13",
+    "lang": "en"
+   },
+   {
+    "title": "반도체 소재·부품주 매수세 봇물…HBM 공정 고도화 기대 커졌다",
+    "source": "핀포인트뉴스",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TYVM4d2lIcEd4b2lSRmd6NEJfQWxpbktDdW1jcVVSQ1o0WE8zUkd0R1lPQW5zaG1Kb0ZfZXNKNThUTlY4aUZMdVhqbXV1dlJBUl9RLTd0SHhBSEpQZkhlLWp0SmR4WTJ0SVB3QlY2akRCN1lhdzgw0gF3QVVfeXFMT1NhUzh3aUhwR3hvaVJGZ3o0Ql9BbGluS0N1bWNxVVJDWjRYTzNSR3RHWU9BbnNobUpvRl9lc0o1OFROVjhpRkx1WGptdXV2UkFSX1EtN3RIeEFISlBmSGUtanRKZHhZMnRJUHdCVjZqREI3WWF3ODA?oc=5",
+    "date": "2026-11-11",
+    "lang": "ko"
+   },
+   {
+    "title": "Mitsui Chemicals To Acquire JSR For $11.6B",
+    "source": "Semiecosystem",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9hY2xNTjJNdTdxczNEek9ZTnVWQmxvRTRndGtfeDBNOF9meWptS3F3UTZWMzU3ZEs3ckxSV2NVTVFCMHdTWThxd2NUc1MxMnAzY3N1dWlmY0c1STJBM1ZMaDR4aEhqT3NPdmxLallEQk9lbk53UG1KelVR?oc=5",
+    "date": "2026-11-10",
+    "lang": "en"
+   },
+   {
+    "title": "Mitsui Chemicals: JSR Acquisition Valued At $8.81 Billion (¥1.39 Trillion) To Expand Semiconductor Materials Business",
+    "source": "Pulse 2.0",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOazhzN3EyN0JQMS1mNW5xeGFCVTVaLTdocmhTTVBZWVVOdm13WHMxbG5qMVpaMlZ4ZG4wYVRYRUdQMG9NR3daNEx1bHVyRU1nWDE4bmw0Sm1DZ1c3VUZlbnlOaUpSdmIteUFCb0F4eVpnaHlCazZMZ2NYd0lzS204UVZBYWJuNDdVSWE2WVF3bEctY05ITUJINmJhbFBvd05VTjhSMFA4eTY1bTNRaHl4OTM0UmxJSWZUSWcyRjdsRUU0Y1cyRGU2THpCTnVfX2F6MTl1bg?oc=5",
+    "date": "2026-11-10",
+    "lang": "en"
+   },
+   {
+    "title": "Shrinking Hybrid Bonding Pitches Push Inspection Limits",
+    "source": "Semiconductor Engineering",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR0dUbWltQkdIeUJCV3BkenlZYnJyVlpUSkhQaENtUDkyU01hNDFKdURMN1FqUFlkbWN5NGFOZGFHSjBqdzFaVHpfdnN2eE9jUEwyZmh6RDJEOVhjSUhfQVc5ZjczOERJVU0wSGc3YkxRMnZTTUJVemV3ZEVqZEFTb0p5ZC1nYS00bS1ENQ?oc=5",
+    "date": "2026-11-10",
+    "lang": "en"
+   },
+   {
+    "title": "AI·HBM 투자 확대에 반도체 소재株 들썩…엘티씨·케이씨텍 폭풍매수",
+    "source": "핀포인트뉴스",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96TDNUU21wN2xibnFkYzI4d2hBQnB3ZE1XX0RnRWxURDBWSmFRVFBiYXNVWnhNZDBvQ0VQaGZkZlZ1YnpYWGh3ZHdQN1VGTnRJbk9PdDZKZ1B1NWd1UkszWm1UaUFxLUtBbHdXem9RVGhkRHfSAXdBVV95cUxQUXNKSTROVE5QMjFXdm0tUHJGY0hjUnY3S09OVEZtWnhTN0JoRzhCTkl1cUlOWkpkSHNDU2d2U2xrLWNDQWFwMTN5b2hyS1ozaHZCY2JxN2ZDbEh5YzBmRXpmN2JRdFB0em52V2ZQeXhzV1B1dFFROA?oc=5",
+    "date": "2026-11-10",
+    "lang": "ko"
+   },
+   {
+    "title": "[中 거인의 공급망] ③'YMTC', 반도체 장비 국산화 승부수…수혜주 라인업",
+    "source": "뉴스핌",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBraDhiMFhjMlJrNklKU3A1RndaZ05nSHRZOG1DS3UzT2dFMzQyaHdNOUxsUGUzSFdCSlpXVDJiQ2labTJvVDdjTWZENXJNUTF1WmxxS0NTUXZuSnVr?oc=5",
+    "date": "2026-11-09",
+    "lang": "ko"
+   },
+   {
+    "title": "Qnity Electronics reports strong growth one year after DuPont split",
+    "source": "Delawareonline.com",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNU01sVTBpT3lvZm9mY2FHWFpvZ1Z0VnJnbnNDb3M5VDFDRXF4OEFrYXFEYkFIeU5sRDJPUVNodTRNM05NMzh2cTNscWhBd2VwWjlWQ21DNUh1OVc2U1g4a2RyeWZmM1ByQXdMV09yMTllcVYtQWFEYUlxVHZRaGJYbDRybVlaOXUxLS1tREJldFA1Wjhua2laV3BzdENKSnkxSXJCYXkwSnRoNTRvZGdkbDlBWGtFWTdncGVaQ0MzMlFrT09ZbXRYWVo3OGhXckV3?oc=5",
+    "date": "2026-11-06",
+    "lang": "en"
+   },
+   {
+    "title": "제이앤티씨, 엔비디아 유리기판 공급사 등록",
+    "source": "디일렉",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12SHcxUkpkc3JwZ3pPMS0wT2MzLTRILV9YTWc4WXk3WTg0ZkFhMFVuNWw3Nm5iVjFYRnRTM1VTWlExSDJ3aDB2M3ktbndWcGY5c0RNLVZGQ1VtVUtrUzMtVjVZSzladw?oc=5",
+    "date": "2026-11-06",
+    "lang": "ko"
+   },
+   {
+    "title": "[실적+] 동진쎄미켐·케이씨텍, 반도체 호황 타고 성장…CMP 소재 존재감 확대",
+    "source": "녹색경제신문",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1vTXMweVZvUkQ4a3dKS1FsX1QzSnJSaVV4c3phV2xmazAzRkpOazl5YWN5dXBNY3hNVUhlY2FFQkFOdDJsVFZxSkd4cUN3OFZ0NWNMVS1HYTJ3T2NRRjBYQ3NDNnlEemdz?oc=5",
+    "date": "2026-11-05",
+    "lang": "ko"
+   },
+   {
+    "title": "인테그리스, AI 패키징용 SiC 및 다이아몬드 기반 방열 소재 시장 진출",
+    "source": "elec4",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QMVpnZjhlVWZKWnlsNXJGWV9WdEJfOE9ENGxmZjN6ajZQU25Ld2lqUEV3SmZnY0Q2WElldzRCYW9iM2h3NjhJUHdLekdKd05TWHhNUkxmR3VnQTR1SGpCUklDQkNLeWI3UW5MWE13?oc=5",
+    "date": "2026-11-04",
+    "lang": "ko"
+   }
+  ]
+ }
+}
