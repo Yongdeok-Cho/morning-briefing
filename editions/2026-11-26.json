@@ -1,0 +1,849 @@
+{
+ "date": "2026-11-26",
+ "generated_at": "2026-11-26T12:02+09:00",
+ "summary": "메모리 반등과 유리기판 CMP의 태동",
+ "theme": "Preston 방정식과 제거율 모델링",
+ "day": 1,
+ "total_days": 22,
+ "rows": [
+  {
+   "name": "TSMC",
+   "code": "TSM",
+   "price": 342.3399963378906,
+   "chg": -1.964494739213671,
+   "cap": 1775.537094656,
+   "cur": "$"
+  },
+  {
+   "name": "ASML",
+   "code": "ASML",
+   "price": 1303.0799560546875,
+   "chg": -2.4684595821070507,
+   "cap": 502.230122496,
+   "cur": "$"
+  },
+  {
+   "name": "Intel",
+   "code": "INTC",
+   "price": 54.470001220703125,
+   "chg": -0.6021861696199593,
+   "cap": 289.508032512,
+   "cur": "$"
+  },
+  {
+   "name": "SK Hynix",
+   "code": "000660",
+   "price": 1070000.0,
+   "chg": 3.8834951456310676,
+   "cap": 754535.425376256,
+   "cur": "₩"
+  },
+  {
+   "name": "Samsung",
+   "code": "005930",
+   "price": 172900.0,
+   "chg": 1.2888107791446983,
+   "cap": 1125912.2548736,
+   "cur": "₩"
+  },
+  {
+   "name": "AMAT",
+   "code": "AMAT",
+   "price": 311.17999267578125,
+   "chg": -3.885599428709748,
+   "cap": 246.951641088,
+   "cur": "$"
+  }
+ ],
+ "tocs": [
+  null,
+  null
+ ],
+ "notices": [],
+ "data": {
+  "edition_summary": "메모리 반등과 유리기판 CMP의 태동",
+  "market_insight": {
+   "headline": "장비주 조정 속 메모리 독주와 연마재의 기회",
+   "bullets": [
+    "**소모품 디커플링** — 글로벌 장비사 하락에도 공정 집약도 증가로 ==연마재 수요는 견조==합니다.",
+    "**유리기판 진입** — 삼성디스플레이의 인력 확보로 차세대 패키징 기판 연마 ==기술 선점 경쟁==이 시작되었습니다.",
+    "**환경 안전 규제** — 팹 내 보건 안전 이슈 누적은 슬러리 원료의 ==친환경 전환 압력==을 높입니다."
+   ],
+   "longread": {
+    "title": "장비 투자의 지연과 계면 소모품의 역설적 기회",
+    "dek": "웨이퍼 투입량 정체 국면에서도 적층 수 증가와 어드밴스드 패키징 전환은 단위 공정당 연마 스텝을 구조적으로 늘린다.",
+    "paragraphs": [
+     "글로벌 반도체 장비 대장주인 AMAT가 3.89%, ASML이 2.47% 하락하며 전공정 capex 사이클 둔화에 대한 시장의 우려를 반영했다. 그러나 한국 메모리 공급망의 핵심인 SK하이닉스와 삼성전자는 각각 3.88%, 1.29% 반등하는 탈동조화 양상을 나타냈다. 시장은 이를 단순한 주가 변동성으로 치부하기 쉬우나, 본질은 선단 패키징과 초고단 메모리 전환 과정에서 요구되는 공정 스텝의 누적에 있다. 신규 팹 쉘을 짓는 설비 투자는 늦출 수 있어도, 기존 라인에서 고단 HBM과 차세대 인터커넥트를 구현하기 위한 평탄화 소모품 투입은 줄어들지 않는다.",
+     "이러한 구조적 변화는 삼성디스플레이의 반도체 유리기판 인력 채용과 에프엔에스테크의 유리기판용 CMP 패드 평가라는 구체적 움직임으로 확인된다. 기존 유기 기판의 휨 현상과 인터커넥트 밀도 한계를 돌파하기 위해 유리가 코어 기판으로 부상하면서, 취성 소재의 표면 미세 균열을 방지하는 정밀 슬러리 및 패드 계면 제어가 필수 요건으로 떠올랐다. 유리는 열팽창계수 정합성이 우수하지만 파괴인성이 낮아 연마 압력 제어 실패 시 마이크로 크랙이 치명적인 결함으로 직결된다.",
+     "동시에 팹 하청 작업자의 백혈병 산재 논란이 재점화되며 생산 현장의 화학물질 안전성에 대한 규제 압박이 다시 거세지고 있다. 이는 CMP 슬러리 설계자들에게 화학적 에칭 속도를 보장하면서도 인체 유해성과 독성을 원천 차단하는 생체 친화적 또는 저독성 킬레이트제·계면활성제 도입을 강제하는 보이지 않는 규제 장벽으로 작동한다. 슬러리의 성능 지표가 단순히 연마율과 선택비에 머무르지 않고 화학적 안전성까지 아우르는 복합 방정식으로 전환되는 변곡점에 도달했다.",
+     "단기적으로 유리기판 도입 속도가 패키징 양산 수율 정체로 지연되거나, 메모리 제조사의 레거시 노드 가동률 축소가 지속될 경우 CMP 소모품의 출하 증가율은 당초 추정치보다 둔화될 확률이 존재한다."
+    ],
+    "pull_quote": "장비 증설이 멈춰도 적층과 패키징의 고도화는 단위 웨이퍼가 요구하는 계면 화학의 시간을 늘린다.",
+    "watch": [
+     "삼성디스플레이 및 패키징 진영의 유리기판 라인 파일럿 가동 시점",
+     "주요 메모리 제조사의 HBM 적층 공정 내 TSV Cu CMP 패스 수 변화",
+     "반도체 공정용 화학물질 유해성 평가 기준 강화 및 규제 입법 추이"
+    ]
+   }
+  },
+  "industry_needs": [
+   {
+    "need": "유리기판 정밀 평탄화 기술",
+    "pain": "취성 유리의 표면 크랙과 결함을 억제하면서 균일 연마율을 달성할 전용 연마재 및 패드 부재",
+    "refs": [
+     1,
+     11,
+     22
+    ]
+   },
+   {
+    "need": "TSV 구리 단차 결함 억제",
+    "pain": "고밀도 관통전극 연마 시 패드 변형에 의한 디싱 심화와 국소 균일도 저하",
+    "refs": [
+     4,
+     20
+    ]
+   },
+   {
+    "need": "저독성 슬러리 배합 기술",
+    "pain": "엄격해지는 작업장 보건 안전 규제를 충족하는 무독성 킬레이트제 및 분산제 전환 요구",
+    "refs": [
+     2,
+     5,
+     7,
+     9
+    ]
+   }
+  ],
+  "cmp_tech": [
+   {
+    "tag": "어드밴스드 패키징 기판",
+    "title": "글래스 코어 기판 전환과 **취성 제어** 평탄화 공정",
+    "lede": "차세대 유리기판의 반도체 패키징 적용을 위해 초저결함 및 극저조도를 구현하는 CMP 소모품 대응이 요구됩니다.",
+    "points": [
+     {
+      "label": "배경",
+      "text": "유기 기판 대비 열 안정성이 뛰어난 글래스 기판 도입 본격화"
+     },
+     {
+      "label": "핵심 기술",
+      "text": "유리 취성을 방어하는 저하중 고탄성 패드와 실리카·세리아 복합 연마재"
+     },
+     {
+      "label": "효과",
+      "text": "마이크로 크랙을 억제하며 광학급 표면 조도 및 초평탄면 확보"
+     },
+     {
+      "label": "시사점",
+      "text": "기존 실리콘 중심 CMP 포트폴리오를 대면적 절연 유리 기판으로 확장 필수"
+     }
+    ],
+    "key_figures": [
+     {
+      "value": "평가 단계",
+      "label": "패드 개발 현황"
+     }
+    ],
+    "refs": [
+     1,
+     11
+    ],
+    "players": [
+     {
+      "name": "에프엔에스테크",
+      "role": "패드",
+      "activity": "유리기판용 CMP 패드 생산 라인을 구축하고 고객사 성능 테스트 진행",
+      "refs": [
+       11
+      ]
+     },
+     {
+      "name": "삼성디스플레이",
+      "role": "소자",
+      "activity": "반도체 유리기판 전문 인력을 확보하며 신규 패키징 기판 사업 진입",
+      "refs": [
+       1
+      ]
+     }
+    ],
+    "longread": {
+     "title": "유리기판 CMP의 역학: 왜 실리콘 공정의 연장이 아닌가",
+     "dek": "낮은 파괴인성과 높은 화학적 불활성을 지닌 융융 실리카 계면을 제어하기 위해 연마 메커니즘의 재정의가 필요하다.",
+     "paragraphs": [
+      "패키징 시장에서 대면적 유리기판 도입은 더 이상 먼 미래의 구상이 아니다. 삼성디스플레이의 인력 채용과 에프엔에스테크의 유리기판 패드 양산 테스트는 밸류체인의 형성이 실행 단계에 접어들었음을 보여준다. 그러나 현장의 슬러리 연구원들이 간과하기 쉬운 지점은 실리콘 웨이퍼의 옥사이드 CMP 경험을 유리 기판에 그대로 이식할 수 없다는 사실이다. Fused silica 구조의 유리는 화학적 결합 에너지가 균일하고 강고하여 순수 기계적 가공 시 취성 파괴로 인한 미세 균열이 기판 심부로 전파되기 쉽다.",
+      "글래스 평탄화의 핵심은 계면의 화학적 수화 속도와 패드 접촉 압력의 균형에 있다. 슬러리 내 산화세륨 입자의 다이렉트 본딩 작용(Ce-O-Si 결합 형성)을 통한 실리카 네트워크 파괴 속도가 연마 패드의 기계적 압축 변형보다 선행해야만 마이크로 스크래치 없는 표면 박리가 가능하다. 만약 기계적 압력이 화학적 반응층 형성 속도를 초과하면 전단 응력이 임계 파괴 응력을 넘어서며 즉각적인 서브서피스 크랙을 유발한다.",
+      "패드 구조 또한 일반적인 IC1000 계열의 경질 패드 단독 적용으로는 한계가 뚜렷하다. 에프엔에스테크가 시도하는 유리기판용 패드는 대면적 기판의 국소 두께 편차를 흡수하면서도 에지 롤오프를 억제할 수 있는 복합 탄성률을 가져야 한다. 즉 서브레이어의 순응성과 탑레이어의 전단 저항이 조화를 이루지 못하면, 연마 압력이 글래스 에지에 집중되어 대면적 파손으로 이어지는 치명적 결함을 피하기 어렵다.",
+      "다만 글래스 코어 기판의 패키징 공정 수율이 TGV 형성 및 메탈라이제이션 단계에서 충분히 확보되지 못할 경우, 양산 라인 전환 일정이 후행하며 패드 및 슬러리의 본격적인 소모품 매출 발생 시점이 지연될 리스크가 상존한다."
+     ],
+     "pull_quote": "유리 기판 연마의 성패는 압력을 올리는 기술이 아니라 기계적 파괴 인성 한계 아래에서 화학 반응층을 벗겨내는 정밀도에 있다.",
+     "watch": [
+      "유리기판 파일럿 라인의 패드 마모율 및 드레싱 주기 데이터",
+      "TGV 형성 후 잔류 응력에 따른 기판 파손율 변화",
+      "대면적 기판 대응 고선택비 세리아 슬러리 적합성 검증 결과"
+     ]
+    },
+    "diagram": {
+     "title": "글래스 기판 평탄화 단면 구조",
+     "abrasive": "CeO2",
+     "pad": "유리기판용 복합 탄성 패드",
+     "polish_stop_after": 0,
+     "layers": [
+      {
+       "name": "수화 반응 표면층",
+       "material": "SiO2",
+       "role": "연마 제거층",
+       "thickness": 0.05,
+       "remove": true
+      },
+      {
+       "name": "글래스 코어 기판",
+       "material": "SiO2",
+       "role": "패키징 베이스",
+       "thickness": 500.0,
+       "remove": false
+      }
+     ],
+     "caption": "수화 반응으로 연화된 최상단 실리카층만을 선택적으로 제거하여 **취성 파괴**를 방지하는 구조"
+    }
+   },
+   {
+    "tag": "관통전극 평탄화",
+    "title": "TSV 구리 단차 제거를 위한 **패드 적층 구조** 최적화",
+    "lede": "단층 패드와 복층 패드의 기계적 접촉 역학 분석을 통해 TSV 고밀도 패턴의 디싱 제어 방안을 도출합니다.",
+    "points": [
+     {
+      "label": "배경",
+      "text": "3D 적층 패키징의 TSV 밀도 증가에 따른 평탄도 유지 난이도 상승"
+     },
+     {
+      "label": "핵심 기술",
+      "text": "단층 IC1000과 서브레이어를 결합한 복층 ICSU 패드의 접촉 면적 제어"
+     },
+     {
+      "label": "효과",
+      "text": "복층 구조의 조도 균일성과 단층 구조의 디싱 억제 특성 간 트레이드오프 규명"
+     },
+     {
+      "label": "시사점",
+      "text": "슬러리의 화학적 단차 제어제와 물리적 패드 구조의 동시 설계 필요"
+     }
+    ],
+    "key_figures": [
+     {
+      "value": "트레이드오프",
+      "label": "디싱 vs 조도 특성"
+     }
+    ],
+    "refs": [
+     4
+    ],
+    "players": [
+     {
+      "name": "SK하이닉스",
+      "role": "소자",
+      "activity": "HBM 제조 라인에서 관통전극 단차 제어를 위한 고정밀 CMP 공정 최적화 수행",
+      "refs": [
+       20
+      ]
+     },
+     {
+      "name": "삼성전자",
+      "role": "소자",
+      "activity": "고밀도 적층 패키징용 TSV 공정 및 차세대 구리 배선 평탄화 기술 고도화",
+      "refs": [
+       1
+      ]
+     }
+    ],
+    "longread": {
+     "title": "접촉 역학의 트레이드오프: TSV 패턴에서 패드 탄성의 두 얼굴",
+     "dek": "단층 경질 패드의 강성과 복층 패드의 순응성이 단차와 조도에 미치는 상반된 효과를 정량적으로 이해해야 한다.",
+     "paragraphs": [
+      "TSV 구리 패턴의 CMP 공정은 일반적인 다마신 배선 연마보다 가혹한 단차 제어 환경에 직면한다. 관통전극의 큰 직경과 국소 밀도 차이는 연마 헤드가 인가하는 하중을 불균일하게 전달하여 심각한 디싱과 잔류 단차를 유발한다. 최근 발표된 패드 적층 구조 연구는 순응성 Suba IV 하부층을 갖는 복층 ICSU 패드와 단층 경질 IC1000 패드의 접촉 거동을 실시간 접촉 이미징 및 나노 인덴테이션으로 분석함으로써 공정 설계의 물리적 기틀을 제시했다.",
+      "분석 결과, ICSU 복층 패드는 하부층의 순응적 변형 덕분에 아스페리티의 변형능이 높고 실제 접촉 면적비가 증가하여 웨이퍼 전면의 압력 분포를 고르게 분산시켰다. 이로 인해 웨이퍼 면내 균일도(WIWNU)와 표면 조도 개선에서는 복층 패드가 우수한 결과를 나타냈다. 그러나 역설적으로 이러한 우수한 순응성은 금속 배선 리세스 영역으로 패드가 침투하는 현상을 야기하여 패턴부의 **디싱 억제력**을 약화시키는 원인으로 작용한다.",
+      "반면 강성이 높은 단층 IC1000 패드는 아스페리티 변형률이 낮아 단차 상부에 하중을 집중시킴으로써 우수한 디싱 억제 특성을 발휘했다. 이는 슬러리 개발자가 패드 특성을 외생 변수로 취급해서는 안 되며, 패드가 제공하지 못하는 기능을 슬러리의 화학적 패시베이션 막으로 보완해야 함을 증명한다. 복층 패드를 선택하여 표면 품질을 확보하려는 팹 환경에서는, 슬러리의 Cu 보호막 형성 속도를 비약적으로 높여 패드의 물리적 침투에 의한 디싱을 화학적으로 차단해야 한다.",
+      "단, 초고밀도 TSV 구조에서 배리어 금속 및 산화막의 연마 정지 거동이 균일하지 못할 경우, 패드 강성 제어만으로는 패턴 침식 현상을 완벽히 차단하기 어렵다는 구조적 한계가 존재한다."
+     ],
+     "pull_quote": "조도를 얻기 위한 패드의 탄성은 패턴의 디싱을 유발하므로, 부족한 강성은 슬러리의 부동태 피막이 메워야 한다.",
+     "watch": [
+      "TSV 비아 직경 축소에 따른 패드 하중 분산 프로파일 변화",
+      "단층 및 복층 패드 전환에 따른 Cu 슬러리 억제제(BTA 유도체) 농도 민감도",
+      "복층 패드 하부층의 장시간 가동 시 영구 변형(압축 영구 줄음율) 발생 추이"
+     ]
+    },
+    "diagram": {
+     "title": "TSV 구리 패턴 연마 계면 단면 구조",
+     "abrasive": "Colloidal Silica",
+     "pad": "단층 경질 IC1000 또는 복층 ICSU 패드",
+     "polish_stop_after": 1,
+     "layers": [
+      {
+       "name": "구리 과잉층",
+       "material": "Cu",
+       "role": "벌크 제거",
+       "thickness": 1.2,
+       "remove": true
+      },
+      {
+       "name": "배리어층",
+       "material": "TaN",
+       "role": "확산 방지",
+       "thickness": 0.03,
+       "remove": true
+      },
+      {
+       "name": "TSV Cu 패턴",
+       "material": "Cu",
+       "role": "관통 전극 배선",
+       "thickness": 5.0,
+       "pattern": "inlaid",
+       "host": "SiO2",
+       "dishing": true
+      },
+      {
+       "name": "실리콘 기판",
+       "material": "Si",
+       "role": "기판 지지체",
+       "thickness": 100.0,
+       "remove": false
+      }
+     ],
+     "caption": "연마 중 패드 탄성에 의한 침투로 **디싱 현상**이 발생하는 패턴드 TSV 계면"
+    }
+   }
+  ],
+  "papers": [
+   {
+    "toc": {
+     "problem": "STI 선택비 및 평탄도 한계",
+     "approach": "β-CD 초분자 수식 세리아 개발",
+     "outcome": "선택비 및 표면 품질 동시 개선",
+     "outcome_figure": "우수"
+    },
+    "points": [
+     {
+      "label": "문제",
+      "text": "미세 STI 공정에서 산화막과 질화막의 선택비 및 단차 평탄화 달성의 난이도 증가"
+     },
+     {
+      "label": "접근",
+      "text": "거대고리 호스트인 β-시클로덱스트린으로 세리아 표면을 개질하고 글루탐산을 공수식"
+     },
+     {
+      "label": "결과",
+      "text": "콜로이드 안정성 확보와 함께 연마율, 세정 후 표면 품질, 산화막/질화막 선택비 동시 향상"
+     },
+     {
+      "label": "시사점",
+      "text": "초분자 호스트-게스트 분자 하이브리드 수식으로 연마 입자 계면 반응을 정밀 제어 가능"
+     }
+    ],
+    "key_figures": [],
+    "review": {
+     "verdict": "초분자 호스트의 입체 장벽과 아미노산 조핵제의 상호작용을 결합하여 세리아 입자의 원천적 선택비 한계를 우회한 수작이다.",
+     "strengths": [
+      "β-CD의 공동 구조를 활용해 콜로이드 분산성과 질화막 흡착 차단막을 동시에 확보한 혁신적 접근",
+      "글루탐산을 2차 수식제로 병용하여 분자 수준의 시너지 메커니즘을 유도한 유연한 플랫폼 설계"
+     ],
+     "limits": [
+      "초록 내에 구체적인 선택비(RRS) 수치 및 산화막 연마율(MRR)의 정량적 절대값이 명시되지 않음",
+      "장시간 전단 응력 및 펌프 순환 환경에서 β-CD 표면 개질층의 탈리 저항성에 대한 검증 필요"
+     ],
+     "for_us": "당사 세리아 합성 라인에서 콜로이드 세리아 표면에 β-CD를 화학적으로 그래프팅한 후, 아미노산계 조절제와의 상호작용을 제타 전위 및 흡착 등온선으로 검증해야 한다. pH 4~6 영역에서 Si3N4 블랭킷 웨이퍼에 대한 정전기적 척력과 SiO2에 대한 화학적 접근성을 QCM-D로 측정할 필요가 있다. 분자 복합체의 열역학적 결합 안정성을 확인한 뒤 미세 STI 패턴 웨이퍼에서 단차 해소 속도를 즉각 비교 평가해야 한다."
+    },
+    "title": "Supramolecular surface modification of ceria nanoparticles for enhanced chemical mechanical planarization performance in shallow trench isolation",
+    "journal": "Dalton Transactions",
+    "year": "2025",
+    "doi": "10.1039/d5dt01483b",
+    "authors_list": [
+     "Haining Zhang",
+     "Chenyan Zhao",
+     "Xueli Sun",
+     "Caiyan Xin",
+     "Fangwei Lu",
+     "Shuming Wu",
+     "Xin-Ping Qu",
+     "Song Wang",
+     "Simin Li",
+     "Hui Cun Shen",
+     "Fan Zhang"
+    ],
+    "corresponding_display": "Song Wang",
+    "corresponding_label": "Corresponding",
+    "affiliation": "University of Science and Technology of China",
+    "cited_by": 2,
+    "openalex": "https://openalex.org/W4413624292",
+    "verified": true
+   },
+   {
+    "toc": {
+     "problem": "TSV Cu 디싱과 단차 제어",
+     "approach": "단층 및 복층 패드 접촉역학 비교",
+     "outcome": "패드 구조별 단차 특성 규명",
+     "outcome_figure": "우수"
+    },
+    "points": [
+     {
+      "label": "문제",
+      "text": "TSV 패턴 웨이퍼 연마 시 국소 디싱 억제와 표면 조도 개선의 상충 발생"
+     },
+     {
+      "label": "접근",
+      "text": "인시츄 하중 시뮬레이션과 쿼드랫 공간 분석으로 IC1000과 복층 ICSU 패드 거동 분석"
+     },
+     {
+      "label": "결과",
+      "text": "ICSU는 조도와 균일도에서 우수했으나 경질 IC1000이 패턴 디싱 제어에서 우위 확인"
+     },
+     {
+      "label": "시사점",
+      "text": "고밀도 인터커넥트 CMP 공정 수율 극대화를 위한 패드 스택 구조 최적화 지침 제공"
+     }
+    ],
+    "key_figures": [],
+    "review": {
+     "verdict": "패드 하부 순응층의 유무가 국소 패턴 디싱과 전면 균일도에 미치는 상반된 역학을 실험 장비로 선명하게 실증했다.",
+     "strengths": [
+      "인시츄 다운포스 시뮬레이션과 실시간 접촉 이미징을 결합하여 아스페리티 변형을 정량 분석",
+      "단순 경도 비교를 넘어 쿼드랫 공간 분석을 통해 실질 접촉 면적비의 분포를 체계화"
+     ],
+     "limits": [
+      "실제 슬러리 연마 환경에서 화학적 슬러리 유동 및 유체 윤활막(hydrodynamic film)의 연계 분석 결여",
+      "디싱과 잔류 단차의 구체적인 나노미터 단위 측정 수치가 초록에 기재되지 않음"
+     ],
+     "for_us": "당사의 Cu 슬러리 평가용 CMP 장비에서 복층 패드 사용 시 발생하는 디싱 취약점을 상쇄할 고강도 부동태 슬러리 처방을 우선 수립해야 한다. 억제제의 Cu 표면 흡착 피막 파괴 임계 압력을 측정하여 ICSU 패드의 아스페리티 압력 피크를 견디도록 첨가제 분자 구조를 튜닝한다. 이어 패턴 웨이퍼를 통해 복층 패드의 조도 이점을 취하면서도 IC1000 수준의 디싱 억제력이 발현되는 화학-기계적 윈도우를 도출해야 한다."
+    },
+    "title": "Study on the effect of polishing pad layer structure on dishing control in chemical mechanical planarization of through-silicon via copper patterned wafer",
+    "journal": "The International Journal of Advanced Manufacturing Technology",
+    "year": "2026",
+    "doi": "10.1007/s00170-026-18235-x",
+    "authors_list": [
+     "Quoc-Phong Pham",
+     "Le Nam Quoc Huy"
+    ],
+    "corresponding_display": "Quoc-Phong Pham",
+    "corresponding_label": "Corresponding",
+    "affiliation": "Tra Vinh University",
+    "cited_by": 1,
+    "openalex": "https://openalex.org/W7160331901",
+    "verified": true
+   }
+  ],
+  "study": {
+   "why_it_matters": [
+    {
+     "label": "물리적 기초",
+     "text": "CMP 공정 제거율의 기본이 되는 압력과 속도의 상관관계를 정량화하는 출발점"
+    },
+    {
+     "label": "한계와 확장",
+     "text": "초미세 패턴과 저하중 연마에서 나타나는 비선형 마찰 특성을 해석하는 기준 틀"
+    }
+   ],
+   "concept": {
+    "title": "Preston 방정식과 트라이볼로지적 확장",
+    "equation": "MRR = K_p \\cdot P \\cdot V",
+    "equation_note": "MRR은 단위 시간당 연마율, K_p는 공정·계면 화학을 포괄하는 프레스턴 계수, P는 인가 압력, V는 상대 선속도",
+    "points": [
+     {
+      "label": "의미",
+      "text": "연마율이 가해진 기계적 에너지 일률(P·V)에 단순 비례한다는 고전적 접촉 마멸 모델"
+     },
+     {
+      "label": "한계",
+      "text": "탄성 아스페리티 변형에 의한 접촉 면적 비선형성 및 화학 반응 활성화 에너지를 반영하지 못함"
+     },
+     {
+      "label": "확장",
+      "text": "P의 지수 n과 V의 지수 m을 도입한 변형 프레스턴 모델(MRR = K·P^n·V^m) 및 Langmuir-Hinshelwood 반응 속도론 결합형 모델로 진화"
+     }
+    ],
+    "curve": {
+     "title": "P·V 곱에 따른 연마율 거동과 반응 지배 영역",
+     "shape": "saturating",
+     "x_label": "기계적 에너지 입력 (P·V)",
+     "y_label": "물질 제거율 (MRR)",
+     "regions": [
+      {
+       "from": 0.0,
+       "to": 0.3,
+       "label": "기계적 제한 영역"
+      },
+      {
+       "from": 0.3,
+       "to": 0.7,
+       "label": "프레스턴 선형 영역"
+      },
+      {
+       "from": 0.7,
+       "to": 1.0,
+       "label": "화학 반응 포화 영역"
+      }
+     ],
+     "marks": [
+      {
+       "at": 0.7,
+       "label": "포화 천이 임계점"
+      }
+     ],
+     "caption": "기계적 에너지가 충분히 커지면 화학 반응 속도가 율속이 되어 **연마율 포화 현상**이 발생함"
+    },
+    "diagram": null
+   },
+   "readings": [
+    {
+     "focus": "복잡한 복합체의 분리 규격과 특성 분석 표준화 방식을 슬러리 내 **나노 입자 및 첨가제의 표준 규격화 관점**에서 분석",
+     "title": "Minimal information for studies of extracellular vesicles (MISEV2023): From basic to advanced approaches",
+     "journal": "Journal of Extracellular Vesicles",
+     "year": "2024",
+     "doi": "10.1002/jev2.12404",
+     "authors_list": [
+      "Joshua A Welsh",
+      "Deborah C. I. Goberdhan",
+      "Lorraine O’Driscoll",
+      "Edit I. Buzás",
+      "Cherie Blenkiron",
+      "Benedetta Bussolati",
+      "Houjian Cai",
+      "Dolores Di Vizio",
+      "Tom A. P. Driedonks",
+      "Uta Erdbrügger",
+      "Juan Manuel Falcón‐Pérez",
+      "Qing‐Ling Fu",
+      "Andrew Francis Hill",
+      "Metka Lenassi",
+      "Sai Kiang Lim",
+      "My G Mahoney",
+      "Sujata Mohanty",
+      "Andreas Möller",
+      "Rienk Nieuwland",
+      "Takahiro Ochiya",
+      "Susmita Sahoo",
+      "Ana Cláudia Torrecilhas",
+      "Lei Zheng",
+      "Andries Zijlstra",
+      "Sarah Abuelreich",
+      "Reem Bagabas",
+      "Paolo Bergese",
+      "Esther Bridges",
+      "Marco Brucale",
+      "Dylan E Burger",
+      "Randy P. Carney",
+      "Emanuele Cocucci",
+      "Rossella Crescitelli",
+      "Edveena Hanser",
+      "Adrian Llewellyn Harris",
+      "Norman J. Haughey",
+      "An Hendrix",
+      "Alexander R. Ivanov",
+      "Tijana Jovanović‐Talisman",
+      "Nicole A. Kruh‐Garcia",
+      "Vroniqa Ku'ulei‐Lyn Faustino",
+      "Diego Kyburz",
+      "Cecilia Lässer",
+      "Kathleen M. Lennon",
+      "Jan O. Lötvall",
+      "Adam L. Maddox",
+      "Elena S. Martens‐Uzunova",
+      "Rachel R. Mizenko",
+      "Lauren A. Newman",
+      "Andrea Ridolfi",
+      "Eva Rohde",
+      "Tatu Rojalin",
+      "Andrew Rowland",
+      "András Saftics",
+      "Ursula S. Sandau",
+      "Julie Anne Saugstad",
+      "Faezeh Shekari",
+      "Simon Swift",
+      "Dmitry Ter‐Ovanesyan",
+      "Juan Pablo Tosar",
+      "Zivile Useckaite",
+      "Francesco Valle",
+      "Zoltán Varga",
+      "Edwin van der Pol",
+      "Martijn J. C. van Herwijnen",
+      "Marca H. M. Wauben",
+      "Ann Marie Wehman",
+      "Sarah Williams",
+      "Andrea Zendrini",
+      "Alan J. Zimmerman",
+      "Clotilde Théry",
+      "Kenneth Whitaker Witwer"
+     ],
+     "corresponding_display": "Joshua A Welsh",
+     "corresponding_label": "Corresponding",
+     "affiliation": "National Institutes of Health",
+     "cited_by": 5818,
+     "openalex": "https://openalex.org/W4391649568",
+     "verified": true,
+     "type": "Seminal",
+     "authors": "Joshua A Welsh et al."
+    },
+    {
+     "focus": "세리아 나노입자의 Ce3+/Ce4+ 산화환원 활성과 산소 완충능이 산화막 표면과의 **화학적 반응 속도론**에 미치는 영향 고찰",
+     "title": "Redox Active Cerium Oxide Nanoparticles: Current Status and Burning Issues",
+     "journal": "Small",
+     "year": "2021",
+     "doi": "10.1002/smll.202102342",
+     "authors_list": [
+      "Megan Susan Lord",
+      "Jean‐François Berret",
+      "Sanjay Singh",
+      "Ajayan Vinu",
+      "Ajay Singh Karakoti"
+     ],
+     "corresponding_display": "Ajayan Vinu",
+     "corresponding_label": "Corresponding",
+     "affiliation": "University of Newcastle Australia",
+     "cited_by": 263,
+     "openalex": "https://openalex.org/W3170771556",
+     "verified": true,
+     "type": "Review",
+     "authors": "Megan Susan Lord et al."
+    },
+    {
+     "focus": "융융 실리카(석영 유리) CMP에서 법선 하중과 스핀들 속도가 프레스턴 법칙 검증 및 **표면 조도 형성에 미치는 역학적 상관성** 파악",
+     "title": "Experimental investigation of chemical mechanical polishing (CMP) process parameters through polishing of optical glass",
+     "journal": "AIP conference proceedings",
+     "year": "2024",
+     "doi": "10.1063/5.0193883",
+     "authors_list": [
+      "Aparajita Parashar",
+      "Manoj Kumar",
+      "Raj Kumar Pal",
+      "Vinod Karar"
+     ],
+     "corresponding_display": "Aparajita Parashar",
+     "corresponding_label": "Corresponding",
+     "affiliation": "Central Scientific Instruments Organisation",
+     "cited_by": 2,
+     "openalex": "https://openalex.org/W4391951086",
+     "verified": true,
+     "type": "Recent",
+     "authors": "Aparajita Parashar et al."
+    }
+   ],
+   "patents": [
+    {
+     "focus": "3세대 반도체 연마 장치에서 유압 로드와 대형 연마 플래튼의 결합 구조가 **기계적 하중의 균일 분산**에 기여하는 방식 확인",
+     "number": "CN114700871B",
+     "title": "Third-generation semiconductor chemical mechanical polishing device",
+     "assignee": "上海致领半导体科技发展有限公司",
+     "year": "2022",
+     "verified": true
+    },
+    {
+     "focus": "복수 압력 챔버를 갖춘 베어링 헤드를 통해 웨이퍼 반경별 **국소 프레스턴 압력 제어**를 구현하는 제어 시스템 청구항 검토",
+     "number": "CN112936085B",
+     "title": "Chemical mechanical polishing control method and control system",
+     "assignee": "华海清科股份有限公司",
+     "year": "2021",
+     "verified": true
+    }
+   ],
+   "plan": [
+    {
+     "time": "08:30",
+     "minutes": 20,
+     "task": "R3 문헌을 검토하여 석영 유리 CMP에서 Preston 방정식이 성립하는 압력-속도 경계 조건 정리"
+    },
+    {
+     "time": "08:50",
+     "minutes": 20,
+     "task": "R2 논문을 통해 나노세리아 표면 환원 상태가 프레스턴 상수 K_p의 화학적 성분에 미치는 영향 수식화"
+    },
+    {
+     "time": "09:10",
+     "minutes": 20,
+     "task": "T2 특허의 멀티 존 압력 챔버 제어 로직을 분석하여 당사 슬러리의 연마율 포화 곡선과 매칭하는 파라미터 도출"
+    }
+   ],
+   "self_check": [
+    {
+     "q": "고전적 Preston 방정식이 저하중(Ultra-low downforce) 연마 영역에서 빗나가는 접촉 역학적 이유는 무엇인가?",
+     "a": "고전 모델은 강체 접촉을 가정하나 실제 연마 패드의 아스페리티는 탄성-점탄성 변형을 하므로, Hertz 접촉 역학에 따라 실제 접촉 면적이 하중 P의 1승이 아닌 P의 2/3승 등에 비례하여 저하중에서 비선형성을 보이기 때문입니다."
+    },
+    {
+     "q": "세리아 슬러리의 SiO2 연마에서 프레스턴 계수 K_p를 지배하는 핵심 화학 반응 메커니즘은 무엇인가?",
+     "a": "세리아 표면의 Ce-OH 기와 산화막 표면의 Si-OH 기가 축합 반응을 일으켜 Ce-O-Si 결합을 형성한 뒤, 입자의 기계적 운동에 의해 Si 원자가 산화막 격자로부터 인발(tear-off)되는 화학적 활성화 속도가 K_p를 지배합니다."
+    },
+    {
+     "q": "P·V 곱을 계속 높여도 연마율이 포화되는 현상을 화학 속도론 관점에서 어떻게 설명할 수 있는가?",
+     "a": "기계적 전단에 의한 반응 생성물 탈리 속도가 슬러리 화학 첨가제 및 산화제에 의한 기판 표면의 수화 피막 형성 속도(화학적 반응 율속)를 초과하여 미반응 기판이 노출되지 못하기 때문입니다."
+    }
+   ],
+   "theme": "Preston 방정식과 제거율 모델링"
+  },
+  "news": [
+   {
+    "title": "Samsung Display recruits semiconductor glass substrate talent, signaling push into new business",
+    "source": "헤럴드경제",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oN25lb0lYRW0xSUE3bUE1eUdHbFloZTZyQVMtR3N3TTgwRTEyMjVFSkZqQi1WRmFvU1FTN19jaE9KY2lRTTlnV1FMVVZYbzNybWZsS1BZVQ?oc=5",
+    "date": "2026-11-26",
+    "lang": "en"
+   },
+   {
+    "title": "\"아들에게 '빨리 낫고 제주도 가자' 약속했는데\"…삼성 반도체 노동자 유족, 산재신청",
+    "source": "프레시안",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Vbkp4aXRMQWVSQklseTFvQ3Bja2M1WmJ5NnJrRU5wWVlWbks2aDhPYkIwR2VwcUJPSXBkeFlNLVc4UUczNVVjVWJheWZMNlBLZzNfNThhX3lTcFdGakJ6Nm5WdTZUcjk0TEk0?oc=5",
+    "date": "2026-11-26",
+    "lang": "ko"
+   },
+   {
+    "title": "Small beer",
+    "source": "Bits&Chips",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DUFV5RHhqamU2YjRHNzhxWTFMaGJaU1VOTnQyWXBSTDNrbnozTllYZFBLUWVNck1XZjhMd0E4RDYyUXpTUjFwY0F6UTV1Sm1kbFctNA?oc=5",
+    "date": "2026-11-25",
+    "lang": "en"
+   },
+   {
+    "title": "Chip Industry Technical Paper Roundup: Nov. 25",
+    "source": "Semiconductor Engineering",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQ1lZRWUyc3NPTG5KYi0tX1NJMWY2djdneGtHNWlNeVN3RTQwem5rNUtxMXpZQ0s4NzVsSnpGWnNTNG5DU2pmRWFxVnoxa0lHb01Pa3hrRWhyM0xaR2pPbmE5aUJsSEdxc2xkakRhRXpMdWlGTmV4aHNxeDMxRWhUeA?oc=5",
+    "date": "2026-11-25",
+    "lang": "en"
+   },
+   {
+    "title": "삼성 반도체 하청노동자 혈액암 '사망'…15·17라인서 7명 희생, 산재 인정 촉구",
+    "source": "한국NGO신문",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FdTladFRVTnk4ZV9jOTdLbE15akZFcEtUWTNzbUp5eHVCdEFoNUhMNjh6cEtmbnA3blV1a09ZM0UtUzh5Q2VIelNkaTZEYkd1dy1QRjlxd2daZUwxbkRoVmYwOXNaRVdM?oc=5",
+    "date": "2026-11-25",
+    "lang": "ko"
+   },
+   {
+    "title": "'진단 한 달만에 사망'... 삼성과의 싸움에 나선 이유",
+    "source": "OhmyNews",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HQVRrQ3Z1TUQ5UDl2dmdISG1KVTR3dmJ6UG1fOXBpZWJnTmlxTEtIR2VfM2N0bHM4aUJ0VE9DV25FVkEyVEVwNXBLeWtyVTJJRkUzQlhuNlBZajVYUThVUm1mdU93cGJwUEZ5SmhJUnA5c1l5?oc=5",
+    "date": "2026-11-25",
+    "lang": "ko"
+   },
+   {
+    "title": "삼성 반도체 공장서 15년 일하다 혈액암 사망…유족·시민단체 산재 인정 촉구",
+    "source": "KBS 뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1NjJVSGptR1VnVzgyWEtmSW9lQnppUi1YMy0xQjBzODI0d3RLbE9DWUNHTTFIb0RLem1nYzI2STZscmFsMUtVVlJ2VmU4NTkxOGJVN2ducVBrY28?oc=5",
+    "date": "2026-11-25",
+    "lang": "ko"
+   },
+   {
+    "title": "국립한국교통대 앵커(RISE)사업단 '반도체 핵심공정 실무역량 강화 프로그램' 운영",
+    "source": "충청비즈",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Wdmw2dzFsMk11ZmNZcklQRmVmLUNwVU13Q251eDdWaTk1dWFaQzg2U21lNkgwejlVbjFCUGZZa0tLRGVBcFZzRDQ5QTdDTnhQcm40VWN2Z0FMY0VOd2lBVHhn?oc=5",
+    "date": "2026-11-25",
+    "lang": "ko"
+   },
+   {
+    "title": "삼성전자 반도체 하청노동자 사망... 반올림 \"혈액암 사망 반복, 진상규명해야\"",
+    "source": "한국일보",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xWnkxV2tEcHVZTWVWMkZtOWtINHRTeWRVSHNrVDc5eXB1aFVyaFNmZ0FfYndUbTliQWhtYkl6Qmk3VFdWQ053OXZsQUJPOTBnZW1lUkRkUEF4WDVzVkdsM1JkY2JIdnVmbWpYaFJrcXNwTWM?oc=5",
+    "date": "2026-11-25",
+    "lang": "ko"
+   },
+   {
+    "title": "반올림, 삼성 반도체공장 직원 '혈액암' 사망 주장…유족 \"산재 인정해야\"",
+    "source": "뉴스웍스",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84Smw0bzF6M2pJTXFmMzlGSjFmNXJrRE1IbjRVczZBYTlaaFJWc2FQT3JtWGJxaC0wVjZObVB3QWRmNUI4cUxVN1lydV9vejNEeG11Q2liVkJhd0poenpzXzk4d3pvMzVyQ3JJV19kY9IBc0FVX3lxTFBVZmVZcG5ZVFZBOHdZcGFyQjZ6cUdCd3dEZzBIdTFJVVVMbUxNNHdZTG9mVXZTYmZDM0dEdF9CSzBSUlBuR1ViYmRIY2tnalo2LURBOEF3bkc0MkNzdmdDOTVJakp4eUNsSHZoMmtXbEM5Wlk?oc=5",
+    "date": "2026-11-25",
+    "lang": "ko"
+   },
+   {
+    "title": "에프엔에스테크, 유리기판용 CMP 패드 생산··고객사 테스트 병행",
+    "source": "데이터투자",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zc3RFUDgzWU9lQkhFdGVjOW1pYUUzOTVuU1Q1S2p3amFITnVLenJlX21NYk9BLWsxa2pFYmVVM3JsQTZHLXFYSGphaFBFS0RWUHc5TVVnTFZDdGc3QV9IbEpiUXQwZmlnRnNYOHlzaU1iODg?oc=5",
+    "date": "2026-11-24",
+    "lang": "ko"
+   },
+   {
+    "title": "[마켓인]올해 신규 인수 ‘0건’…바이아웃 명가 한앤코의 변신",
+    "source": "이데일리",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb1QxYVJwNjJPMlFHdklFZzZESWpsWVRBb2IzVjV2cVExRTlIdGFIMzFOODZBUnN4dFVhZDJteG9lYWtxT2JQSjdrWDN3RUdhNDBkV2VsX0ttWVRaYnF1c0xMQ2pUTUVMcUtISzhmcnlHUjlKWmlXTi1TdWt3cDZvbg?oc=5",
+    "date": "2026-11-24",
+    "lang": "ko"
+   },
+   {
+    "title": "㈜레저플러스, KX 주식 78만7954주 ↓…지분율 0.00%",
+    "source": "데이터투자",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ITmlSTmRFTHRvd1NtNFdWemNJeFpBTFFjWWlNaF9mSlpWc2tNb28wS3hZZzYzemRUZGM1WGF1bWtPWl85YXJ0ZVljbktubjZYRldTdTVUd0xzVWdlZlR5MHBsLTZNaDdIN3REMDE3U0lJM2c?oc=5",
+    "date": "2026-11-24",
+    "lang": "ko"
+   },
+   {
+    "title": "김효준, 글로벌테크놀로지 주식 1만8000주 ↑…지분율 11.34%",
+    "source": "데이터투자",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Bb3lCVld5UFU1Y2syS2NJbXRFZGQ1bDdzSzJnWHVwd1c2bzZvblNfTW1YVjR4SEFLOVM5ME0tUk5oaHRIR3dtdkduMmZYcW0wZl92QmhEeGJyMURfb2sxQ2lQUW53MlEyOFVKZEduT2p5TTg?oc=5",
+    "date": "2026-11-24",
+    "lang": "ko"
+   },
+   {
+    "title": "유제천 사장, NEW 주식 1991주 ↑…지분율 0.35%",
+    "source": "데이터투자",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZUndUQlFnU2FXaUlZQkRwNS1ma3pyMUUyNXpmSE1VWVpsMzdGbmtJMXNmTy03N2VCYUZLU3Y2SV9heEw3RG5oVFRhNXBjdE40d1Q5WWY3dnduOG5EUVFOQ0VwMXgwQ0RpTi1WRTNrUlBRUjQ?oc=5",
+    "date": "2026-11-24",
+    "lang": "ko"
+   },
+   {
+    "title": "최병홍 전무, 에스씨디 주식 2500주 ↑…지분율 0.06%",
+    "source": "데이터투자",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5LYnhXUFFQc3dFX0NrXzY1R3owTmNWSDg5dWRLZFIwSW92QTBRbHFqMHFDYXdVWFBlY3MxX2tjUXRpdFJrVGlSTzU3SEtKQTlPVE90dElMV1lqcEtyS3g2ckNyRmRpVHh5d0RKZjhJc2xZaEE?oc=5",
+    "date": "2026-11-24",
+    "lang": "ko"
+   },
+   {
+    "title": "심창우 전무, 한국토지신탁 주식 2만주 ↑…지분율 0.05%",
+    "source": "데이터투자",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8talhuSTdUcGFNV2MxeldHWnJ2SkNUcGhOcW8weXNETDA2S29NZTZLUkQxOVlyVWc0c3k5eEtBaklNSlFLakpteFc4RU9jOVp4SEJuVEZ5enJtQUx4dXZhNHk5YlIwdHh1OWFqVmpUclRLZVk?oc=5",
+    "date": "2026-11-24",
+    "lang": "ko"
+   },
+   {
+    "title": "김귀자 부사장, 유나이티드제약 주식 5115주 ↑…지분율 0.37%",
+    "source": "데이터투자",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGZXQzWTFIRm9kZUswQ3owUE5sQUdQdF84SjVNN05sVUNFdGJlZzM1ZElpaS0zM3p6VWdKbDZicUMyYldvdndpRHd5X3d6T241enQ1RDF5NWVtR0tDSk5Wenh5ekdRRF9XcXlEdlAwc3JXQkU?oc=5",
+    "date": "2026-11-24",
+    "lang": "ko"
+   },
+   {
+    "title": "정재열 대표이사, 두올 주식 5만8651주 ↓…지분율 0.79%",
+    "source": "데이터투자",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBiakRSX0JJeE9RcVZVcTdnTm1zdWNyRGo3alVNWF9ZdVItTy14YlNaaU81Zm56bFhoR0FIaE50N3Z2ZkNRUHVLQTNEcnZ4QWlzX3U1LWZSRXRrRE1aRjBib3RBNGphMTV5U2dMT3Q1MmpKc0U?oc=5",
+    "date": "2026-11-24",
+    "lang": "ko"
+   },
+   {
+    "title": "유니테스트, SK하이닉스와 57억원 규모 공급계약",
+    "source": "데이터투자",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9EcE5VVGxIZ2l2YjVVTldRaFdxeWl4YnQtM1VZSzRuRzgxcmlCdFZVNlp4RlpxQ2M4bV9KQ2xnUmpZb0RMLVdZaU5XTHE0TnBMdm40OUNFeTF1ZUZLMF9BVlVRZHRWbFBTTG5hdkVlNEtTQ00?oc=5",
+    "date": "2026-11-24",
+    "lang": "ko"
+   },
+   {
+    "title": "모다이노칩, 주식 병합·분할 전자등록으로 27일부터 거래정지",
+    "source": "데이터투자",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtMzVtMWRiUnpZdlNadXpaaUxiSmcycTBKUnlGekpJbnV4WnR1Q19PWGpQNW1LWmNLbkU0UVk1bXNsNFBBdmpTdUpydjNkZ2FfWXl3akROMC12V2U3YjhTNWdFbWFCQWllMzVfcE1xRXFkQWc?oc=5",
+    "date": "2026-11-24",
+    "lang": "ko"
+   },
+   {
+    "title": "예스티, 72억원 규모 Amkor向 eFurnace 계약",
+    "source": "데이터투자",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zRURJUWIyZXNxQ201U2lpOTBVSEJOcHNLMmZXMXo0cDVsM1FzTFNCTjROTVY3MmhPbXB4YW5yemExbUlIUmpwTzlfeldFOGltTTBld1RUOGpHOVhNY1JZUlFlXzdfcTBTb2d6Zml2dnE1Vmc?oc=5",
+    "date": "2026-11-24",
+    "lang": "ko"
+   },
+   {
+    "title": "앤디포스, 31억원 규모 자사주 78만757주 소각 결정",
+    "source": "데이터투자",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9XTlJob05TMnEzYnJjNUZaY2E1R2FqX1BWTktEOHZ2U2xqaEFpTTVfWlFrYjIxdkpLb21VYy11Q1ZKQTdmeHFmbjRIdFBUWHR2YkpJWjRsVG1vWDZFN1YzZnZQVERCQnJBaHYxbVlCZG1hejg?oc=5",
+    "date": "2026-11-24",
+    "lang": "ko"
+   },
+   {
+    "title": "iMBC, 대표이사 이동애로 변경",
+    "source": "데이터투자",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wLVdzeVc3Umg0VFpKRk9RQUtLVEZRTElyOGZpR2Nrcm04TnFnTHhmS2wzN3hiekJsNG9tcnJibDZnU3daUkdlTlNTOUFQODJOWHE5c1NGMFZDdUQzTlpiYS1PMUdfZlV2VFJ3WW8xYk5NYkE?oc=5",
+    "date": "2026-11-24",
+    "lang": "ko"
+   }
+  ]
+ }
+}
