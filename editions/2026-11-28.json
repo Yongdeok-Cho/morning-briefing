@@ -1,0 +1,795 @@
+{
+ "date": "2026-11-28",
+ "generated_at": "2026-11-28T11:55+09:00",
+ "summary": "무지립 연마와 세리아 반응성의 계면 제어",
+ "theme": "세리아 연마입자의 chemical tooth 메커니즘",
+ "day": 3,
+ "total_days": 22,
+ "rows": [
+  {
+   "name": "TSMC",
+   "code": "TSM",
+   "price": 353.3399963378906,
+   "chg": 3.2131799140241175,
+   "cap": 1832.588279808,
+   "cur": "$"
+  },
+  {
+   "name": "ASML",
+   "code": "ASML",
+   "price": 1325.8199462890625,
+   "chg": 1.7450955429645678,
+   "cap": 510.99451392,
+   "cur": "$"
+  },
+  {
+   "name": "Intel",
+   "code": "INTC",
+   "price": 57.400001525878906,
+   "chg": 5.379108205457755,
+   "cap": 305.080991744,
+   "cur": "$"
+  },
+  {
+   "name": "SK Hynix",
+   "code": "000660",
+   "price": 1110000.0,
+   "chg": 7.454017424975799,
+   "cap": 782742.35465728,
+   "cur": "₩"
+  },
+  {
+   "name": "Samsung",
+   "code": "005930",
+   "price": 179100.0,
+   "chg": 4.553415061295972,
+   "cap": 1166286.155415552,
+   "cur": "₩"
+  },
+  {
+   "name": "AMAT",
+   "code": "AMAT",
+   "price": 322.0400085449219,
+   "chg": 3.489946694759289,
+   "cap": 255.570132992,
+   "cur": "$"
+  }
+ ],
+ "tocs": [
+  null,
+  null
+ ],
+ "notices": [],
+ "data": {
+  "edition_summary": "무지립 연마와 세리아 반응성의 계면 제어",
+  "market_insight": {
+   "headline": "장비 랠리 이면의 소모품 계면 혁신",
+   "bullets": [
+    "**반도체 지수 랠리** — SK하이닉스(+7.45%)와 인텔(+5.38%) 중심의 장비·소재주 동반 상승.",
+    "**계면 결함 제로화 압박** — 선단 패키징 및 미세 공정에서 ==기존 지립 마모 한계 도달==.",
+    "**신기술 진입 가속** — 무지립 연마 스타트업 및 대체 필터링 소재 시장 확장 본격화."
+   ],
+   "longread": {
+    "title": "주가 랠리의 사각지대: 지립 마찰 중심 CMP의 물리적 한계와 계면 화학의 전이",
+    "dek": "장비와 소자 업체의 주가 반등 이면에서 벌어지는 소모품 기술 패러다임의 급격한 전환.",
+    "paragraphs": [
+     "SK하이닉스가 7.45%, 인텔이 5.38%, TSMC가 3.21% 상승하며 반도체 밸류체인 전반에 걸친 매수세가 확인되었다. 시장은 선단 공정 가동률 회복과 설비 증설 사이클 재개를 가격에 반영하고 있으나, 이는 제조 단가와 결함 제어라는 미시적 병목을 간과한 평가다. 고집적 소자 구조에서 연마 스텝 수가 누적될수록 기계적 절삭에 의존하는 슬러리는 수율 파괴의 주범이 된다.",
+     "기존의 기계적 연마는 프레스톤 방정식에 기반하여 하중과 상대 속도를 높여 제거율을 확보해 왔다. 그러나 미세 피치 배선과 박막 구조에서는 응력 집중에 따른 마이크로 스크래치와 절연막 손상이 치명적 불량으로 이어진다. ChEmpower의 무지립 CMP 기술 부각이나 세라믹 가공에서의 전해 펜톤 연마 연구는 물리적 마찰력을 화학적 산화 반응으로 대체하려는 산업계의 절박함을 반영한다.",
+     "소재 관점에서는 여과재(PPS 필터) 수요 확대와 무지립 화학 기구 도입이 맞물리며 슬러리 업체의 진입 장벽을 재정의하고 있다. 입자의 크기 분산도를 극한으로 좁히거나 입자 자체를 배제하고 산화·환원 착화 반응만으로 막질을 제거하는 기술은 기존 기계 가공 중심의 슬러리 비즈니스 모델을 위협한다. 결국 ==계면 화학 반응 제어권==을 쥐는 기업만이 다음 다운사이클 이전에 독점적 판가를 유지할 수 있다.",
+     "반면 연마 속도(Throughput)가 절대적인 양산 라인에서 무지립 또는 순수 화학 반응 기반 기술의 제거율이 기존 기계적 슬러리를 밑돌 경우, 공정 시간 증가에 따른 CoO 상승으로 인해 기술 전환은 지연될 수 있다."
+    ],
+    "pull_quote": "장비 주문의 회복보다 중요한 것은 마이크로 스크래치 한계를 돌파할 계면 반응 제어력이다.",
+    "watch": [
+     "ChEmpower 미국 R&D 센터 가동에 따른 무지립 기술 라이선스 추이",
+     "PPS 멤브레인 필터링 도입에 따른 입자 수 분산도 규격 강화",
+     "웨이퍼당 결함 밀도 허용치 축소에 따른 슬러리 조성 변화"
+    ]
+   }
+  },
+  "industry_needs": [
+   {
+    "need": "무지립 기반 결함 억제 연마",
+    "pain": "미세 배선 단차 해소 중 발생하는 잔류 스크래치와 입자 오염",
+    "refs": [
+     2,
+     21
+    ]
+   },
+   {
+    "need": "유리 기판 고평탄화 가공",
+    "pain": "신규 패키징용 대면적 유리 기판의 국소 평탄도 제어 난항",
+    "refs": [
+     7
+    ]
+   },
+   {
+    "need": "화학물질 환경안전성 확보",
+    "pain": "반도체 화학 약품 및 공정 부산물에 대한 현장 보건 안전 규제 강화",
+    "refs": [
+     3,
+     12
+    ]
+   }
+  ],
+  "cmp_tech": [
+   {
+    "tag": "무지립 평탄화 기술",
+    "title": "Abrasive-Free CMP를 통한 **스크래치 제로화** 및 계면 화학 제어",
+    "lede": "지립에 의한 기계적 마모를 배제하고 순수 전기화학 및 착화 반응으로 박막을 평탄화하는 기술 패러다임.",
+    "points": [
+     {
+      "label": "배경",
+      "text": "선단 공정 박막 두께 축소로 고체 지립에 의한 기계적 스크래치가 수율 저하 초래."
+     },
+     {
+      "label": "핵심 기술",
+      "text": "고체 입자 없이 착화제와 산화 반응을 활용해 표면 반응층만 선택 제거."
+     },
+     {
+      "label": "효과",
+      "text": "패턴 손상 원천 차단 및 연마 후 세정 공정 부하 대폭 절감."
+     },
+     {
+      "label": "시사점",
+      "text": "슬러리 콜로이드 안정성 관리 중심에서 표면 전기화학 제어로 R&D 축 이동."
+     }
+    ],
+    "key_figures": [
+     {
+      "value": "Zero",
+      "label": "Abrasive Slurry"
+     },
+     {
+      "value": "6–8% CAGR",
+      "label": "Filtration Demand Growth"
+     }
+    ],
+    "refs": [
+     1,
+     2,
+     21
+    ],
+    "players": [
+     {
+      "name": "ChEmpower",
+      "role": "슬러리",
+      "activity": "힐스보로 R&D 센터 개설 및 무지립 CMP 기술 개발 가속화",
+      "refs": [
+       2,
+       21
+      ]
+     },
+     {
+      "name": "삼성전자",
+      "role": "소자",
+      "activity": "선단 공정 제조 라인 운용 및 화학 물질 노출 저감 요구 직면",
+      "refs": [
+       3,
+       12
+      ]
+     }
+    ],
+    "longread": {
+     "title": "기계적 마찰의 배제: 무지립 연마가 슬러리 제형에 던지는 근본적 도전",
+     "dek": "물리적 압력 전달 매체인 고체 입자를 제거하고 계면 화학 반응으로 단차를 해소하는 전략.",
+     "paragraphs": [
+      "반도체 집적도가 2nm 이하로 진입하면서 배선 구조의 두께와 절연막 두께는 수 나노미터 단위로 축소되었다. 종래의 CMP는 슬러리 입자가 패드 돌기와 기판 사이에 끼어 회전하면서 발생하는 전단 응력으로 반응층을 제거해 왔다. 그러나 입자의 미세 응집체는 취약한 low-k 박막을 뜯어내거나 금속 배선 표면에 얕은 긁힘을 유발하며 치명적인 누설 전류를 초래한다.",
+      "ChEmpower가 제시한 무지립 연마는 기계적 충격을 유발하는 지립 자체를 제거하는 방향으로 접근한다. 연마 패드 표면의 화학적 개질 또는 약액 내의 전기화학적 촉매 반응을 통해 단차 돌출부의 산화막 형성 속도를 가속하고, 패드 접촉면에서만 착화 반응물을 선택적으로 용해시키는 메커니즘이다. 지립 침강이나 필터 막힘 문제를 근본적으로 우회할 수 있다는 공정상 이점도 수반된다.",
+      "그러나 무지립 제형은 유체역학적 윤활 상태에서 화학종의 물질 전달 속도에 평탄화 효율이 좌우된다. 돌출부와 함몰부 간의 국소적 유동 속도 차이가 작아질 경우, 돌출부 제거 선택비가 급격히 저하되어 디싱(dishing)이나 침식(erosion)을 제어하기 어렵다. 이는 슬러리 화학 조성 설계 시 고분자 억제제의 흡착 동역학과 탈착 메커니즘을 극한으로 튜닝해야 함을 뜻한다.",
+      "만약 무지립 연마액의 동적 반응 속도가 패턴 밀도에 따라 균일성을 확보하지 못한다면, ==화학적 단차 해소 한계==로 인해 범용 평탄화 공정으로의 전환은 난관에 부딪힐 수 있다."
+     ],
+     "pull_quote": "지립을 없애는 순간 슬러리 개발은 콜로이드 과학에서 순수 표면 전기화학 동역학으로 변환된다.",
+     "watch": [
+      "무지립 연마액의 박막 단차 선택비 데이터 공개 여부",
+      "선단 파운드리 양산 라인의 Abrasive-Free CMP 파일럿 평가 결과",
+      "신규 착화제 적용에 따른 폐수 처리 및 안전성 규제 부합성"
+     ]
+    },
+    "diagram": {
+     "title": "무지립 금속 연마 계면 구조",
+     "abrasive": "None (Abrasive-free)",
+     "pad": "Polyurethane Pad",
+     "polish_stop_after": 1,
+     "layers": [
+      {
+       "name": "수화 반응층",
+       "material": "Cu",
+       "role": "표면 반응층",
+       "thickness": 0.05,
+       "remove": true
+      },
+      {
+       "name": "벌크 구리막",
+       "material": "Cu",
+       "role": "금속 배선",
+       "thickness": 0.8,
+       "remove": true
+      },
+      {
+       "name": "확산 방지막",
+       "material": "TaN",
+       "role": "배리어층",
+       "thickness": 0.02,
+       "remove": false
+      },
+      {
+       "name": "층간 절연막",
+       "material": "low-k",
+       "role": "기판 절연체",
+       "thickness": 1.2,
+       "remove": false
+      }
+     ],
+     "caption": "고체 지립 없이 패드 접촉부 화학 반응만으로 표면 반응층을 제거하는 **무지립 CMP** 단면 구조."
+    }
+   },
+   {
+    "tag": "신규 기판 가공",
+    "title": "차세대 패키징을 위한 **유리 기판 고평탄화** 가공 기구",
+    "lede": "유리 기판 채용 가속화에 대응하는 고정밀 산화물 CMP 및 표면 결함 제어 공정.",
+    "points": [
+     {
+      "label": "배경",
+      "text": "유기 인터포저 한계 극복을 위해 반도체용 유리 기판 도입 본격화."
+     },
+     {
+      "label": "핵심 기술",
+      "text": "광학 유리 가공 메커니즘을 응용한 세리아 화학 결합 제거 극대화."
+     },
+     {
+      "label": "효과",
+      "text": "대면적 기판의 국소 표면 거칠기(Ra) 극소화 및 평탄도 확보."
+     },
+     {
+      "label": "시사점",
+      "text": "패키징용 유리 소재 전용 고선택비 세리아 슬러리 개발 시급."
+     }
+    ],
+    "key_figures": [
+     {
+      "value": "Q3",
+      "label": "Si2O5 2- Sheet Form Removal"
+     }
+    ],
+    "refs": [
+     7
+    ],
+    "players": [
+     {
+      "name": "삼성디스플레이",
+      "role": "소재",
+      "activity": "반도체 유리 기판 인력 채용 및 신규 사업 추진 가속화",
+      "refs": [
+       7
+      ]
+     }
+    ],
+    "longread": {
+     "title": "유리 기판의 진입: 광학 연마 메커니즘의 반도체 후공정 이식",
+     "dek": "대면적 패키징 기판의 치수 안정성을 담보하기 위한 규산염 화학 결합 분해 기구의 심화.",
+     "paragraphs": [
+      "고성능 컴퓨팅용 패키징에서 실리콘 인터포저와 플라스틱 기판의 열팽창 계수 불일치를 해결하기 위해 반도체용 유리 기판이 급부상하고 있다. 삼성디스플레이의 인력 확보 움직임은 디스플레이 공정 역량을 반도체 패키징 기판 가공으로 확장하려는 시도다. 유리는 강성이 높고 평탄도가 우수하지만 취성이 커 마이크로 크랙과 표면 결함 제어가 극도로 까다롭다.",
+      "광학 유리 가공에서 증명된 세리아 지립의 연마 메커니즘은 차세대 유리 기판 평탄화의 핵심 기초가 된다. 실리카 지립이 순수 기계적 마모에 의존하는 반면, 세리아는 표면의 Ce3+ 사이트가 유리의 Si-O-Si 네트워크를 공격하여 Ce-O-Si 결합을 형성한다. 이 결합이 패드의 전단 응력을 받을 때 Si-O 결합이 끊어지며 lumped Q3 시트 형태로 유리가 박리된다.",
+      "유리 기판 평탄화에서는 연마 속도뿐 아니라 표면 조도(Ra)를 서브 나노미터 수준으로 유지하는 것이 배선 형성의 전제 조건이다. 입자의 결정도, 특히 (111) 면의 배향성과 적절한 표면 거칠기를 갖춘 세리아 입자만이 결함 없이 결합 형성 에너지를 낮출 수 있다. 불소나 전이금속 도핑을 통해 결정 성장과 Ce3+ 농도를 정밀 제어하는 합성 기술이 요구된다.",
+      "다만 세리아 슬러리는 유리 표면에 강력한 화학 결합을 형성하는 특성 탓에 연마 후 잔류 입자 제거가 극도로 어렵다. ==세리아 잔류물 세정 기술==이 동반되지 않는다면 미세 회로 형성 공정에서 단선 및 쇼트를 유발하는 역효과를 낳을 수 있다."
+     ],
+     "pull_quote": "유리 기판 평탄화의 승부는 단순 연삭력이 아닌 Ce-O-Si 화학 결합의 동역학적 파단 제어에 있다.",
+     "watch": [
+      "삼성디스플레이 등 패널 업체의 반도체 유리 기판 파일럿 라인 스펙",
+      "유리 기판 전용 슬러리의 Ce3+/Ce4+ 비율 표준화 동향",
+      "대면적 유리 연마용 대형 패드 및 고유량 필터링 시스템 개발 추이"
+     ]
+    },
+    "diagram": {
+     "title": "유리 기판 평탄화 적층 구조",
+     "abrasive": "CeO2 (Ceria)",
+     "pad": "Polyurethane Pad with Zirconia",
+     "polish_stop_after": 0,
+     "layers": [
+      {
+       "name": "표면 수화 유리",
+       "material": "SiO2",
+       "role": "제거 대상층",
+       "thickness": 0.5,
+       "remove": true
+      },
+      {
+       "name": "고밀도 유리 코어",
+       "material": "SiO2",
+       "role": "지지 기판",
+       "thickness": 500.0,
+       "remove": false
+      }
+     ],
+     "caption": "CeO2 입자의 화학적 반응 결합을 통해 표면 수화 규산염층을 박리하는 **유리 기판 CMP** 구조."
+    }
+   }
+  ],
+  "papers": [
+   {
+    "toc": {
+     "problem": "광학 유리 연마용 세리아 성능 최적화",
+     "approach": "침전법 소성 및 불소 도핑 결정도 제어",
+     "outcome": "Q3 시트 형태 제거 및 Ce3+ 반응 입증",
+     "outcome_figure": "600 °C"
+    },
+    "points": [
+     {
+      "label": "문제",
+      "text": "Si 기판 및 광학 유리 연마에서 고효율 세리아 합성 공정의 결정도 및 반응 기구 규명 필요."
+     },
+     {
+      "label": "접근",
+      "text": "침전법과 다양한 소성 온도를 통해 무불소 및 불소 도핑 구형 세리아 합성 후 특성 분석."
+     },
+     {
+      "label": "결과",
+      "text": "(111) 결정면이 가장 결정적이며, 불소 도핑이 600°C 저온 소성에서도 높은 결정도와 입자 성장을 유도."
+     },
+     {
+      "label": "시사점",
+      "text": "연마 중 Ce4+가 Ce3+로 환원되며 Ce-O-Si 결합을 형성해 유리를 lumped Q3 형태로 분해."
+     }
+    ],
+    "key_figures": [
+     {
+      "value": "600 °C",
+      "label": "Fluorine-doped Calcination Temperature"
+     }
+    ],
+    "review": {
+     "verdict": "화학적 치아(chemical tooth) 메커니즘을 분광학적으로 명확히 증명한 연구.",
+     "strengths": [
+      "FT-IR 및 XPS를 결합하여 Ce-O-Si 결합 형성 및 Ce4+의 Ce3+ 환원 과정을 체계적으로 증명.",
+      "불소 도핑을 통해 소성 온도를 600°C로 낮추면서도 결정도를 극대화하는 에너지 저감 공정 제시."
+     ],
+     "limits": [
+      "K9 광학 유리 대상 평가로 한정되어 초미세 반도체 TEOS 및 low-k 박막에서의 선택비 데이터 부재.",
+      "불소 도핑 입자가 CMP 후 세정 공정에서 잔류 불소 오염을 유발할 가능성에 대한 평가 누락."
+     ],
+     "for_us": "당사 산화막 슬러리용 세리아 합성 시 불소 또는 희토류 도핑을 적용하여 저온 소성으로도 (111) 면 배향성을 높이는 공정을 도입해야 한다. 합성된 입자의 표면 Ce3+ 비율을 XPS로 정량화한 뒤, TEOS 웨이퍼 연마 시 Ce-O-Si 결합 형성 속도를 모니터링해야 한다. 아울러 연마 후 불소 이온 용출 및 잔류 결함 수준을 인라인 세정 조건에서 우선 검증할 필요가 있다."
+    },
+    "title": "Preparation of CeO2 Polishing Powder and Its Performance and Mechanism for Chemical Mechanical Polishing of Optical Glass",
+    "journal": "ACS Applied Materials & Interfaces",
+    "year": "2025",
+    "doi": "10.1021/acsami.4c21540",
+    "authors_list": [
+     "Wei Zhang",
+     "Peiwei Zhang",
+     "Wu Yuan",
+     "Xin Li",
+     "Xu Wang",
+     "Mitang Wang",
+     "Siqingaowa Jin",
+     "Wei Bi",
+     "Yan Chun Zhao",
+     "Wei Min Zhou",
+     "Dongliang Zhang"
+    ],
+    "corresponding_display": "Dongliang Zhang",
+    "corresponding_label": "Corresponding",
+    "affiliation": "University of Shanghai for Science and Technology",
+    "cited_by": 38,
+    "openalex": "https://openalex.org/W4408634423",
+    "verified": true
+   },
+   {
+    "toc": {
+     "problem": "원자 수준 평탄화를 위한 단분산 실리카 합성",
+     "approach": "양이온 계면활성제 적용 Stober법 합성",
+     "outcome": "표면 거칠기 Ra 0.933 nm 달성",
+     "outcome_figure": "1155.9 m2/g"
+    },
+    "points": [
+     {
+      "label": "문제",
+      "text": "반도체 소자 정밀도 제어를 위한 고비표면적 단분산 구형 실리카 합성 필요."
+     },
+     {
+      "label": "접근",
+      "text": "양이온 계면활성제(CTAB 등)를 활용한 개선된 Stöber 방식으로 균일 실리카 구체 제조."
+     },
+     {
+      "label": "결과",
+      "text": "50~150 nm 크기, 비표면적 최대 1155.9 m2/g 확보 및 웨이퍼 거칠기 Ra 0.933 nm로 개선."
+     },
+     {
+      "label": "시사점",
+      "text": "좁은 입도 분포와 높은 비표면적이 기계적 긁힘 방지와 균일 접촉 면적 확보에 직결."
+     }
+    ],
+    "key_figures": [
+     {
+      "value": "50-150 nm",
+      "label": "Silica Particle Size"
+     },
+     {
+      "value": "1155.9 m2/g",
+      "label": "Maximum Surface Specific Area"
+     },
+     {
+      "value": "0.933 nm",
+      "label": "Surface Roughness Ra"
+     }
+    ],
+    "review": {
+     "verdict": "단분산 콜로이드 실리카의 비표면적 제어를 통해 표면 조도를 개선한 정석적 합성 연구.",
+     "strengths": [
+      "CTAB 계면활성제를 통해 좁은 입도 분포와 1155.9 m2/g의 높은 비표면적을 재현성 있게 구현.",
+      "AFM 분석을 통해 실리콘 웨이퍼의 표면 거칠기(Ra)가 1.05 nm에서 0.933 nm로 감소함을 입증."
+     ],
+     "limits": [
+      "연마 제거율(MRR)의 정량적 수치가 제시되지 않아 순수 평탄화 효율 평가가 제한적임.",
+      "양이온 계면활성제 잔류물이 슬러리 안정성 및 웨이퍼 오염에 미치는 장기적 영향 검토 미흡."
+     ],
+     "for_us": "콜로이드 실리카 슬러리 개발 시 CTAB 기반 마이셀 템플릿을 도입해 비표면적 1000 m2/g 이상의 고다공성 단분산 입자를 시험 합성해야 한다. 입경 50~100 nm 범위에서 입도 분포 편차를 5% 이내로 제어한 후 웨이퍼 스크래치 저감 효과를 측정해야 한다. 특히 계면활성제 세정 공정성 확보를 위해 연마 후 잔류 유기물 검출 시험을 병행해야 한다."
+    },
+    "title": "Monodisperse SiO2 Spheres: Efficient Synthesis and Applications in Chemical Mechanical Polishing",
+    "journal": "Nanomaterials",
+    "year": "2025",
+    "doi": "10.3390/nano15090665",
+    "authors_list": [
+     "Jinlong Ge",
+     "Yu Ting Cao",
+     "Hui Han",
+     "Xiaoqi Jin",
+     "Jing Liu",
+     "Yuhong Jiao",
+     "Qiuqin Wang",
+     "Yan Gao"
+    ],
+    "corresponding_display": "Jinlong Ge",
+    "corresponding_label": "Corresponding",
+    "affiliation": "Bengbu University",
+    "cited_by": 7,
+    "openalex": "https://openalex.org/W4410028755",
+    "verified": true
+   }
+  ],
+  "study": {
+   "why_it_matters": [
+    {
+     "label": "왜",
+     "text": "세리아의 화학적 치아 메커니즘은 단순 마찰을 넘어 분자 수준 결합으로 산화막을 뜯어내는 본질이다."
+    },
+    {
+     "label": "연결",
+     "text": "계면의 Ce3+ 농도와 Ce-O-Si 결합 동역학을 제어해야 저하중에서도 고제거율-저결함을 동시 달성할 수 있다."
+    }
+   ],
+   "concept": {
+    "title": "Chemical Tooth 메커니즘과 Ce-O-Si 반응 동역학",
+    "equation": "≡Ce-OH + HO-Si≡ → ≡Ce-O-Si≡ + H2O → Ce-OH + lumped Q3 (Si2O5 2-)",
+    "equation_note": "세리아 표면 수산화기와 실리카 표면 실란올기의 탈수 축합 후 기계적 전단에 의해 규산염 시트 형태로 탈락.",
+    "points": [
+     {
+      "label": "의미",
+      "text": "Ce3+의 불포화 결합 사이트가 실리카의 Si-O 결합을 끊어내는 화학적 치아(tooth) 역할을 수행."
+     },
+     {
+      "label": "한계",
+      "text": "반응층 파단을 위한 최소 기계적 전단력이 가해지지 않으면 연마 속도가 정체되고 입자 고착 유발."
+     },
+     {
+      "label": "확장",
+      "text": "희토류(Nd 등) 도핑이나 불소 처리를 통해 표면 산소 결함 및 Ce3+ 비율을 극대화하여 화학적 작용 증폭 가능."
+     }
+    ],
+    "curve": {
+     "title": "표면 Ce3+ 농도에 따른 제거율(RR) 및 표면 결함 밀도 변화",
+     "shape": "peak",
+     "x_label": "표면 Ce3+ 이온 분율 (%)",
+     "y_label": "연마 제거율 (nm/min)",
+     "regions": [
+      {
+       "from": 0.0,
+       "to": 0.2,
+       "label": "기계적 마모 우세"
+      },
+      {
+       "from": 0.2,
+       "to": 0.6,
+       "label": "화학-기계 시너지 최적"
+      },
+      {
+       "from": 0.6,
+       "to": 1.0,
+       "label": "과반응 및 결함 급증"
+      }
+     ],
+     "marks": [
+      {
+       "at": 0.45,
+       "label": "최적 반응점 (Nd 4% 수준)"
+      }
+     ],
+     "caption": "Ce3+ 농도 증가에 따라 Ce-O-Si 결합이 강화되어 제거율이 정점에 도달하나, 과도할 경우 결함 발생."
+    },
+    "diagram": null
+   },
+   "readings": [
+    {
+     "focus": "지르코니아-세리아 복합 세라믹(Ce-TZP/A)의 기계적 파괴 인성 향상 기구와 **입계 안정성**.",
+     "title": "Current status of zirconia restoration",
+     "journal": "Journal of Prosthodontic Research",
+     "year": "2013",
+     "doi": "10.1016/j.jpor.2013.09.001",
+     "authors_list": [
+      "Takashi Miyazaki",
+      "Takashi Nakamura",
+      "Hideo Matsumura",
+      "Seiji Ban",
+      "Taira Kobayashi"
+     ],
+     "corresponding_display": "Takashi Miyazaki",
+     "corresponding_label": "Corresponding",
+     "affiliation": "SHOWA Medical University",
+     "cited_by": 923,
+     "openalex": "https://openalex.org/W1989540378",
+     "verified": true,
+     "type": "Seminal",
+     "authors": "Takashi Miyazaki et al."
+    },
+    {
+     "focus": "이트리아 함량 및 복합 조성에 따른 지르코니아 강도와 **표면 접촉부 응력 분산** 특성.",
+     "title": "Classification and Properties of Dental Zirconia as Implant Fixtures and Superstructures",
+     "journal": "Materials",
+     "year": "2021",
+     "doi": "10.3390/ma14174879",
+     "authors_list": [
+      "Seiji Ban"
+     ],
+     "corresponding_display": "Seiji Ban",
+     "corresponding_label": "Corresponding",
+     "affiliation": "Aichi Gakuin University",
+     "cited_by": 169,
+     "openalex": "https://openalex.org/W3198385681",
+     "verified": true,
+     "type": "Review",
+     "authors": "Seiji Ban"
+    },
+    {
+     "focus": "Nd3+ 도핑에 의한 세리아 팔면체 구조 형성, **Ce3+ 농도 극대화(4%)** 및 연마 제거율 상승 기구.",
+     "title": "Dual impact of Nd3+ doping on CeO2 abrasives: enhancing chemical and mechanical effects in chemical–mechanical polishing",
+     "journal": "Surface Science and Technology",
+     "year": "2025",
+     "doi": "10.1007/s44251-025-00072-x",
+     "authors_list": [
+      "Yesheng Zhang",
+      "Lei Hong",
+      "Jianhua Zhang",
+      "Liqiang Luo"
+     ],
+     "corresponding_display": "Lei Hong",
+     "corresponding_label": "Corresponding",
+     "affiliation": "Shanghai University",
+     "cited_by": 9,
+     "openalex": "https://openalex.org/W4407705336",
+     "verified": true,
+     "type": "Recent",
+     "authors": "Yesheng Zhang et al."
+    }
+   ],
+   "patents": [
+    {
+     "key_claim": "웨이퍼의 연마 영역별로 제1 및 제2 연마반에 서로 다른 사전 설정 압력을 순차 적용하는 단계적 가공 방식.",
+     "number": "CN118682653A",
+     "title": "A chemical mechanical polishing method and system",
+     "assignee": "星钥(珠海)半导体有限公司",
+     "year": "2024",
+     "verified": true
+    },
+    {
+     "key_claim": "주철 연마반 1차 가공 후 지르코니아가 인레이된 폴리우레탄 패드를 이용한 BGO 결정 표면 개질 및 조연마 기법.",
+     "number": "CN119036212A",
+     "title": "BGO surface modification method",
+     "assignee": "广东晶智光电科技有限公司",
+     "year": "2024",
+     "verified": true
+    }
+   ],
+   "plan": [
+    {
+     "time": "08:30",
+     "minutes": 25,
+     "task": "P1 및 R3 논문을 바탕으로 세리아 표면의 Ce3+/Ce4+ 비율이 Ce-O-Si 결합 에너지에 미치는 영향 수식화."
+    },
+    {
+     "time": "09:00",
+     "minutes": 25,
+     "task": "P2 단분산 고비표면적 실리카 합성 메커니즘을 당사 콜로이드 입경 제어 공정 시뮬레이션에 매핑."
+    },
+    {
+     "time": "09:30",
+     "minutes": 20,
+     "task": "T1 및 T2 특허의 연마 압력 단계 제어 및 복합 패드 인레이 구조가 저결함 공정에 주는 기술적 시사점 도출."
+    }
+   ],
+   "self_check": [
+    {
+     "q": "P1 논문에서 세리아 연마 시 유리가 제거되는 최종 화학적 형태는 무엇인가?",
+     "a": "Ce-O-Si 결합 형성 후 lumped Q3 (Si2O5 2- 시트) 형태로 유리가 박리 분해된다."
+    },
+    {
+     "q": "R3 논문에서 세리아에 Nd3+를 도핑했을 때 제거율이 정점을 찍는 최적 도핑 농도는 얼마인가?",
+     "a": "도핑량이 4%일 때 Ce3+ 함량과 재료 제거율(MRR)이 47.87 nm/min으로 정점에 도달한다."
+    },
+    {
+     "q": "P2 논문에서 CTAB 양이온 계면활성제를 적용해 합성한 실리카 입자의 최고 비표면적은 얼마인가?",
+     "a": "최고 비표면적은 약 1155.9 m2/g이다."
+    }
+   ],
+   "theme": "세리아 연마입자의 chemical tooth 메커니즘"
+  },
+  "news": [
+   {
+    "title": "PPS Films Market To 2035: Semiconductor Filtration Demand Supports 6–8% CAGR - News and Statistics",
+    "source": "IndexBox",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ2V3VkZEbHRpWXVsUTQ1UTZnS1Q1emNOc0FzOHlNM21idjAxRF9NbzFhdUlQeXZjQ18xM2hiS0ZfZWE4cnA2LWZHazYzS3NuUW91MmJXbXA5UGtlRUk4NlJNeG41VTgxTDJXY2VIUXlwdGNGY1NRZG1JREZtNkNNUXRycWk0NzkzUHdKMFdQd2RhOElpLXNPcThQaEtfQS1QM0lxMWpQbU12bnZIRnM2LQ?oc=5",
+    "date": "2026-11-28",
+    "lang": "en"
+   },
+   {
+    "title": "ChEmpower targets next-gen chip making with abrasive-free CMP technology",
+    "source": "Electronic Products & Technology",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNDVvWnBSZ1dNYVZzLWVrLWI2ODRkaGlVc2dmT1NpNENyV19jZDV0N1hhQjZGa1BobEFUNE9VbEZTVG5ObW95aHFDVnlYZ2l0SjNCN0paVWtWVnVvQTJhbG5rSmQ5c1VKdHhKWkkwdE93VHRaTUlFeTB3U3RNN3dxQldTek91Q2k4UEdMc1JiLWN1V2xjcy1B?oc=5",
+    "date": "2026-11-27",
+    "lang": "en"
+   },
+   {
+    "title": "반올림, 삼성 반도체 공정 노동자 산업보건 문제 심각 주장",
+    "source": "안전신문",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hWnpacURjYzRNOGtNdjJsVW5aQTE1SDhNSWZpNlNETm82eWlXYUIyNUlzNnNVTHhERzAyRTc1VHV3YzBUTDlZLTFOWEZDRGNQOVIzMlJvZEI4dlJmTXkyRkxHRDFIRXJVZzdYUi1CZG8?oc=5",
+    "date": "2026-11-27",
+    "lang": "ko"
+   },
+   {
+    "title": "에이머슬리, CES 2027서 반도체 공정제어 AI 'Amfibian' 공개... \"장비 변경 없이 고도화\" |",
+    "source": "에이빙",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pQXFPaEJCcTNrbkNvX3Zaak5BWGpWcklPaldoVkhjRTJTUW9QVnJ0VVc2enNodjRGVWozT1RBZFYtZjctb3l5UFpBQUpVdXJZZkxFdXJaVUV6OVU4RXZodnIybzAxOWhZZTI4?oc=5",
+    "date": "2026-11-27",
+    "lang": "ko"
+   },
+   {
+    "title": "CMP Polishing Pads Market in South Korea: Size, Trends and Forecast to 2035",
+    "source": "IndexBox",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSzN2RzFxUlhjQkMwamZkT1NZcldaZFUxdEdUbjBGNzJqQ0dPM0ZSd2ZUUWRwdC1ZT2hUYWRtdXBYTEo4Vkg5dnkta0ZIZjhwN0tWYTNGMDdiS1Eyd2VBTDJYYjRzSlJ2cXFoS3FWaW9ZaENvakcwczhEN2lrUGN5MDJGZlRraW03NFlvU1NyQ0tma3JBODJ3WE9DdzNaVDFHWXo1c1J3VkF0eWpwWVJiVw?oc=5",
+    "date": "2026-11-26",
+    "lang": "en"
+   },
+   {
+    "title": "Analysis of the Tungsten Chemical Mechanical Planarization",
+    "source": "openPR.com",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSHhxelBJNzRGZXlZcE16TGNBQTJVYWE2NTRrcGtyUFNUSEwtLXBwSmFXY2hGTm82dGRBdnRDQ2ExaHRuYWpkREdvdDA1TzdoTElTUktJam1WejA2RnNDc3BvTEg3NXlsMENMeDRnRzlDN003MTdKZkFHbElIWEpyMVpicHhDN3FSQmlhaWtvVkY5SHJDWGRwdHFn?oc=5",
+    "date": "2026-11-26",
+    "lang": "en"
+   },
+   {
+    "title": "Samsung Display recruits semiconductor glass substrate talent, signaling push into new business",
+    "source": "헤럴드경제",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oN25lb0lYRW0xSUE3bUE1eUdHbFloZTZyQVMtR3N3TTgwRTEyMjVFSkZqQi1WRmFvU1FTN19jaE9KY2lRTTlnV1FMVVZYbzNybWZsS1BZVQ?oc=5",
+    "date": "2026-11-26",
+    "lang": "en"
+   },
+   {
+    "title": "\"아들에게 '빨리 낫고 제주도 가자' 약속했는데\"…삼성 반도체 노동자 유족, 산재신청",
+    "source": "프레시안",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90TXU4dUdTczQ1bXMtdjRMMmxYN1FodUdJbzY4d3NYY3B2RW1FV3FEVm5xQzNfVUtnc2lJeTBKSXlhX01CQ2NxU3lCeGZyNzZmRXEwT21QaXJSYVBpV0xsR3lDdk1hSGJHTnpUdFZhcF9jbG9sMkFqQ2MxOFMyZkE?oc=5",
+    "date": "2026-11-26",
+    "lang": "ko"
+   },
+   {
+    "title": "Small beer",
+    "source": "Bits&Chips",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DUFV5RHhqamU2YjRHNzhxWTFMaGJaU1VOTnQyWXBSTDNrbnozTllYZFBLUWVNck1XZjhMd0E4RDYyUXpTUjFwY0F6UTV1Sm1kbFctNA?oc=5",
+    "date": "2026-11-25",
+    "lang": "en"
+   },
+   {
+    "title": "Chip Industry Technical Paper Roundup: Nov. 25",
+    "source": "Semiconductor Engineering",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQ1lZRWUyc3NPTG5KYi0tX1NJMWY2djdneGtHNWlNeVN3RTQwem5rNUtxMXpZQ0s4NzVsSnpGWnNTNG5DU2pmRWFxVnoxa0lHb01Pa3hrRWhyM0xaR2pPbmE5aUJsSEdxc2xkakRhRXpMdWlGTmV4aHNxeDMxRWhUeA?oc=5",
+    "date": "2026-11-25",
+    "lang": "en"
+   },
+   {
+    "title": "'진단 한 달만에 사망'... 삼성과의 싸움에 나선 이유",
+    "source": "OhmyNews",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HQVRrQ3Z1TUQ5UDl2dmdISG1KVTR3dmJ6UG1fOXBpZWJnTmlxTEtIR2VfM2N0bHM4aUJ0VE9DV25FVkEyVEVwNXBLeWtyVTJJRkUzQlhuNlBZajVYUThVUm1mdU93cGJwUEZ5SmhJUnA5c1l5?oc=5",
+    "date": "2026-11-25",
+    "lang": "ko"
+   },
+   {
+    "title": "삼성전자 반도체 하청노동자 사망... 반올림 \"혈액암 사망 반복, 진상규명해야\"",
+    "source": "한국일보",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xWnkxV2tEcHVZTWVWMkZtOWtINHRTeWRVSHNrVDc5eXB1aFVyaFNmZ0FfYndUbTliQWhtYkl6Qmk3VFdWQ053OXZsQUJPOTBnZW1lUkRkUEF4WDVzVkdsM1JkY2JIdnVmbWpYaFJrcXNwTWM?oc=5",
+    "date": "2026-11-25",
+    "lang": "ko"
+   },
+   {
+    "title": "올해 신규 인수 ‘0건’…바이아웃 명가 한앤코의 변신",
+    "source": "마켓인",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nUU1KcFlkSWlrd09GRUgwTTVfNTY2dzl3YllNZ21lcnZyaDlBQ3UtdnRQMHM3SV85b0dUT1pxTkYxNVplQlVJZzBVUFROeHFqdWFockx0OG5yeS1tVk5waDFNT0JFNkhtYmtGdGhGOEIxdw?oc=5",
+    "date": "2026-11-24",
+    "lang": "ko"
+   },
+   {
+    "title": "㈜레저플러스, KX 주식 78만7954주 ↓…지분율 0.00%",
+    "source": "데이터투자",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ITmlSTmRFTHRvd1NtNFdWemNJeFpBTFFjWWlNaF9mSlpWc2tNb28wS3hZZzYzemRUZGM1WGF1bWtPWl85YXJ0ZVljbktubjZYRldTdTVUd0xzVWdlZlR5MHBsLTZNaDdIN3REMDE3U0lJM2c?oc=5",
+    "date": "2026-11-24",
+    "lang": "ko"
+   },
+   {
+    "title": "김귀자 부사장, 유나이티드제약 주식 5115주 ↑…지분율 0.37%",
+    "source": "데이터투자",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGZXQzWTFIRm9kZUswQ3owUE5sQUdQdF84SjVNN05sVUNFdGJlZzM1ZElpaS0zM3p6VWdKbDZicUMyYldvdndpRHd5X3d6T241enQ1RDF5NWVtR0tDSk5Wenh5ekdRRF9XcXlEdlAwc3JXQkU?oc=5",
+    "date": "2026-11-24",
+    "lang": "ko"
+   },
+   {
+    "title": "신승영 대표이사, 에이텍모빌리티 주식 1만8567주 ↑…지분율 31.73%",
+    "source": "데이터투자",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxdVhOUzhiazQ0d1pPNHh2aGFOcVJwdy1aWkVyelI4U3YyajVVMWZhOTJqU2M1aEhHTk9qakFxQXZnbFF2QlBBVkdXa0p5bklYanBrZ0JCYmxkTG9sOW4wemxkQ0NpcXg4SG8zZ0ZWU0t0M0k?oc=5",
+    "date": "2026-11-24",
+    "lang": "ko"
+   },
+   {
+    "title": "여현국 대표이사, 유진테크놀로지 주식 7176주 ↑…지분율 19.07%",
+    "source": "데이터투자",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qZ0tqZHRWLS1Ycks5cV9ZOXJwd0RHdXVGdk9TaWVhOHlTQVVTWk5LUmR0cFFwOWNmV1VMeUZMQ08zeHExdTUyZVdTeC0xRDRLYnhoWEx4N1NZeHUtT0NsMzlRajd0a2NuMTI0UVlScVhfREU?oc=5",
+    "date": "2026-11-24",
+    "lang": "ko"
+   },
+   {
+    "title": "김영운 부사장, 에이치엔에스하이텍 주식 500주 ↑…지분율 0.03%",
+    "source": "데이터투자",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IX2J4REVzQnRsZ0UxRHRwc2tWcTZDR0J2QlY5QUFpcXE5QlBLYTdWQ3QtbU5RUVZyXzkySEN6YkRDXzMxNHZZV19SeUhmbktUUWNxaG5lbWZOa2hrZG91ZWNydDdNOHEtdTlyWUE5S2JYWU0?oc=5",
+    "date": "2026-11-24",
+    "lang": "ko"
+   },
+   {
+    "title": "한국거래소, 휴림에이텍에 현저한 시황변동 관련 조회공시 요구",
+    "source": "데이터투자",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90czQ1OU5VSUlNVG9PZEFmQ1ExMkF5NWNmQWNSUnVYQ2IyOTBRNWVYbnRqeEtYSXVoWjY1R3Vvb0M5ekVNMWlMRnRrV21Yc0JCLU1CRUR3cXozT1o4amxGRHhrTFJXU0xvcEY3RTdEVkNtMkU?oc=5",
+    "date": "2026-11-24",
+    "lang": "ko"
+   },
+   {
+    "title": "Optimised Electro-Fenton Polishing Balances Removal Rate and Flatness for Silicon Carbide",
+    "source": "Bioengineer.org",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMUxxLUl6QmxOSDBncmUwOVVRU3h3el9MMnBnX0tQdlVfNGV6YTJpZTFSb01mV0F4MDBxR284eTVPSDFaVGlac0ZjMURzSzNNSE5JTkNTNzRHajN2VFVrbG1GZTFGNmFKOUYya2lmdUFlWjVEdWpmZXR1RlR0X01sXzFqaVVhcWl4X0xYdFJmUktXVThDaDZhbGRQRXdBbXRzdlIxVnBrTGd5Ny11aVNQN3phTXU?oc=5",
+    "date": "2026-11-23",
+    "lang": "en"
+   },
+   {
+    "title": "Chipmaking tech startup ChEmpower opens Hillsboro R&D center",
+    "source": "The Business Journals",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQmh3aE85bC1JODRZeTlCSFhmazBFNndtOVM1UFJoTEtySjNkcW5fZzBkY2tza2ZZbWF4MHVUQW4tcWxGYzVfTHdXZ3gxZGU2dkV2OTREQlNmTXIxRHhhTEdYamNkSmpDY05nZTNRVUNmNF9penpXWjV4TXl6aTVneFczS19LNVA3bm9wUG9vWE5oZVJJQlRBTFd2d2M2ZFU?oc=5",
+    "date": "2026-11-19",
+    "lang": "en"
+   },
+   {
+    "title": "권상훈 대표이사, 네오티스 주식 3000주 ↑…지분율 12.35%",
+    "source": "데이터투자",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yNTAxaUxwa0ktdXlRWlptXzZkSnV4OVMtclBtNjRUVWR2ZERWTVlTOEs5dXpxdm4wYjE2Zm5PLWVCd2RLcmZOc0RHSi0takNKaTFKRk5Ia0E4bndZdlZybktVSnBZQ0JQZU93TlBrUHZRdVU?oc=5",
+    "date": "2026-11-19",
+    "lang": "ko"
+   },
+   {
+    "title": "\"가끔 내가 '무인 편의점 알바인가' 해요\" 반도체 장비 '파수꾼' 비정규직 PM",
+    "source": "프레시안",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BQ2dyYldObFBqMTdBNjhlQXVBMFFEZ3JCampzOGFGaE04QVVXam1KdlRkRFdmWV80aFdPUWNmS2lwR0ZBWVB1aFVONERZcXlMcUhCMlMtUEp1MUJLMzZ3UFNleTBRUUxVa3F6Q2twZEZ4QVBiTUNPQnhKQQ?oc=5",
+    "date": "2026-11-18",
+    "lang": "ko"
+   },
+   {
+    "title": "유제천 사장, NEW 주식 1만3778주 ↑…지분율 0.34%",
+    "source": "데이터투자",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zcUVvNDRSTS1YREJpYmVWZ0xkXzRUeXdCMG9fNGRhWG1WR2VPNWtwZzdSYkRIU2VqQy1ONmtUMUkwUGptVUxWYTg3SjhFbndWZ2p2RVhFLWZRVkhGMDU3VkhGNnd0RXdmTnFCZHpDOTVSVUE?oc=5",
+    "date": "2026-11-17",
+    "lang": "ko"
+   }
+  ]
+ }
+}
